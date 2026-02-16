@@ -23,7 +23,22 @@ const localeNames: Record<string, string> = {
   hi: "हिन्दी",
   th: "ไทย",
   vi: "Tiếng Việt",
-  id: "Bahasa",
+  id: "Bahasa Indonesia",
+  tr: "Türkçe",
+  nl: "Nederlands",
+  pl: "Polski",
+  sv: "Svenska",
+  da: "Dansk",
+  nb: "Norsk",
+  fi: "Suomi",
+  cs: "Čeština",
+  he: "עברית",
+  ms: "Bahasa Melayu",
+  tl: "Filipino",
+  uk: "Українська",
+  ro: "Română",
+  hu: "Magyar",
+  el: "Ελληνικά",
 };
 
 export default function Header() {

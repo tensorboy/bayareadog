@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - Koirasi Opas Bay Arealle",
+    "description": "Paras opas koiranomistajille Bay Arealla."
+  },
+  "nav": {
+    "home": "Etusivu",
+    "trails": "Reitit",
+    "eat": "Syö",
+    "play": "Leiki",
+    "shop": "Kauppa",
+    "learn": "Opi"
+  },
+  "hero": {
+    "title": "Koirasi Opas Bay Arealle",
+    "subtitle": "Löydä parhaat reitit, koiraystävälliset ravintolat, puistot ja kaupat.",
+    "cta": "Tutustu Nyt",
+    "search_placeholder": "Hae reittejä, ravintoloita, puistoja..."
+  },
+  "categories": {
+    "section_title": "Tutustu Kategorioittain",
+    "trails": {
+      "title": "Reitit ja Vaellus",
+      "description": "Vapaana kulkevien reittejä, rantakävelyitä ja luonnonkauniita vaelluksia.",
+      "cta": "Etsi Reittejä"
+    },
+    "eat": {
+      "title": "Syö ja Juo",
+      "description": "Koiraystävällisiä ravintoloita, kahviloita ja panimoita.",
+      "cta": "Etsi Ravintoloita"
+    },
+    "play": {
+      "title": "Leiki ja Viihdy",
+      "description": "Koirapuistoja, rantoja, tapahtumia ja aktiviteetteja.",
+      "cta": "Etsi Aktiviteetteja"
+    },
+    "shop": {
+      "title": "Kauppa",
+      "description": "Eläinkauppoja, trimmaamoja ja eläinlääkäreitä.",
+      "cta": "Etsi Kauppoja"
+    },
+    "learn": {
+      "title": "Opi",
+      "description": "Koulutusvinkkejä, ravitsemusoppaita ja terveysneuvoja.",
+      "cta": "Aloita Oppiminen"
+    }
+  },
+  "featured": {
+    "title": "Suosittua Tällä Viikolla",
+    "view_all": "Näytä Kaikki"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Ikoninen vapaana kulkevien ranta upeilla merinäkymillä.",
+      "tags": "Vapaana,Ranta,Luonnonkaunis"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "Bay Arean suurin vapaana kulkevien koirapuisto.",
+      "tags": "Vapaana,Rantaviiva,Suuri"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Useita Sijainteja",
+      "description": "Koiraystävällinen terassiravintola koiramenulla.",
+      "tags": "Ravintola,Terassi,Koiramenu"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Premium raakakoiranruokaa paikallisilta tiloilta.",
+      "tags": "Raakaruoka,Paikallinen,Luomu"
+    }
+  },
+  "newsletter": {
+    "title": "Pysy Ajan Tasalla",
+    "description": "Saa viikoittaiset vinkit koiraystävällisistä paikoista.",
+    "placeholder": "Syötä sähköpostisi",
+    "button": "Tilaa",
+    "privacy": "Kunnioitamme yksityisyyttäsi."
+  },
+  "todaysPick": {
+    "title": "Päivän Valinta",
+    "random": "Satunnainen Seikkailu",
+    "viewDetails": "Näytä Tiedot",
+    "weekendAdventure": "Viikonloppuseikkailu",
+    "beatTheHeat": "Päihitä Helle",
+    "winterWalk": "Talvikävely",
+    "quickWalk": "Pikakävely"
+  },
+  "map": {
+    "title": "Tutustu Bay Areaan",
+    "loading": "Ladataan karttaa...",
+    "all": "Kaikki",
+    "offLeash": "Vapaana",
+    "onLeash": "Hihnassa",
+    "restaurants": "Ravintolat",
+    "rawFood": "Raakaruoka",
+    "legendRestaurant": "Ravintola",
+    "legendRawFood": "Raakaruokakauppa"
+  },
+  "trailFilters": {
+    "all": "Kaikki",
+    "offLeash": "Vapaana",
+    "onLeash": "Hihnassa",
+    "mixed": "Sekoitettu",
+    "allAreas": "Kaikki Alueet",
+    "anyDifficulty": "Kaikki Vaikeustasot",
+    "easy": "Helppo",
+    "moderate": "Keskivaikea",
+    "hard": "Vaikea",
+    "showing": "{count} / {total} reittiä",
+    "noResults": "Ei reittejä",
+    "noResultsHint": "Säädä suodattimiasi.",
+    "sortRating": "Parhaiten Arvosteltu",
+    "sortName": "Nimi A-Ö",
+    "sortDifficulty": "Helpoin Ensin"
+  },
+  "trailDetail": {
+    "backToTrails": "Takaisin Reitteihin",
+    "aboutTrail": "Tästä Reitistä",
+    "features": "Ominaisuudet",
+    "bestFor": "Paras",
+    "location": "Sijainti",
+    "getDirections": "Reittiohjeet Google Mapsissa",
+    "trailInfo": "Reittitiedot",
+    "parking": "Pysäköinti",
+    "water": "Vesi",
+    "tips": "Vinkit",
+    "bestTime": "Paras Aika",
+    "photoSpot": "Kuvauspaikka",
+    "nearby": "Lähistöllä",
+    "food": "Ruoka",
+    "vet": "Eläinlääkäri",
+    "officialWebsite": "Virallinen Sivusto",
+    "home": "Etusivu",
+    "trails": "Reitit",
+    "largeDogs": "Suuret Koirat",
+    "smallDogs": "Pienet Koirat",
+    "seniorDogs": "Iäkkäät Koirat",
+    "puppies": "Pennut",
+    "waterDogs": "Vesikoirat",
+    "shyDogs": "Ujot Koirat"
+  },
+  "mobileNav": {
+    "home": "Koti",
+    "trails": "Reitit",
+    "eat": "Syö",
+    "shop": "Kauppa",
+    "more": "Lisää"
+  },
+  "eat": {
+    "restaurantsTitle": "Koiraystävälliset Ravintolat",
+    "restaurantsSubtitle": "Parhaat terassit Bay Arealla.",
+    "rawFoodTitle": "Raakaruoka ja Luut",
+    "rawFoodSubtitle": "Mistä ostaa raaka-aineita.",
+    "priceCompareTitle": "Hintavertailu",
+    "priceCompareSubtitle": "Vertaa hintoja suosituissa kaupoissa.",
+    "budgetTitle": "Budjettisuunnitelmat",
+    "budgetSubtitle": "Valitse budjettiin sopiva suunnitelma.",
+    "item": "Tuote",
+    "patio": "Terassi",
+    "dogMenu": "Koiramenu",
+    "visit": "Vieraile"
+  },
+  "learn": {
+    "nutrition": "Ravitsemus",
+    "recipes": "Reseptit",
+    "training": "Koulutus",
+    "health": "Terveys",
+    "guide": "Opas",
+    "rawFeedingTitle": "Raakaruokinnan Opas (BARF)",
+    "rawFeedingDesc": "Opi 80-10-10 suhde.",
+    "homemadeTitle": "Kotitekoisen Koiranruoan Reseptit",
+    "homemadeDesc": "Eläinlääkärin hyväksymiä reseptejä.",
+    "offLeashTitle": "Vapaana Koulutus",
+    "offLeashDesc": "Takaisinkutsu koulutus Bay Arean reiteille.",
+    "toxicFoodsTitle": "Myrkylliset Ruoat Koirille",
+    "toxicFoodsDesc": "Mitä välttää.",
+    "newOwnerTitle": "Uuden Koiranomistajan Tarkistuslista",
+    "newOwnerDesc": "Kaikki mitä tarvitset Bay Arealla.",
+    "calciumTitle": "Kalsiumlisän Opas",
+    "calciumDesc": "Miksi kotitekoiset ruokavaliot puuttuvat kalsiumia.",
+    "balanceIT": "Balance IT Reseptigeneraattori",
+    "rawFeedingGuide": "Raakaruokinnan Opas",
+    "vetApproved": "Eläinlääkärin Hyväksymät",
+    "akcIngredients": "AKC Ainesosopas",
+    "aspcaList": "ASPCA Myrkkyluettelo",
+    "balanceITSupp": "Balance IT Lisäravinteet",
+    "toolsSection": "Interaktiiviset Työkalut"
+  },
+  "play": {
+    "dogParksTitle": "Koirapuistot ja Rannat",
+    "dogParksSubtitle": "Parhaat vapaana kulkevien puistot Bay Arealla.",
+    "fenced": "Aidattu",
+    "separateAreas": "Erilliset Alueet"
+  },
+  "shop": {
+    "petStore": "Eläinkauppa",
+    "grooming": "Trimmaus",
+    "vet": "Eläinlääkäri",
+    "training": "Koulutus",
+    "emergency24h": "24h Päivystys"
+  },
+  "notFound": {
+    "title": "Tämä pentu eksyi reitiltä!",
+    "description": "Etsimääsi sivua ei löydy.",
+    "goHome": "Takaisin Etusivulle",
+    "exploreTrails": "Tutustu Reitteihin"
+  },
+  "footer": {
+    "tagline": "Autamme Bay Arean koiria elämään parasta elämäänsä.",
+    "about": "Tietoja",
+    "contact": "Yhteystiedot",
+    "privacy": "Tietosuoja",
+    "terms": "Ehdot",
+    "copyright": "Bay Area Dog. Kaikki oikeudet pidätetään."
+  },
+  "foodSafety": {
+    "title": "Koiranruoan Turvallisuustarkistus",
+    "subtitle": "Mitkä ihmisten ruoat ovat turvallisia koirallesi.",
+    "home": "Koti",
+    "learn": "Opi",
+    "searchPlaceholder": "Hae ruokaa...",
+    "filterAll": "Kaikki",
+    "safe": "Turvallinen",
+    "cautionLabel": "Varoitus",
+    "dangerous": "Vaarallinen",
+    "emergency": "Hätätapaus",
+    "noResults": "Ei tuloksia.",
+    "cat_all": "Kaikki",
+    "cat_fruit": "Hedelmät",
+    "cat_vegetable": "Vihannekset",
+    "cat_protein": "Proteiini",
+    "cat_dairy": "Maito",
+    "cat_grain": "Vilja",
+    "cat_other": "Muu"
+  },
+  "foodCalculator": {
+    "title": "Raakaruoka Laskin",
+    "subtitle": "Laske päivittäinen raakaruoan määrä.",
+    "home": "Koti",
+    "learn": "Opi",
+    "weightLabel": "Koiran Paino",
+    "activityLabel": "Aktiivisuustaso",
+    "activity_low": "Matala",
+    "activity_normal": "Normaali",
+    "activity_high": "Korkea",
+    "infoNote": "Laskin käyttää BARF (80-10-10). Konsultoi eläinlääkäriäsi.",
+    "dailyAmount": "Päivittäinen Määrä",
+    "perDay": "päivässä",
+    "perWeek": "viikossa",
+    "muscleMeat": "Lihaskudos",
+    "rawBone": "Raaka Luu",
+    "organ": "Elin",
+    "liver": "Maksa",
+    "veggies": "Vihannekset ja Hedelmät",
+    "estimatedCost": "Arvioitu Kuukausihinta",
+    "budgetPlan": "Budjetti",
+    "budgetDesc": "99 Ranch, perus",
+    "standardPlan": "Standardi",
+    "standardDesc": "Sekoitetut lähteet",
+    "premiumPlan": "Premium",
+    "premiumDesc": "Luomu, nurmirehu"
+  },
+  "emergencyCard": {
+    "title": "Koiran Hätäkortti",
+    "subtitle": "Hätäyhteystiedot, myrkytysoireet ja ensiapu.",
+    "home": "Koti",
+    "learn": "Opi",
+    "printCard": "Tulosta Tämä Kortti",
+    "poisonControl": "ASPCA Myrkytystiedotus",
+    "poisonNote": "Saatavilla 24/7.",
+    "symptomsTitle": "Myrkytysoireet",
+    "symptom_vomiting": "Oksentelu",
+    "symptom_diarrhea": "Ripuli",
+    "symptom_drooling": "Liiallinen kuolaaminen",
+    "symptom_lethargy": "Väsymys tai heikkous",
+    "symptom_seizures": "Vapina tai kouristukset",
+    "symptom_breathing": "Hengitysvaikeudet",
+    "symptom_collapse": "Romahdus",
+    "symptom_pawing": "Tassuttelu suulla",
+    "firstAidTitle": "Ensiapu",
+    "firstAid_step1": "Pysy rauhallisena. Siirrä koira pois vaarasta.",
+    "firstAid_step2": "Soita ASPCA (888) 426-4435 tai päivystyseläinlääkäri.",
+    "firstAid_step3": "ÄLÄ aiheuta oksentelua ilman neuvoa.",
+    "firstAid_step4": "Kirjaa mitä koira söi, kuinka paljon ja milloin.",
+    "firstAid_step5": "Kuljeta lähimpään 24h päivystyseläinlääkäriin.",
+    "emergencyVets": "24h Päivystyseläinlääkärit Bay Arealla",
+    "allAreas": "Kaikki Alueet",
+    "visitWebsite": "Vieraile Sivustolla"
+  },
+  "hikingChecklist": {
+    "title": "Koiran Vaelluslista",
+    "subtitle": "Kaikki mitä tarvitset vaellukselle koirasi kanssa.",
+    "home": "Koti",
+    "learn": "Opi",
+    "progress": "{count} / {total} pakattu",
+    "reset": "Nollaa",
+    "item_water_bottle": "Vesipullo koiralle",
+    "item_collapsible_bowl": "Taittuva vesikuppi",
+    "item_extra_water": "Lisävesi",
+    "item_leash": "Hihna + vara",
+    "item_harness": "Valjaat tunnistuksella",
+    "item_poop_bags": "Kakkapussit (ylimääräisiä!)",
+    "item_treats": "Koulutusherkut",
+    "item_first_aid": "Ensiapupakkaus",
+    "item_id_tags": "Tunnistusmerkinnät ja sirutieto",
+    "item_flea_tick": "Kirppu- ja punkkisuoja",
+    "item_paw_balm": "Tassubalsami",
+    "item_towel": "Pyyhe",
+    "item_sunscreen": "Koiraturvallinen aurinkosuoja",
+    "item_booties": "Koiranjalkineet",
+    "item_reflective": "Heijastinvarusteet",
+    "item_phone_charged": "Ladattu puhelin",
+    "tipsTitle": "Vinkit",
+    "tip1": "Tarkista reitin hihnakäytäntö ennen lähtöä.",
+    "tip2": "Aloita lyhyillä vaelluksilla pentujen kanssa.",
+    "tip3": "Vältä vaellusta 10:00-16:00 kesällä.",
+    "tip4": "Anna aina tilaa muille vaeltajille."
+  },
+  "seasonal": {
+    "spring_title": "Kevät on Täällä!",
+    "spring_tip": "Villikukkasesonki. Varo kettuhäntiä reiteillä.",
+    "summer_title": "Kesäturvallisuus",
+    "summer_tip": "Vältä vaellusta 10:00-16:00 — kuuma asfaltti polttaa tassuja!",
+    "fall_title": "Syysseikkailut",
+    "fall_tip": "Täydellinen vaellussää! Lyhyempi päivänvalo — ota heijastimet mukaan.",
+    "winter_title": "Talvivinkit",
+    "winter_tip": "Sadekausi = mutaiset reitit. Ota pyyhkeet mukaan.",
+    "explore": "Tutustu Reitteihin"
+  },
+  "search": {
+    "placeholder": "Hae reittejä, ravintoloita, ruokaa...",
+    "hint": "Kirjoita vähintään 2 merkkiä",
+    "noResults": "Ei tuloksia.",
+    "escHint": "Paina Esc sulkeaksesi"
+  }
+}

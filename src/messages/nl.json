@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - Jouw Hondengids voor de Bay Area",
+    "description": "De ultieme gids voor hondenbezitters in de Bay Area."
+  },
+  "nav": {
+    "home": "Home",
+    "trails": "Paden",
+    "eat": "Eten",
+    "play": "Spelen",
+    "shop": "Winkel",
+    "learn": "Leren"
+  },
+  "hero": {
+    "title": "Jouw Hondengids voor de Bay Area",
+    "subtitle": "Ontdek de beste wandelpaden, hondvriendelijke restaurants, parken en winkels.",
+    "cta": "Ontdek Nu",
+    "search_placeholder": "Zoek paden, restaurants, parken..."
+  },
+  "categories": {
+    "section_title": "Ontdek per Categorie",
+    "trails": {
+      "title": "Paden & Wandelen",
+      "description": "Loslooppaden, strandwandelingen en schilderachtige routes.",
+      "cta": "Vind Paden"
+    },
+    "eat": {
+      "title": "Eten & Drinken",
+      "description": "Hondvriendelijke restaurants, cafés en brouwerijen.",
+      "cta": "Vind Restaurants"
+    },
+    "play": {
+      "title": "Spelen & Plezier",
+      "description": "Hondenparken, stranden, evenementen en activiteiten.",
+      "cta": "Vind Activiteiten"
+    },
+    "shop": {
+      "title": "Winkel",
+      "description": "Dierenwinkels, trimsalons en dierenartsen.",
+      "cta": "Vind Winkels"
+    },
+    "learn": {
+      "title": "Leren",
+      "description": "Trainingstips, voedingsgidsen en gezondheidsadvies.",
+      "cta": "Begin met Leren"
+    }
+  },
+  "featured": {
+    "title": "Populair Deze Week",
+    "view_all": "Bekijk Alles"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Iconisch losloopstrand met prachtig oceaanuitzicht.",
+      "tags": "Losloop,Strand,Schilderachtig"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "Het grootste losloop hondenpark in de Bay Area.",
+      "tags": "Losloop,Waterkant,Groot"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Meerdere Locaties",
+      "description": "Hondvriendelijk terrasdiner met hondenmenu.",
+      "tags": "Restaurant,Terras,Hondenmenu"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Premium rauw hondenvoer van lokale boerderijen.",
+      "tags": "Rauw Voer,Lokaal,Biologisch"
+    }
+  },
+  "newsletter": {
+    "title": "Blijf Op de Hoogte",
+    "description": "Ontvang wekelijkse tips voor hondvriendelijke plekken.",
+    "placeholder": "Voer je e-mail in",
+    "button": "Abonneren",
+    "privacy": "We respecteren je privacy."
+  },
+  "todaysPick": {
+    "title": "Tip van de Dag",
+    "random": "Willekeurig Avontuur",
+    "viewDetails": "Bekijk Details",
+    "weekendAdventure": "Weekendavontuur",
+    "beatTheHeat": "Ontvlucht de Hitte",
+    "winterWalk": "Winterwandeling",
+    "quickWalk": "Korte Wandeling"
+  },
+  "map": {
+    "title": "Ontdek de Bay Area",
+    "loading": "Kaart laden...",
+    "all": "Alles",
+    "offLeash": "Losloop",
+    "onLeash": "Aangelijnd",
+    "restaurants": "Restaurants",
+    "rawFood": "Rauw Voer",
+    "legendRestaurant": "Restaurant",
+    "legendRawFood": "Rauw Voer Winkel"
+  },
+  "trailFilters": {
+    "all": "Alles",
+    "offLeash": "Losloop",
+    "onLeash": "Aangelijnd",
+    "mixed": "Gemengd",
+    "allAreas": "Alle Gebieden",
+    "anyDifficulty": "Elke Moeilijkheid",
+    "easy": "Makkelijk",
+    "moderate": "Gemiddeld",
+    "hard": "Moeilijk",
+    "showing": "{count} van {total} paden",
+    "noResults": "Geen paden gevonden",
+    "noResultsHint": "Pas je filters aan.",
+    "sortRating": "Hoogst Beoordeeld",
+    "sortName": "Naam A-Z",
+    "sortDifficulty": "Makkelijkst Eerst"
+  },
+  "trailDetail": {
+    "backToTrails": "Terug naar Paden",
+    "aboutTrail": "Over Dit Pad",
+    "features": "Kenmerken",
+    "bestFor": "Beste Voor",
+    "location": "Locatie",
+    "getDirections": "Route op Google Maps",
+    "trailInfo": "Padinformatie",
+    "parking": "Parkeren",
+    "water": "Water",
+    "tips": "Tips",
+    "bestTime": "Beste Tijd",
+    "photoSpot": "Fotopunt",
+    "nearby": "In de Buurt",
+    "food": "Eten",
+    "vet": "Dierenarts",
+    "officialWebsite": "Officiële Website",
+    "home": "Home",
+    "trails": "Paden",
+    "largeDogs": "Grote Honden",
+    "smallDogs": "Kleine Honden",
+    "seniorDogs": "Oudere Honden",
+    "puppies": "Puppy's",
+    "waterDogs": "Waterhonden",
+    "shyDogs": "Verlegen Honden"
+  },
+  "mobileNav": {
+    "home": "Home",
+    "trails": "Paden",
+    "eat": "Eten",
+    "shop": "Winkel",
+    "more": "Meer"
+  },
+  "eat": {
+    "restaurantsTitle": "Hondvriendelijke Restaurants",
+    "restaurantsSubtitle": "De beste terrassen en cafés in de Bay Area.",
+    "rawFoodTitle": "Rauw Voer & Beenderen",
+    "rawFoodSubtitle": "Waar je rauwe ingrediënten kunt kopen.",
+    "priceCompareTitle": "Rauw Voer Prijsvergelijking",
+    "priceCompareSubtitle": "Vergelijk prijzen bij populaire winkels.",
+    "budgetTitle": "Rauw Voeding Budgetplannen",
+    "budgetSubtitle": "Kies een plan dat bij je budget past.",
+    "item": "Product",
+    "patio": "Terras",
+    "dogMenu": "Hondenmenu",
+    "visit": "Bezoek"
+  },
+  "learn": {
+    "nutrition": "Voeding",
+    "recipes": "Recepten",
+    "training": "Training",
+    "health": "Gezondheid",
+    "guide": "Gids",
+    "rawFeedingTitle": "Complete Gids Rauwe Voeding (BARF)",
+    "rawFeedingDesc": "Leer de 80-10-10 verhouding.",
+    "homemadeTitle": "Zelfgemaakte Hondenvoer Recepten",
+    "homemadeDesc": "Dierenarts-goedgekeurde recepten.",
+    "offLeashTitle": "Losloop Training Basis",
+    "offLeashDesc": "Terugroeptraining voor Bay Area paden.",
+    "toxicFoodsTitle": "Giftige Voedingsmiddelen voor Honden",
+    "toxicFoodsDesc": "Weet wat je moet vermijden.",
+    "newOwnerTitle": "Checklist Nieuwe Hondenbezitters",
+    "newOwnerDesc": "Alles wat je nodig hebt in de Bay Area.",
+    "calciumTitle": "Calciumsuppletie Gids",
+    "calciumDesc": "Waarom zelfgemaakte diëten calcium missen.",
+    "balanceIT": "Balance IT Receptgenerator",
+    "rawFeedingGuide": "Rauwe Voeding Gids",
+    "vetApproved": "Dierenarts-Goedgekeurd",
+    "akcIngredients": "AKC Ingrediëntengids",
+    "aspcaList": "ASPCA Giftige Voedsellijst",
+    "balanceITSupp": "Balance IT Supplementen",
+    "toolsSection": "Interactieve Tools"
+  },
+  "play": {
+    "dogParksTitle": "Hondenparken & Stranden",
+    "dogParksSubtitle": "De beste losloop parken en stranden in de Bay Area.",
+    "fenced": "Omheind",
+    "separateAreas": "Gescheiden Gebieden"
+  },
+  "shop": {
+    "petStore": "Dierenwinkel",
+    "grooming": "Trimsalon",
+    "vet": "Dierenarts",
+    "training": "Training",
+    "emergency24h": "24-Uurs Spoed"
+  },
+  "notFound": {
+    "title": "Deze pup is van het pad afgedwaald!",
+    "description": "De pagina die je zoekt bestaat niet.",
+    "goHome": "Terug naar Home",
+    "exploreTrails": "Ontdek Paden"
+  },
+  "footer": {
+    "tagline": "We helpen Bay Area honden hun beste leven te leven.",
+    "about": "Over",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Voorwaarden",
+    "copyright": "Bay Area Dog. Alle rechten voorbehouden."
+  },
+  "foodSafety": {
+    "title": "Hondenvoer Veiligheidscheck",
+    "subtitle": "Welke menselijke voedingsmiddelen zijn veilig voor je hond.",
+    "home": "Home",
+    "learn": "Leren",
+    "searchPlaceholder": "Zoek een voedingsmiddel...",
+    "filterAll": "Alles",
+    "safe": "Veilig",
+    "cautionLabel": "Voorzichtig",
+    "dangerous": "Gevaarlijk",
+    "emergency": "Noodgeval",
+    "noResults": "Geen resultaten.",
+    "cat_all": "Alles",
+    "cat_fruit": "Fruit",
+    "cat_vegetable": "Groenten",
+    "cat_protein": "Eiwit",
+    "cat_dairy": "Zuivel",
+    "cat_grain": "Granen",
+    "cat_other": "Overig"
+  },
+  "foodCalculator": {
+    "title": "Rauw Voer Calculator",
+    "subtitle": "Bereken hoeveel rauw voer je hond dagelijks nodig heeft.",
+    "home": "Home",
+    "learn": "Leren",
+    "weightLabel": "Gewicht van de Hond",
+    "activityLabel": "Activiteitsniveau",
+    "activity_low": "Laag",
+    "activity_normal": "Normaal",
+    "activity_high": "Hoog",
+    "infoNote": "Deze calculator gebruikt BARF (80-10-10). Raadpleeg je dierenarts.",
+    "dailyAmount": "Dagelijkse Hoeveelheid",
+    "perDay": "per dag",
+    "perWeek": "per week",
+    "muscleMeat": "Spiervlees",
+    "rawBone": "Rauw Bot",
+    "organ": "Orgaan (niet-lever)",
+    "liver": "Lever",
+    "veggies": "Groenten & Fruit",
+    "estimatedCost": "Geschatte Maandkosten",
+    "budgetPlan": "Budget",
+    "budgetDesc": "99 Ranch, basis",
+    "standardPlan": "Standaard",
+    "standardDesc": "Gemengde bronnen",
+    "premiumPlan": "Premium",
+    "premiumDesc": "Biologisch"
+  },
+  "emergencyCard": {
+    "title": "Honden Noodkaart",
+    "subtitle": "Essentiële noodcontacten en eerste hulp stappen.",
+    "home": "Home",
+    "learn": "Leren",
+    "printCard": "Print Deze Kaart",
+    "poisonControl": "ASPCA Vergiftigingencentrum",
+    "poisonNote": "24/7 bereikbaar.",
+    "symptomsTitle": "Vergiftigingssymptomen",
+    "symptom_vomiting": "Braken of kokhalzen",
+    "symptom_diarrhea": "Diarree (kan bloederig zijn)",
+    "symptom_drooling": "Overmatig kwijlen",
+    "symptom_lethargy": "Lethargie of zwakte",
+    "symptom_seizures": "Trillen of stuipen",
+    "symptom_breathing": "Ademhalingsproblemen",
+    "symptom_collapse": "Ineenstorten",
+    "symptom_pawing": "Poot aan mond krabben",
+    "firstAidTitle": "Eerste Hulp Stappen",
+    "firstAid_step1": "Blijf kalm. Verwijder je hond van het gevaar.",
+    "firstAid_step2": "Bel ASPCA (888) 426-4435 of nooddierenarts.",
+    "firstAid_step3": "Laat NIET braken tenzij geadviseerd.",
+    "firstAid_step4": "Noteer wat je hond at, hoeveel en wanneer.",
+    "firstAid_step5": "Vervoer naar dichtstbijzijnde 24-uurs nooddierenarts.",
+    "emergencyVets": "24-Uurs Nooddierenartsen in Bay Area",
+    "allAreas": "Alle Gebieden",
+    "visitWebsite": "Bezoek Website"
+  },
+  "hikingChecklist": {
+    "title": "Honden Wandelchecklist",
+    "subtitle": "Alles voor een veilige wandeling met je hond.",
+    "home": "Home",
+    "learn": "Leren",
+    "progress": "{count} van {total} ingepakt",
+    "reset": "Checklist resetten",
+    "item_water_bottle": "Waterfles voor je hond",
+    "item_collapsible_bowl": "Opvouwbare waterbak",
+    "item_extra_water": "Extra water",
+    "item_leash": "Riem (6ft + reserve)",
+    "item_harness": "Tuigje met ID-tags",
+    "item_poop_bags": "Poepzakjes (extra!)",
+    "item_treats": "Trainingssnacks",
+    "item_first_aid": "EHBO-kit voor huisdieren",
+    "item_id_tags": "ID-tags en chipinfo",
+    "item_flea_tick": "Vlo- en tekenpreventie",
+    "item_paw_balm": "Potenbalsem",
+    "item_towel": "Handdoek voor modder",
+    "item_sunscreen": "Hondveilige zonnebrand",
+    "item_booties": "Hondenschoentjes",
+    "item_reflective": "Reflecterende uitrusting",
+    "item_phone_charged": "Telefon opgeladen",
+    "tipsTitle": "Pro Tips",
+    "tip1": "Controleer het riembeleid voordat je gaat.",
+    "tip2": "Begin met korte wandelingen voor puppy's.",
+    "tip3": "Vermijd wandelen 10:00-16:00 in de zomer.",
+    "tip4": "Geef voorrang aan andere wandelaars."
+  },
+  "seasonal": {
+    "spring_title": "De Lente is er!",
+    "spring_tip": "Wildbloemenseizoen. Let op vossenstaarten. Check vlo-preventie.",
+    "summer_title": "Zomerveiligheid",
+    "summer_tip": "Vermijd wandelen 10:00-16:00 — heet asfalt verbrandt poten!",
+    "fall_title": "Herfstavonturen",
+    "fall_tip": "Perfect wandelweer! Herfstkleuren en korter daglicht.",
+    "winter_title": "Wintertips",
+    "winter_tip": "Regenseizoen = modderige paden. Neem handdoeken mee.",
+    "explore": "Ontdek Paden"
+  },
+  "search": {
+    "placeholder": "Zoek paden, restaurants, voedsel...",
+    "hint": "Typ minimaal 2 tekens",
+    "noResults": "Geen resultaten.",
+    "escHint": "Druk Esc om te sluiten"
+  }
+}

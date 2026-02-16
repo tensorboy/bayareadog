@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - Din Hunds Guide till Bay Area",
+    "description": "Den ultimata guiden för hundägare i Bay Area."
+  },
+  "nav": {
+    "home": "Hem",
+    "trails": "Leder",
+    "eat": "Äta",
+    "play": "Lek",
+    "shop": "Butik",
+    "learn": "Lär"
+  },
+  "hero": {
+    "title": "Din Hunds Guide till Bay Area",
+    "subtitle": "Upptäck de bästa lederna, hundvänliga restauranger, parker och butiker.",
+    "cta": "Utforska Nu",
+    "search_placeholder": "Sök leder, restauranger, parker..."
+  },
+  "categories": {
+    "section_title": "Utforska per Kategori",
+    "trails": {
+      "title": "Leder & Vandring",
+      "description": "Koppelfria leder, strandpromenader och natursköna vandringar.",
+      "cta": "Hitta Leder"
+    },
+    "eat": {
+      "title": "Äta & Dricka",
+      "description": "Hundvänliga restauranger, kaféer och bryggerier.",
+      "cta": "Hitta Restauranger"
+    },
+    "play": {
+      "title": "Lek & Nöje",
+      "description": "Hundparker, stränder, evenemang och aktiviteter.",
+      "cta": "Hitta Aktiviteter"
+    },
+    "shop": {
+      "title": "Butik",
+      "description": "Djuraffärer, trimmersalonger och veterinärkliniker.",
+      "cta": "Hitta Butiker"
+    },
+    "learn": {
+      "title": "Lär",
+      "description": "Träningstips, näringguider och hälsoråd.",
+      "cta": "Börja Lära"
+    }
+  },
+  "featured": {
+    "title": "Populärt Denna Vecka",
+    "view_all": "Visa Alla"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Ikonisk koppelfri strand med fantastisk havsutsikt.",
+      "tags": "Koppelfri,Strand,Naturskönt"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "Bay Areas största koppelfria hundpark.",
+      "tags": "Koppelfri,Strandlinje,Stor"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Flera Platser",
+      "description": "Hundvänlig uteservering med hundmeny.",
+      "tags": "Restaurang,Uteplats,Hundmeny"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Premium rå hundmat från lokala gårdar.",
+      "tags": "Rå Mat,Lokalt,Ekologiskt"
+    }
+  },
+  "newsletter": {
+    "title": "Håll Dig Uppdaterad",
+    "description": "Få veckovisa tips om hundvänliga platser.",
+    "placeholder": "Ange din e-post",
+    "button": "Prenumerera",
+    "privacy": "Vi respekterar din integritet."
+  },
+  "todaysPick": {
+    "title": "Dagens Val",
+    "random": "Slumpmässigt Äventyr",
+    "viewDetails": "Visa Detaljer",
+    "weekendAdventure": "Helgäventyr",
+    "beatTheHeat": "Slå Värmen",
+    "winterWalk": "Vinterpromenad",
+    "quickWalk": "Snabb Promenad"
+  },
+  "map": {
+    "title": "Utforska Bay Area",
+    "loading": "Laddar karta...",
+    "all": "Alla",
+    "offLeash": "Koppelfri",
+    "onLeash": "Kopplad",
+    "restaurants": "Restauranger",
+    "rawFood": "Rå Mat",
+    "legendRestaurant": "Restaurang",
+    "legendRawFood": "Rå Mat Butik"
+  },
+  "trailFilters": {
+    "all": "Alla",
+    "offLeash": "Koppelfri",
+    "onLeash": "Kopplad",
+    "mixed": "Blandat",
+    "allAreas": "Alla Områden",
+    "anyDifficulty": "Alla Svårigheter",
+    "easy": "Lätt",
+    "moderate": "Medel",
+    "hard": "Svår",
+    "showing": "{count} av {total} leder",
+    "noResults": "Inga leder matchar",
+    "noResultsHint": "Justera dina filter.",
+    "sortRating": "Högst Betyg",
+    "sortName": "Namn A-Ö",
+    "sortDifficulty": "Lättast Först"
+  },
+  "trailDetail": {
+    "backToTrails": "Tillbaka till Leder",
+    "aboutTrail": "Om Denna Led",
+    "features": "Funktioner",
+    "bestFor": "Bäst För",
+    "location": "Plats",
+    "getDirections": "Vägbeskrivning på Google Maps",
+    "trailInfo": "Ledinformation",
+    "parking": "Parkering",
+    "water": "Vatten",
+    "tips": "Tips",
+    "bestTime": "Bästa Tid",
+    "photoSpot": "Fotoplats",
+    "nearby": "I Närheten",
+    "food": "Mat",
+    "vet": "Veterinär",
+    "officialWebsite": "Officiell Webbplats",
+    "home": "Hem",
+    "trails": "Leder",
+    "largeDogs": "Stora Hundar",
+    "smallDogs": "Små Hundar",
+    "seniorDogs": "Äldre Hundar",
+    "puppies": "Valpar",
+    "waterDogs": "Vattenhundar",
+    "shyDogs": "Blyga Hundar"
+  },
+  "mobileNav": {
+    "home": "Hem",
+    "trails": "Leder",
+    "eat": "Äta",
+    "shop": "Butik",
+    "more": "Mer"
+  },
+  "eat": {
+    "restaurantsTitle": "Hundvänliga Restauranger",
+    "restaurantsSubtitle": "De bästa uteserveringarna i Bay Area.",
+    "rawFoodTitle": "Rå Mat & Ben",
+    "rawFoodSubtitle": "Var man köper råa ingredienser.",
+    "priceCompareTitle": "Prisjämförelse Rå Mat",
+    "priceCompareSubtitle": "Jämför priser i populära butiker.",
+    "budgetTitle": "Budgetplaner för Rå Utfodring",
+    "budgetSubtitle": "Välj en plan som passar din budget.",
+    "item": "Produkt",
+    "patio": "Uteplats",
+    "dogMenu": "Hundmeny",
+    "visit": "Besök"
+  },
+  "learn": {
+    "nutrition": "Näring",
+    "recipes": "Recept",
+    "training": "Träning",
+    "health": "Hälsa",
+    "guide": "Guide",
+    "rawFeedingTitle": "Guide till Rå Utfodring (BARF)",
+    "rawFeedingDesc": "Lär dig 80-10-10 förhållandet.",
+    "homemadeTitle": "Hemlagad Hundmat Recept",
+    "homemadeDesc": "Veterinärgodkända recept.",
+    "offLeashTitle": "Koppelfri Träning",
+    "offLeashDesc": "Inkallningsträning för Bay Area leder.",
+    "toxicFoodsTitle": "Giftiga Livsmedel för Hundar",
+    "toxicFoodsDesc": "Vad du bör undvika.",
+    "newOwnerTitle": "Ny Hundägares Checklista",
+    "newOwnerDesc": "Allt du behöver i Bay Area.",
+    "calciumTitle": "Guide till Kalciumtillskott",
+    "calciumDesc": "Varför hemlagade dieter saknar kalcium.",
+    "balanceIT": "Balance IT Receptgenerator",
+    "rawFeedingGuide": "Guide Rå Utfodring",
+    "vetApproved": "Veterinärgodkända Recept",
+    "akcIngredients": "AKC Ingrediensguide",
+    "aspcaList": "ASPCA Giftlista",
+    "balanceITSupp": "Balance IT Tillskott",
+    "toolsSection": "Interaktiva Verktyg"
+  },
+  "play": {
+    "dogParksTitle": "Hundparker & Stränder",
+    "dogParksSubtitle": "De bästa koppelfria parkerna i Bay Area.",
+    "fenced": "Inhägnat",
+    "separateAreas": "Separata Områden"
+  },
+  "shop": {
+    "petStore": "Djuraffär",
+    "grooming": "Trimming",
+    "vet": "Veterinär",
+    "training": "Träning",
+    "emergency24h": "24-Timmars Akut"
+  },
+  "notFound": {
+    "title": "Denna valp har vandrat av leden!",
+    "description": "Sidan du söker finns inte.",
+    "goHome": "Tillbaka till Hem",
+    "exploreTrails": "Utforska Leder"
+  },
+  "footer": {
+    "tagline": "Vi hjälper Bay Area hundar leva sitt bästa liv.",
+    "about": "Om",
+    "contact": "Kontakt",
+    "privacy": "Integritet",
+    "terms": "Villkor",
+    "copyright": "Bay Area Dog. Alla rättigheter förbehållna."
+  },
+  "foodSafety": {
+    "title": "Hundsäkerhet för Mat",
+    "subtitle": "Vilka mänskliga livsmedel är säkra för din hund.",
+    "home": "Hem",
+    "learn": "Lär",
+    "searchPlaceholder": "Sök ett livsmedel...",
+    "filterAll": "Alla",
+    "safe": "Säkert",
+    "cautionLabel": "Varning",
+    "dangerous": "Farligt",
+    "emergency": "Nödläge",
+    "noResults": "Inga resultat.",
+    "cat_all": "Alla",
+    "cat_fruit": "Frukt",
+    "cat_vegetable": "Grönsaker",
+    "cat_protein": "Protein",
+    "cat_dairy": "Mejeri",
+    "cat_grain": "Spannmål",
+    "cat_other": "Övrigt"
+  },
+  "foodCalculator": {
+    "title": "Rå Mat Kalkylator",
+    "subtitle": "Beräkna daglig mängd rå mat baserat på vikt och aktivitet.",
+    "home": "Hem",
+    "learn": "Lär",
+    "weightLabel": "Hundens Vikt",
+    "activityLabel": "Aktivitetsnivå",
+    "activity_low": "Låg",
+    "activity_normal": "Normal",
+    "activity_high": "Hög",
+    "infoNote": "Kalkylatorn använder BARF (80-10-10). Rådgör med din veterinär.",
+    "dailyAmount": "Daglig Mängd",
+    "perDay": "per dag",
+    "perWeek": "per vecka",
+    "muscleMeat": "Muskekött",
+    "rawBone": "Rått Ben",
+    "organ": "Organ",
+    "liver": "Lever",
+    "veggies": "Grönsaker & Frukt",
+    "estimatedCost": "Uppskattad Månadskostnad",
+    "budgetPlan": "Budget",
+    "budgetDesc": "99 Ranch, grundläggande",
+    "standardPlan": "Standard",
+    "standardDesc": "Blandade källor",
+    "premiumPlan": "Premium",
+    "premiumDesc": "Ekologiskt, gräsbetat"
+  },
+  "emergencyCard": {
+    "title": "Hundens Nödkort",
+    "subtitle": "Nödkontakter, förgiftningssymptom och första hjälpen.",
+    "home": "Hem",
+    "learn": "Lär",
+    "printCard": "Skriv Ut Detta Kort",
+    "poisonControl": "ASPCA Giftinformation",
+    "poisonNote": "Tillgänglig dygnet runt.",
+    "symptomsTitle": "Förgiftningssymptom",
+    "symptom_vomiting": "Kräkningar",
+    "symptom_diarrhea": "Diarré",
+    "symptom_drooling": "Överdriven dregling",
+    "symptom_lethargy": "Slöhet eller svaghet",
+    "symptom_seizures": "Skakningar eller kramper",
+    "symptom_breathing": "Andningssvårigheter",
+    "symptom_collapse": "Kollaps",
+    "symptom_pawing": "Tassande vid mun",
+    "firstAidTitle": "Första Hjälpen",
+    "firstAid_step1": "Var lugn. Flytta hunden från faran.",
+    "firstAid_step2": "Ring ASPCA (888) 426-4435 eller akutveterinär.",
+    "firstAid_step3": "Framkalla INTE kräkning utan råd.",
+    "firstAid_step4": "Notera vad hunden åt, hur mycket och när.",
+    "firstAid_step5": "Transportera till närmaste 24-timmars akutveterinär.",
+    "emergencyVets": "24-Timmars Akutveterinärer i Bay Area",
+    "allAreas": "Alla Områden",
+    "visitWebsite": "Besök Webbplats"
+  },
+  "hikingChecklist": {
+    "title": "Hundens Vandringslista",
+    "subtitle": "Allt du behöver packa för en vandring med din hund.",
+    "home": "Hem",
+    "learn": "Lär",
+    "progress": "{count} av {total} packade",
+    "reset": "Återställ",
+    "item_water_bottle": "Vattenflaska för hunden",
+    "item_collapsible_bowl": "Hopfällbar vattenskål",
+    "item_extra_water": "Extra vatten",
+    "item_leash": "Koppel + reserv",
+    "item_harness": "Sele med ID-bricka",
+    "item_poop_bags": "Bajspåsar (extra!)",
+    "item_treats": "Träningsgodis",
+    "item_first_aid": "Första hjälpen-kit",
+    "item_id_tags": "ID-brickor och chipinfo",
+    "item_flea_tick": "Lopp- och fästingskydd",
+    "item_paw_balm": "Tassbalm",
+    "item_towel": "Handduk",
+    "item_sunscreen": "Hundanpassat solskydd",
+    "item_booties": "Hundskor",
+    "item_reflective": "Reflexutrustning",
+    "item_phone_charged": "Laddad telefon",
+    "tipsTitle": "Proffstips",
+    "tip1": "Kolla kopplingsregler innan du går.",
+    "tip2": "Börja med korta vandringar med valpar.",
+    "tip3": "Undvik vandring 10:00-16:00 på sommaren.",
+    "tip4": "Ge alltid plats åt andra vandrare."
+  },
+  "seasonal": {
+    "spring_title": "Våren är Här!",
+    "spring_tip": "Vildblommesäsong. Var uppmärksam på rävsvansar.",
+    "summer_title": "Sommarsäkerhet",
+    "summer_tip": "Undvik vandring 10:00-16:00 — het asfalt bränner tassar!",
+    "fall_title": "Höstäventyr",
+    "fall_tip": "Perfekt vandringsväder! Kortare dagsljus — ta med reflex.",
+    "winter_title": "Vintertips",
+    "winter_tip": "Regnsäsong = leriga leder. Ta med handdukar.",
+    "explore": "Utforska Leder"
+  },
+  "search": {
+    "placeholder": "Sök leder, restauranger, mat...",
+    "hint": "Skriv minst 2 tecken",
+    "noResults": "Inga resultat.",
+    "escHint": "Tryck Esc för att stänga"
+  }
+}

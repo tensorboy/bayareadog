@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - Din Hunds Guide til Bay Area",
+    "description": "Den ultimate guiden for hundeeiere i Bay Area."
+  },
+  "nav": {
+    "home": "Hjem",
+    "trails": "Stier",
+    "eat": "Spis",
+    "play": "Lek",
+    "shop": "Butikk",
+    "learn": "Lær"
+  },
+  "hero": {
+    "title": "Din Hunds Guide til Bay Area",
+    "subtitle": "Oppdag de beste stiene, hundevennlige restauranter, parker og butikker.",
+    "cta": "Utforsk Nå",
+    "search_placeholder": "Søk stier, restauranter, parker..."
+  },
+  "categories": {
+    "section_title": "Utforsk etter Kategori",
+    "trails": {
+      "title": "Stier & Turer",
+      "description": "Båndløse stier, strandturer og naturskjønne vandringer.",
+      "cta": "Finn Stier"
+    },
+    "eat": {
+      "title": "Mat & Drikke",
+      "description": "Hundevennlige restauranter, kaféer og bryggerier.",
+      "cta": "Finn Restauranter"
+    },
+    "play": {
+      "title": "Lek & Moro",
+      "description": "Hundeparker, strender, arrangementer og aktiviteter.",
+      "cta": "Finn Aktiviteter"
+    },
+    "shop": {
+      "title": "Butikk",
+      "description": "Dyrebutikker, hundestell og veterinærer.",
+      "cta": "Finn Butikker"
+    },
+    "learn": {
+      "title": "Lær",
+      "description": "Treningstips, ernæringsguider og helseråd.",
+      "cta": "Begynn å Lære"
+    }
+  },
+  "featured": {
+    "title": "Populært Denne Uken",
+    "view_all": "Se Alle"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Ikonisk båndløs strand med fantastisk havutsikt.",
+      "tags": "Båndløs,Strand,Naturskjønt"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "Bay Areas største båndløse hundepark.",
+      "tags": "Båndløs,Vannkant,Stor"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Flere Steder",
+      "description": "Hundevennlig uteservering med hundemeny.",
+      "tags": "Restaurant,Uteplass,Hundemeny"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Premium rå hundemat fra lokale gårder.",
+      "tags": "Rå Mat,Lokal,Økologisk"
+    }
+  },
+  "newsletter": {
+    "title": "Hold Deg Oppdatert",
+    "description": "Få ukentlige tips om hundevennlige steder.",
+    "placeholder": "Skriv inn e-post",
+    "button": "Abonner",
+    "privacy": "Vi respekterer ditt personvern."
+  },
+  "todaysPick": {
+    "title": "Dagens Valg",
+    "random": "Tilfeldig Eventyr",
+    "viewDetails": "Se Detaljer",
+    "weekendAdventure": "Helgeeventyr",
+    "beatTheHeat": "Slå Varmen",
+    "winterWalk": "Vintertur",
+    "quickWalk": "Rask Tur"
+  },
+  "map": {
+    "title": "Utforsk Bay Area",
+    "loading": "Laster kart...",
+    "all": "Alle",
+    "offLeash": "Båndløs",
+    "onLeash": "I Bånd",
+    "restaurants": "Restauranter",
+    "rawFood": "Rå Mat",
+    "legendRestaurant": "Restaurant",
+    "legendRawFood": "Rå Mat Butikk"
+  },
+  "trailFilters": {
+    "all": "Alle",
+    "offLeash": "Båndløs",
+    "onLeash": "I Bånd",
+    "mixed": "Blandet",
+    "allAreas": "Alle Områder",
+    "anyDifficulty": "Alle Vanskeligheter",
+    "easy": "Lett",
+    "moderate": "Middels",
+    "hard": "Vanskelig",
+    "showing": "{count} av {total} stier",
+    "noResults": "Ingen stier matcher",
+    "noResultsHint": "Juster filtrene.",
+    "sortRating": "Høyest Vurdert",
+    "sortName": "Navn A-Å",
+    "sortDifficulty": "Lettest Først"
+  },
+  "trailDetail": {
+    "backToTrails": "Tilbake til Stier",
+    "aboutTrail": "Om Denne Stien",
+    "features": "Funksjoner",
+    "bestFor": "Best For",
+    "location": "Sted",
+    "getDirections": "Veibeskrivelse på Google Maps",
+    "trailInfo": "Stiinformasjon",
+    "parking": "Parkering",
+    "water": "Vann",
+    "tips": "Tips",
+    "bestTime": "Beste Tid",
+    "photoSpot": "Fotopunkt",
+    "nearby": "I Nærheten",
+    "food": "Mat",
+    "vet": "Veterinær",
+    "officialWebsite": "Offisiell Nettside",
+    "home": "Hjem",
+    "trails": "Stier",
+    "largeDogs": "Store Hunder",
+    "smallDogs": "Små Hunder",
+    "seniorDogs": "Eldre Hunder",
+    "puppies": "Valper",
+    "waterDogs": "Vannhunder",
+    "shyDogs": "Sjenerte Hunder"
+  },
+  "mobileNav": {
+    "home": "Hjem",
+    "trails": "Stier",
+    "eat": "Spis",
+    "shop": "Butikk",
+    "more": "Mer"
+  },
+  "eat": {
+    "restaurantsTitle": "Hundevennlige Restauranter",
+    "restaurantsSubtitle": "De beste uteplassene i Bay Area.",
+    "rawFoodTitle": "Rå Mat & Bein",
+    "rawFoodSubtitle": "Hvor du kjøper rå ingredienser.",
+    "priceCompareTitle": "Prissammenligning",
+    "priceCompareSubtitle": "Sammenlign priser i populære butikker.",
+    "budgetTitle": "Budsjettplaner for Rå Foring",
+    "budgetSubtitle": "Velg en plan som passer budsjettet.",
+    "item": "Produkt",
+    "patio": "Uteplass",
+    "dogMenu": "Hundemeny",
+    "visit": "Besøk"
+  },
+  "learn": {
+    "nutrition": "Ernæring",
+    "recipes": "Oppskrifter",
+    "training": "Trening",
+    "health": "Helse",
+    "guide": "Guide",
+    "rawFeedingTitle": "Guide til Rå Foring (BARF)",
+    "rawFeedingDesc": "Lær 80-10-10 forholdet.",
+    "homemadeTitle": "Hjemmelaget Hundemat Oppskrifter",
+    "homemadeDesc": "Veterinærgodkjente oppskrifter.",
+    "offLeashTitle": "Båndløs Trening",
+    "offLeashDesc": "Tilbakekallingstrening for Bay Area stier.",
+    "toxicFoodsTitle": "Giftige Matvarer for Hunder",
+    "toxicFoodsDesc": "Hva du bør unngå.",
+    "newOwnerTitle": "Ny Hundeeier Sjekkliste",
+    "newOwnerDesc": "Alt du trenger i Bay Area.",
+    "calciumTitle": "Guide til Kalsiumtilskudd",
+    "calciumDesc": "Hvorfor hjemmelaget kost mangler kalsium.",
+    "balanceIT": "Balance IT Oppskriftgenerator",
+    "rawFeedingGuide": "Guide Rå Foring",
+    "vetApproved": "Veterinærgodkjente Oppskrifter",
+    "akcIngredients": "AKC Ingrediensguide",
+    "aspcaList": "ASPCA Giftliste",
+    "balanceITSupp": "Balance IT Tilskudd",
+    "toolsSection": "Interaktive Verktøy"
+  },
+  "play": {
+    "dogParksTitle": "Hundeparker & Strender",
+    "dogParksSubtitle": "De beste båndløse parkene i Bay Area.",
+    "fenced": "Inngjerdet",
+    "separateAreas": "Adskilte Områder"
+  },
+  "shop": {
+    "petStore": "Dyrebutikk",
+    "grooming": "Hundestell",
+    "vet": "Veterinær",
+    "training": "Trening",
+    "emergency24h": "24-Timers Akutt"
+  },
+  "notFound": {
+    "title": "Denne valpen har vandret av stien!",
+    "description": "Siden du leter etter finnes ikke.",
+    "goHome": "Tilbake til Hjem",
+    "exploreTrails": "Utforsk Stier"
+  },
+  "footer": {
+    "tagline": "Vi hjelper Bay Area hunder med å leve sitt beste liv.",
+    "about": "Om",
+    "contact": "Kontakt",
+    "privacy": "Personvern",
+    "terms": "Vilkår",
+    "copyright": "Bay Area Dog. Alle rettigheter forbeholdt."
+  },
+  "foodSafety": {
+    "title": "Hundemat Sikkerhetssjekk",
+    "subtitle": "Hvilke menneskemat er trygg for hunden din.",
+    "home": "Hjem",
+    "learn": "Lær",
+    "searchPlaceholder": "Søk en matvare...",
+    "filterAll": "Alle",
+    "safe": "Trygg",
+    "cautionLabel": "Forsiktig",
+    "dangerous": "Farlig",
+    "emergency": "Nødsituasjon",
+    "noResults": "Ingen resultater.",
+    "cat_all": "Alle",
+    "cat_fruit": "Frukt",
+    "cat_vegetable": "Grønnsaker",
+    "cat_protein": "Protein",
+    "cat_dairy": "Meieri",
+    "cat_grain": "Korn",
+    "cat_other": "Annet"
+  },
+  "foodCalculator": {
+    "title": "Rå Mat Kalkulator",
+    "subtitle": "Beregn daglig mengde rå mat.",
+    "home": "Hjem",
+    "learn": "Lær",
+    "weightLabel": "Hundens Vekt",
+    "activityLabel": "Aktivitetsnivå",
+    "activity_low": "Lav",
+    "activity_normal": "Normal",
+    "activity_high": "Høy",
+    "infoNote": "Kalkulatoren bruker BARF (80-10-10). Rådspør din veterinær.",
+    "dailyAmount": "Daglig Mengde",
+    "perDay": "per dag",
+    "perWeek": "per uke",
+    "muscleMeat": "Muskelkjøtt",
+    "rawBone": "Rått Bein",
+    "organ": "Organ",
+    "liver": "Lever",
+    "veggies": "Grønnsaker & Frukt",
+    "estimatedCost": "Estimert Månedlig Pris",
+    "budgetPlan": "Budsjett",
+    "budgetDesc": "99 Ranch, basis",
+    "standardPlan": "Standard",
+    "standardDesc": "Blandede kilder",
+    "premiumPlan": "Premium",
+    "premiumDesc": "Økologisk, gressfôret"
+  },
+  "emergencyCard": {
+    "title": "Hundens Nødkort",
+    "subtitle": "Nødkontakter, forgiftningssymptomer og førstehjelp.",
+    "home": "Hjem",
+    "learn": "Lær",
+    "printCard": "Skriv Ut Dette Kortet",
+    "poisonControl": "ASPCA Giftinformasjon",
+    "poisonNote": "Tilgjengelig døgnet rundt.",
+    "symptomsTitle": "Forgiftningssymptomer",
+    "symptom_vomiting": "Oppkast",
+    "symptom_diarrhea": "Diaré",
+    "symptom_drooling": "Overdreven sikkel",
+    "symptom_lethargy": "Sløvhet eller svakhet",
+    "symptom_seizures": "Skjelvinger eller kramper",
+    "symptom_breathing": "Pustevansker",
+    "symptom_collapse": "Kollaps",
+    "symptom_pawing": "Poter ved munn",
+    "firstAidTitle": "Førstehjelp",
+    "firstAid_step1": "Hold deg rolig. Fjern hunden fra faren.",
+    "firstAid_step2": "Ring ASPCA (888) 426-4435 eller akuttveterinær.",
+    "firstAid_step3": "Fremkall IKKE oppkast uten råd.",
+    "firstAid_step4": "Noter hva hunden spiste, hvor mye og når.",
+    "firstAid_step5": "Transporter til nærmeste 24-timers akuttveterinær.",
+    "emergencyVets": "24-Timers Akuttveterinærer i Bay Area",
+    "allAreas": "Alle Områder",
+    "visitWebsite": "Besøk Nettside"
+  },
+  "hikingChecklist": {
+    "title": "Hundens Turliste",
+    "subtitle": "Alt du trenger å pakke for en tur med hunden.",
+    "home": "Hjem",
+    "learn": "Lær",
+    "progress": "{count} av {total} pakket",
+    "reset": "Tilbakestill",
+    "item_water_bottle": "Vannflaske for hunden",
+    "item_collapsible_bowl": "Sammenleggbar vannskål",
+    "item_extra_water": "Ekstra vann",
+    "item_leash": "Bånd + reserve",
+    "item_harness": "Sele med ID",
+    "item_poop_bags": "Hundeposer (ekstra!)",
+    "item_treats": "Treningsgodbit",
+    "item_first_aid": "Førstehjelpsutstyr",
+    "item_id_tags": "ID-merker og chipinfo",
+    "item_flea_tick": "Loppe- og flåttbeskyttelse",
+    "item_paw_balm": "Potebalsam",
+    "item_towel": "Håndkle",
+    "item_sunscreen": "Hundetrygg solkrem",
+    "item_booties": "Hundesko",
+    "item_reflective": "Refleksutstyr",
+    "item_phone_charged": "Ladet telefon",
+    "tipsTitle": "Pro Tips",
+    "tip1": "Sjekk stiens båndpolitikk før du går.",
+    "tip2": "Start med korte turer med valper.",
+    "tip3": "Unngå turer 10:00-16:00 om sommeren.",
+    "tip4": "Gi alltid plass til andre turgåere."
+  },
+  "seasonal": {
+    "spring_title": "Våren er Her!",
+    "spring_tip": "Villblomst sesong. Pass på revehalerpler på stier.",
+    "summer_title": "Sommersikkerhet",
+    "summer_tip": "Unngå turer 10:00-16:00 — varm asfalt brenner poter!",
+    "fall_title": "Høsteventyr",
+    "fall_tip": "Perfekt turvær! Kortere dagslys — ta med refleks.",
+    "winter_title": "Vintertips",
+    "winter_tip": "Regnsesong = gjørmete stier. Ta med håndklær.",
+    "explore": "Utforsk Stier"
+  },
+  "search": {
+    "placeholder": "Søk stier, restauranter, mat...",
+    "hint": "Skriv minst 2 tegn",
+    "noResults": "Ingen resultater.",
+    "escHint": "Trykk Esc for å lukke"
+  }
+}

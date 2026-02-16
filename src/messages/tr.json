@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - Köpeğinizin Bay Area Rehberi",
+    "description": "Bay Area'daki köpek sahipleri için en kapsamlı rehber. Parkurlar, restoranlar, mağazalar, etkinlikler ve ipuçları."
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "trails": "Parkurlar",
+    "eat": "Yemek",
+    "play": "Oyna",
+    "shop": "Mağaza",
+    "learn": "Öğren"
+  },
+  "hero": {
+    "title": "Köpeğinizin Bay Area Rehberi",
+    "subtitle": "En iyi parkurları, köpek dostu restoranları, parkları, mağazaları ve köpeğinizin Bay Area'da en iyi yaşamını sürmesi için ihtiyaç duyduğu her şeyi keşfedin.",
+    "cta": "Keşfet",
+    "search_placeholder": "Parkur, restoran, park ara..."
+  },
+  "categories": {
+    "section_title": "Kategorilere Göre Keşfet",
+    "trails": {
+      "title": "Parkurlar ve Yürüyüş",
+      "description": "Köpek sahipleri tarafından değerlendirilen tasmasız parkurlar, sahil yürüyüşleri ve manzaralı yürüyüşler.",
+      "cta": "Parkur Bul"
+    },
+    "eat": {
+      "title": "Yeme ve İçme",
+      "description": "Köpek dostu restoranlar, kafeler, bira bahçeleri ve en iyi çiğ gıda mağazaları.",
+      "cta": "Restoran Bul"
+    },
+    "play": {
+      "title": "Oyna ve Eğlen",
+      "description": "Köpek parkları, plajlar, etkinlikler, buluşmalar ve aktiviteler.",
+      "cta": "Aktivite Bul"
+    },
+    "shop": {
+      "title": "Mağaza",
+      "description": "Evcil hayvan mağazaları, çiğ gıda tedarikçileri, bakım salonları ve veteriner klinikleri.",
+      "cta": "Mağaza Bul"
+    },
+    "learn": {
+      "title": "Öğren",
+      "description": "Eğitim ipuçları, beslenme rehberleri, ev yapımı tarifler ve sağlık tavsiyeleri.",
+      "cta": "Öğrenmeye Başla"
+    }
+  },
+  "featured": {
+    "title": "Bu Hafta Popüler",
+    "view_all": "Tümünü Gör"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Muhteşem okyanus manzaralı ikonik tasmasız plaj.",
+      "tags": "Tasmasız,Plaj,Manzaralı"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "Bay Area'nın en büyük tasmasız köpek parkı.",
+      "tags": "Tasmasız,Sahil,Büyük"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Çoklu Lokasyonlar",
+      "description": "Özel köpek menüsü ile köpek dostu teras yemekleri.",
+      "tags": "Restoran,Teras,Köpek Menüsü"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Yerel çiftliklerden premium çiğ köpek maması ve etli kemikler.",
+      "tags": "Çiğ Gıda,Yerel,Organik"
+    }
+  },
+  "newsletter": {
+    "title": "Haberdar Olun",
+    "description": "En iyi köpek dostu mekanlar, etkinlikler ve ipuçları için haftalık öneriler alın.",
+    "placeholder": "E-postanızı girin",
+    "button": "Abone Ol",
+    "privacy": "Gizliliğinize saygı duyuyoruz."
+  },
+  "todaysPick": {
+    "title": "Günün Seçimi",
+    "random": "Rastgele Macera",
+    "viewDetails": "Detayları Gör",
+    "weekendAdventure": "Hafta Sonu Macerası",
+    "beatTheHeat": "Sıcaktan Kaçın",
+    "winterWalk": "Kış Yürüyüşü",
+    "quickWalk": "Hızlı Yürüyüş"
+  },
+  "map": {
+    "title": "Bay Area'yı Keşfet",
+    "loading": "Harita yükleniyor...",
+    "all": "Tümü",
+    "offLeash": "Tasmasız",
+    "onLeash": "Tasmalı",
+    "restaurants": "Restoranlar",
+    "rawFood": "Çiğ Gıda",
+    "legendRestaurant": "Restoran",
+    "legendRawFood": "Çiğ Gıda Mağazası"
+  },
+  "trailFilters": {
+    "all": "Tümü",
+    "offLeash": "Tasmasız",
+    "onLeash": "Tasmalı",
+    "mixed": "Karışık",
+    "allAreas": "Tüm Bölgeler",
+    "anyDifficulty": "Herhangi Zorluk",
+    "easy": "Kolay",
+    "moderate": "Orta",
+    "hard": "Zor",
+    "showing": "{total} parkurdan {count} gösteriliyor",
+    "noResults": "Filtrelerinize uygun parkur bulunamadı",
+    "noResultsHint": "Filtrelerinizi ayarlayın.",
+    "sortRating": "En Yüksek Puan",
+    "sortName": "İsim A-Z",
+    "sortDifficulty": "Kolaydan Zora"
+  },
+  "trailDetail": {
+    "backToTrails": "Parkurlara Dön",
+    "aboutTrail": "Bu Parkur Hakkında",
+    "features": "Özellikler",
+    "bestFor": "En İyi",
+    "location": "Konum",
+    "getDirections": "Google Maps'te Yol Tarifi Al",
+    "trailInfo": "Parkur Bilgisi",
+    "parking": "Otopark",
+    "water": "Su",
+    "tips": "İpuçları",
+    "bestTime": "En İyi Zaman",
+    "photoSpot": "Fotoğraf Noktası",
+    "nearby": "Yakınlarda",
+    "food": "Yemek",
+    "vet": "Veteriner",
+    "officialWebsite": "Resmi Web Sitesi",
+    "home": "Ana Sayfa",
+    "trails": "Parkurlar",
+    "largeDogs": "Büyük Köpekler",
+    "smallDogs": "Küçük Köpekler",
+    "seniorDogs": "Yaşlı Köpekler",
+    "puppies": "Yavrular",
+    "waterDogs": "Su Köpekleri",
+    "shyDogs": "Utangaç Köpekler"
+  },
+  "mobileNav": {
+    "home": "Ana Sayfa",
+    "trails": "Parkurlar",
+    "eat": "Yemek",
+    "shop": "Mağaza",
+    "more": "Daha"
+  },
+  "eat": {
+    "restaurantsTitle": "Köpek Dostu Restoranlar",
+    "restaurantsSubtitle": "Bay Area'da köpeğinizi karşılayan en iyi teraslar ve kafeler.",
+    "rawFoodTitle": "Çiğ Gıda ve Kemikler",
+    "rawFoodSubtitle": "Bay Area'da çiğ etli kemikler ve malzemeler nereden alınır.",
+    "priceCompareTitle": "Çiğ Gıda Fiyat Karşılaştırması",
+    "priceCompareSubtitle": "Popüler mağazalarda fiyatları karşılaştırın.",
+    "budgetTitle": "Çiğ Besleme Bütçe Planları",
+    "budgetSubtitle": "Bütçenize uygun bir plan seçin.",
+    "item": "Ürün",
+    "patio": "Teras",
+    "dogMenu": "Köpek Menüsü",
+    "visit": "Ziyaret"
+  },
+  "learn": {
+    "nutrition": "Beslenme",
+    "recipes": "Tarifler",
+    "training": "Eğitim",
+    "health": "Sağlık",
+    "guide": "Rehber",
+    "rawFeedingTitle": "Çiğ Besleme Rehberi (BARF Diyeti)",
+    "rawFeedingDesc": "80-10-10 oranını öğrenin: %80 kas eti, %10 kemik, %10 organ.",
+    "homemadeTitle": "Ev Yapımı Köpek Maması Tarifleri",
+    "homemadeDesc": "Veteriner onaylı tarifler.",
+    "offLeashTitle": "Tasmasız Eğitim Temelleri",
+    "offLeashDesc": "Bay Area parkurları için temel geri çağırma eğitimi.",
+    "toxicFoodsTitle": "Köpekler İçin Zehirli Yiyecekler",
+    "toxicFoodsDesc": "Nelerden kaçınılmalı: üzüm, soğan, çikolata, ksilitol, avokado ve daha fazlası.",
+    "newOwnerTitle": "Yeni Köpek Sahibinin Bay Area Kontrol Listesi",
+    "newOwnerDesc": "İhtiyacınız olan her şey: lisanslar, mikroçip, veteriner seçimi.",
+    "calciumTitle": "Kalsiyum Takviyesi Rehberi",
+    "calciumDesc": "Ev yapımı diyetlerde kalsiyum eksikliği ve çözümleri.",
+    "balanceIT": "Balance IT Tarif Oluşturucu",
+    "rawFeedingGuide": "Çiğ Besleme Rehberi",
+    "vetApproved": "Veteriner Onaylı Tarifler",
+    "akcIngredients": "AKC Malzeme Rehberi",
+    "aspcaList": "ASPCA Zehirli Gıda Listesi",
+    "balanceITSupp": "Balance IT Takviyeleri",
+    "toolsSection": "İnteraktif Araçlar"
+  },
+  "play": {
+    "dogParksTitle": "Köpek Parkları ve Plajlar",
+    "dogParksSubtitle": "Bay Area'daki en iyi tasmasız köpek parkları ve plajlar.",
+    "fenced": "Çitli",
+    "separateAreas": "Ayrı Alanlar"
+  },
+  "shop": {
+    "petStore": "Evcil Hayvan Mağazası",
+    "grooming": "Bakım",
+    "vet": "Veteriner",
+    "training": "Eğitim",
+    "emergency24h": "24 Saat Acil"
+  },
+  "notFound": {
+    "title": "Bu yavru parkurdan ayrıldı!",
+    "description": "Aradığınız sayfa mevcut değil veya taşınmış.",
+    "goHome": "Ana Sayfaya Dön",
+    "exploreTrails": "Parkurları Keşfet"
+  },
+  "footer": {
+    "tagline": "Bay Area köpeklerinin en iyi yaşamlarını sürmesine yardımcı oluyoruz.",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "privacy": "Gizlilik",
+    "terms": "Şartlar",
+    "copyright": "Bay Area Dog. Tüm hakları saklıdır."
+  },
+  "foodSafety": {
+    "title": "Köpek Gıda Güvenliği Kontrolü",
+    "subtitle": "Hangi insan gıdaları köpeğiniz için güvenli, tehlikeli veya dikkat gerektirir.",
+    "home": "Ana Sayfa",
+    "learn": "Öğren",
+    "searchPlaceholder": "Bir yiyecek arayın...",
+    "filterAll": "Tümü",
+    "safe": "Güvenli",
+    "cautionLabel": "Dikkat",
+    "dangerous": "Tehlikeli",
+    "emergency": "Acil",
+    "noResults": "Aramanıza uygun yiyecek bulunamadı.",
+    "cat_all": "Tümü",
+    "cat_fruit": "Meyveler",
+    "cat_vegetable": "Sebzeler",
+    "cat_protein": "Protein",
+    "cat_dairy": "Süt Ürünleri",
+    "cat_grain": "Tahıllar",
+    "cat_other": "Diğer"
+  },
+  "foodCalculator": {
+    "title": "Çiğ Gıda Hesaplayıcı",
+    "subtitle": "Köpeğinizin ağırlığına ve aktivite düzeyine göre günlük çiğ gıda ihtiyacını hesaplayın.",
+    "home": "Ana Sayfa",
+    "learn": "Öğren",
+    "weightLabel": "Köpeğin Ağırlığı",
+    "activityLabel": "Aktivite Düzeyi",
+    "activity_low": "Düşük",
+    "activity_normal": "Normal",
+    "activity_high": "Yüksek",
+    "infoNote": "Bu hesaplayıcı BARF (80-10-10) oranını kılavuz olarak kullanır. Veterinerinize danışın.",
+    "dailyAmount": "Günlük Besleme Miktarı",
+    "perDay": "günlük",
+    "perWeek": "haftalık",
+    "muscleMeat": "Kas Eti",
+    "rawBone": "Çiğ Kemik",
+    "organ": "Organ (karaciğer dışı)",
+    "liver": "Karaciğer",
+    "veggies": "Sebze ve Meyve",
+    "estimatedCost": "Tahmini Aylık Maliyet",
+    "budgetPlan": "Ekonomik",
+    "budgetDesc": "99 Ranch, temel parçalar",
+    "standardPlan": "Standart",
+    "standardDesc": "Karışık kaynaklar",
+    "premiumPlan": "Premium",
+    "premiumDesc": "Organik, otla beslenen"
+  },
+  "emergencyCard": {
+    "title": "Köpek Acil Durum Kartı",
+    "subtitle": "Temel acil durum iletişim bilgileri, zehirlenme belirtileri ve ilk yardım adımları.",
+    "home": "Ana Sayfa",
+    "learn": "Öğren",
+    "printCard": "Bu Kartı Yazdır",
+    "poisonControl": "ASPCA Zehir Kontrol Hattı",
+    "poisonNote": "7/24 ulaşılabilir.",
+    "symptomsTitle": "Yaygın Zehirlenme Belirtileri",
+    "symptom_vomiting": "Kusma veya kuru öğürme",
+    "symptom_diarrhea": "İshal (kanlı olabilir)",
+    "symptom_drooling": "Aşırı salya veya köpürme",
+    "symptom_lethargy": "Uyuşukluk veya halsizlik",
+    "symptom_seizures": "Titreme veya nöbet",
+    "symptom_breathing": "Nefes alma güçlüğü",
+    "symptom_collapse": "Çökme veya bilinç kaybı",
+    "symptom_pawing": "Ağız veya yüze pençe atma",
+    "firstAidTitle": "Acil İlk Yardım Adımları",
+    "firstAid_step1": "Sakin olun. Köpeğinizi tehlike kaynağından uzaklaştırın.",
+    "firstAid_step2": "Hemen ASPCA (888) 426-4435 veya acil veterinerinizi arayın.",
+    "firstAid_step3": "Bir profesyonel yönlendirmedikçe kusturmayın.",
+    "firstAid_step4": "Köpeğinizin ne yediğini, ne kadar ve ne zaman yediğini not edin.",
+    "firstAid_step5": "En yakın 24 saat acil veterinere mümkün olan en kısa sürede ulaştırın.",
+    "emergencyVets": "Bay Area'da 24 Saat Acil Veterinerler",
+    "allAreas": "Tüm Bölgeler",
+    "visitWebsite": "Web Sitesini Ziyaret Et"
+  },
+  "hikingChecklist": {
+    "title": "Köpek Yürüyüş Kontrol Listesi",
+    "subtitle": "Köpeğinizle güvenli ve eğlenceli bir yürüyüş için paketlemeniz gereken her şey.",
+    "home": "Ana Sayfa",
+    "learn": "Öğren",
+    "progress": "{total} üzerinden {count} hazır",
+    "reset": "Listeyi sıfırla",
+    "item_water_bottle": "Köpeğiniz için su şişesi",
+    "item_collapsible_bowl": "Katlanır su kabı",
+    "item_extra_water": "Ekstra su",
+    "item_leash": "Tasma (6ft standart + yedek)",
+    "item_harness": "Göğüs tasması veya kimlik etiketli tasma",
+    "item_poop_bags": "Dışkı poşetleri (ekstra getirin!)",
+    "item_treats": "Eğitim ödülleri ve atıştırmalıklar",
+    "item_first_aid": "Evcil hayvan ilk yardım çantası",
+    "item_id_tags": "Güncel kimlik etiketleri ve mikroçip bilgisi",
+    "item_flea_tick": "Pire ve kene önlemi uygulanmış",
+    "item_paw_balm": "Engebeli arazi için pati balsamı",
+    "item_towel": "Çamurlu patiler için havlu",
+    "item_sunscreen": "Açık renkli köpekler için güneş kremi",
+    "item_booties": "Sıcak asfalt için köpek botları",
+    "item_reflective": "Düşük ışık için yansıtıcı ekipman",
+    "item_phone_charged": "Telefon tam şarjlı (acil durumlar için)",
+    "tipsTitle": "Profesyonel İpuçları",
+    "tip1": "Gitmeden önce parkurun tasma politikasını kontrol edin.",
+    "tip2": "Yavrular ve yaşlı köpekler için kısa yürüyüşlerle başlayın.",
+    "tip3": "Yaz aylarında yoğun sıcakta (10:00-16:00) yürüyüşten kaçının.",
+    "tip4": "Her zaman diğer yürüyüşçülere yol verin."
+  },
+  "seasonal": {
+    "spring_title": "Bahar Geldi!",
+    "spring_tip": "Yabani çiçek sezonu tam çiçeklenmede. Parkurlarda tilki kuyruklarına dikkat edin.",
+    "summer_title": "Yaz Güvenliği",
+    "summer_tip": "10:00-16:00 arası yürüyüşten kaçının — sıcak asfalt patileri yakar!",
+    "fall_title": "Sonbahar Maceraları",
+    "fall_tip": "Mükemmel yürüyüş havası! Yaprak parkurlarını keşfedin.",
+    "winter_title": "Kış İpuçları",
+    "winter_tip": "Yağmur mevsimi çamurlu parkurlar demek. Havlu getirin.",
+    "explore": "Parkurları Keşfet"
+  },
+  "search": {
+    "placeholder": "Parkur, restoran, yiyecek ara...",
+    "hint": "Aramak için en az 2 karakter yazın",
+    "noResults": "Sonuç bulunamadı.",
+    "escHint": "Kapatmak için Esc'ye basın"
+  }
+}

@@ -2,8 +2,9 @@
 
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
-import { GraduationCap, BookOpen, UtensilsCrossed, Heart, Dumbbell, ExternalLink, ShieldCheck, Calculator, ShieldAlert, Backpack, ChevronRight } from "lucide-react";
+import { GraduationCap, BookOpen, UtensilsCrossed, Heart, Dumbbell, ExternalLink, ShieldCheck, Calculator, ShieldAlert, Backpack, ChevronRight, Clock, ArrowRight } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
+import { articles as guideArticles } from "@/data/articles";
 
 interface Article {
   icon: LucideIcon;
@@ -113,6 +114,29 @@ export default function LearnContent() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {tools.map((tool) => (
             <ToolCard key={tool.ns} tool={tool} />
+          ))}
+        </div>
+      </section>
+
+      {/* Featured Guides */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12">
+        <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">Featured Guides</h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          {guideArticles.map((guide) => (
+            <Link
+              key={guide.slug}
+              href={`/guides/${guide.slug}`}
+              className="group flex flex-col p-5 rounded-2xl border border-gray-100 dark:border-slate-700 bg-white dark:bg-slate-800 hover:shadow-lg hover:border-amber-200 dark:hover:border-amber-700 transition-all"
+            >
+              <h3 className="font-semibold text-gray-900 dark:text-white group-hover:text-amber-600 dark:group-hover:text-amber-400 transition-colors mb-2 line-clamp-2">
+                {guide.title}
+              </h3>
+              <p className="text-sm text-gray-600 dark:text-gray-400 mb-3 line-clamp-2 flex-1">{guide.description}</p>
+              <div className="flex items-center justify-between text-xs text-gray-400">
+                <span className="flex items-center gap-1"><Clock className="w-3 h-3" />{guide.readTime}</span>
+                <span className="flex items-center gap-1 text-amber-600 dark:text-amber-400 font-medium">Read <ArrowRight className="w-3 h-3" /></span>
+              </div>
+            </Link>
           ))}
         </div>
       </section>

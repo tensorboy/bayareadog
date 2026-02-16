@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - Panduan Anjing Anda di Bay Area",
+    "description": "Panduan terbaik untuk pemilik anjing di Bay Area."
+  },
+  "nav": {
+    "home": "Utama",
+    "trails": "Laluan",
+    "eat": "Makan",
+    "play": "Main",
+    "shop": "Kedai",
+    "learn": "Belajar"
+  },
+  "hero": {
+    "title": "Panduan Anjing Anda di Bay Area",
+    "subtitle": "Temui laluan terbaik, restoran mesra anjing, taman dan kedai.",
+    "cta": "Terokai Sekarang",
+    "search_placeholder": "Cari laluan, restoran, taman..."
+  },
+  "categories": {
+    "section_title": "Terokai mengikut Kategori",
+    "trails": {
+      "title": "Laluan & Mendaki",
+      "description": "Laluan tanpa tali, jalan pantai dan pendakian indah.",
+      "cta": "Cari Laluan"
+    },
+    "eat": {
+      "title": "Makan & Minum",
+      "description": "Restoran mesra anjing, kafe dan kilang bir.",
+      "cta": "Cari Restoran"
+    },
+    "play": {
+      "title": "Main & Seronok",
+      "description": "Taman anjing, pantai, acara dan aktiviti.",
+      "cta": "Cari Aktiviti"
+    },
+    "shop": {
+      "title": "Kedai",
+      "description": "Kedai haiwan, salon dandanan dan klinik veterinar.",
+      "cta": "Cari Kedai"
+    },
+    "learn": {
+      "title": "Belajar",
+      "description": "Tips latihan, panduan pemakanan dan nasihat kesihatan.",
+      "cta": "Mula Belajar"
+    }
+  },
+  "featured": {
+    "title": "Popular Minggu Ini",
+    "view_all": "Lihat Semua"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Pantai ikonik tanpa tali dengan pemandangan lautan.",
+      "tags": "Tanpa tali,Pantai,Indah"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "Taman anjing tanpa tali terbesar di Bay Area.",
+      "tags": "Tanpa tali,Tepi air,Besar"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Pelbagai Lokasi",
+      "description": "Restoran mesra anjing dengan menu anjing.",
+      "tags": "Restoran,Teres,Menu Anjing"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Makanan anjing mentah premium dari ladang tempatan.",
+      "tags": "Makanan Mentah,Tempatan,Organik"
+    }
+  },
+  "newsletter": {
+    "title": "Kekal Terkini",
+    "description": "Dapatkan tips mingguan tempat mesra anjing.",
+    "placeholder": "Masukkan emel",
+    "button": "Langgan",
+    "privacy": "Kami menghormati privasi anda."
+  },
+  "todaysPick": {
+    "title": "Pilihan Hari Ini",
+    "random": "Pengembaraan Rawak",
+    "viewDetails": "Lihat Butiran",
+    "weekendAdventure": "Pengembaraan Hujung Minggu",
+    "beatTheHeat": "Lawan Panas",
+    "winterWalk": "Jalan Musim Sejuk",
+    "quickWalk": "Jalan Pantas"
+  },
+  "map": {
+    "title": "Terokai Bay Area",
+    "loading": "Memuatkan peta...",
+    "all": "Semua",
+    "offLeash": "Tanpa Tali",
+    "onLeash": "Bertali",
+    "restaurants": "Restoran",
+    "rawFood": "Makanan Mentah",
+    "legendRestaurant": "Restoran",
+    "legendRawFood": "Kedai Makanan Mentah"
+  },
+  "trailFilters": {
+    "all": "Semua",
+    "offLeash": "Tanpa Tali",
+    "onLeash": "Bertali",
+    "mixed": "Campuran",
+    "allAreas": "Semua Kawasan",
+    "anyDifficulty": "Semua Kesukaran",
+    "easy": "Mudah",
+    "moderate": "Sederhana",
+    "hard": "Sukar",
+    "showing": "{count} daripada {total} laluan",
+    "noResults": "Tiada laluan",
+    "noResultsHint": "Cuba ubah penapis.",
+    "sortRating": "Tertinggi Dinilai",
+    "sortName": "Nama A-Z",
+    "sortDifficulty": "Termudah"
+  },
+  "trailDetail": {
+    "backToTrails": "Kembali ke Laluan",
+    "aboutTrail": "Tentang Laluan Ini",
+    "features": "Ciri-ciri",
+    "bestFor": "Terbaik Untuk",
+    "location": "Lokasi",
+    "getDirections": "Arah di Google Maps",
+    "trailInfo": "Maklumat Laluan",
+    "parking": "Parkir",
+    "water": "Air",
+    "tips": "Tips",
+    "bestTime": "Masa Terbaik",
+    "photoSpot": "Titik Foto",
+    "nearby": "Berhampiran",
+    "food": "Makanan",
+    "vet": "Veterinar",
+    "officialWebsite": "Laman Web Rasmi",
+    "home": "Utama",
+    "trails": "Laluan",
+    "largeDogs": "Anjing Besar",
+    "smallDogs": "Anjing Kecil",
+    "seniorDogs": "Anjing Tua",
+    "puppies": "Anak Anjing",
+    "waterDogs": "Anjing Air",
+    "shyDogs": "Anjing Pemalu"
+  },
+  "mobileNav": {
+    "home": "Utama",
+    "trails": "Laluan",
+    "eat": "Makan",
+    "shop": "Kedai",
+    "more": "Lagi"
+  },
+  "eat": {
+    "restaurantsTitle": "Restoran Mesra Anjing",
+    "restaurantsSubtitle": "Teres dan kafe terbaik di Bay Area.",
+    "rawFoodTitle": "Makanan Mentah & Tulang",
+    "rawFoodSubtitle": "Di mana membeli bahan mentah.",
+    "priceCompareTitle": "Perbandingan Harga",
+    "priceCompareSubtitle": "Bandingkan harga di kedai popular.",
+    "budgetTitle": "Pelan Bajet",
+    "budgetSubtitle": "Pilih pelan yang sesuai bajet.",
+    "item": "Produk",
+    "patio": "Teres",
+    "dogMenu": "Menu Anjing",
+    "visit": "Lawat"
+  },
+  "learn": {
+    "nutrition": "Pemakanan",
+    "recipes": "Resipi",
+    "training": "Latihan",
+    "health": "Kesihatan",
+    "guide": "Panduan",
+    "rawFeedingTitle": "Panduan Pemberian Mentah (BARF)",
+    "rawFeedingDesc": "Pelajari nisbah 80-10-10.",
+    "homemadeTitle": "Resipi Makanan Anjing Buatan Sendiri",
+    "homemadeDesc": "Resipi yang diluluskan veterinar.",
+    "offLeashTitle": "Latihan Tanpa Tali",
+    "offLeashDesc": "Latihan panggilan balik untuk laluan Bay Area.",
+    "toxicFoodsTitle": "Makanan Beracun untuk Anjing",
+    "toxicFoodsDesc": "Apa yang perlu dielakkan.",
+    "newOwnerTitle": "Senarai Semak Pemilik Baru",
+    "newOwnerDesc": "Semua yang anda perlukan di Bay Area.",
+    "calciumTitle": "Panduan Suplemen Kalsium",
+    "calciumDesc": "Kenapa diet buatan sendiri kekurangan kalsium.",
+    "balanceIT": "Balance IT Penjana Resipi",
+    "rawFeedingGuide": "Panduan Pemberian Mentah",
+    "vetApproved": "Diluluskan Veterinar",
+    "akcIngredients": "Panduan Bahan AKC",
+    "aspcaList": "Senarai Racun ASPCA",
+    "balanceITSupp": "Suplemen Balance IT",
+    "toolsSection": "Alat Interaktif"
+  },
+  "play": {
+    "dogParksTitle": "Taman Anjing & Pantai",
+    "dogParksSubtitle": "Taman tanpa tali terbaik di Bay Area.",
+    "fenced": "Berpagar",
+    "separateAreas": "Kawasan Berasingan"
+  },
+  "shop": {
+    "petStore": "Kedai Haiwan",
+    "grooming": "Dandanan",
+    "vet": "Veterinar",
+    "training": "Latihan",
+    "emergency24h": "Kecemasan 24 Jam"
+  },
+  "notFound": {
+    "title": "Anak anjing ini tersesat!",
+    "description": "Halaman tidak ditemui.",
+    "goHome": "Kembali ke Utama",
+    "exploreTrails": "Terokai Laluan"
+  },
+  "footer": {
+    "tagline": "Membantu anjing Bay Area menjalani kehidupan terbaik.",
+    "about": "Tentang",
+    "contact": "Hubungi",
+    "privacy": "Privasi",
+    "terms": "Terma",
+    "copyright": "Bay Area Dog. Hak cipta terpelihara."
+  },
+  "foodSafety": {
+    "title": "Semakan Keselamatan Makanan Anjing",
+    "subtitle": "Makanan manusia mana yang selamat untuk anjing anda.",
+    "home": "Utama",
+    "learn": "Belajar",
+    "searchPlaceholder": "Cari makanan...",
+    "filterAll": "Semua",
+    "safe": "Selamat",
+    "cautionLabel": "Berhati-hati",
+    "dangerous": "Berbahaya",
+    "emergency": "Kecemasan",
+    "noResults": "Tiada keputusan.",
+    "cat_all": "Semua",
+    "cat_fruit": "Buah-buahan",
+    "cat_vegetable": "Sayur-sayuran",
+    "cat_protein": "Protein",
+    "cat_dairy": "Tenusu",
+    "cat_grain": "Bijirin",
+    "cat_other": "Lain-lain"
+  },
+  "foodCalculator": {
+    "title": "Kalkulator Makanan Mentah",
+    "subtitle": "Kira jumlah harian makanan mentah.",
+    "home": "Utama",
+    "learn": "Belajar",
+    "weightLabel": "Berat Anjing",
+    "activityLabel": "Tahap Aktiviti",
+    "activity_low": "Rendah",
+    "activity_normal": "Normal",
+    "activity_high": "Tinggi",
+    "infoNote": "Kalkulator menggunakan BARF (80-10-10). Rujuk veterinar.",
+    "dailyAmount": "Jumlah Harian",
+    "perDay": "sehari",
+    "perWeek": "seminggu",
+    "muscleMeat": "Daging Otot",
+    "rawBone": "Tulang Mentah",
+    "organ": "Organ",
+    "liver": "Hati",
+    "veggies": "Sayur & Buah",
+    "estimatedCost": "Anggaran Kos Bulanan",
+    "budgetPlan": "Bajet",
+    "budgetDesc": "99 Ranch, asas",
+    "standardPlan": "Standard",
+    "standardDesc": "Sumber campuran",
+    "premiumPlan": "Premium",
+    "premiumDesc": "Organik"
+  },
+  "emergencyCard": {
+    "title": "Kad Kecemasan Anjing",
+    "subtitle": "Kenalan kecemasan, gejala keracunan dan pertolongan cemas.",
+    "home": "Utama",
+    "learn": "Belajar",
+    "printCard": "Cetak Kad Ini",
+    "poisonControl": "Talian Racun ASPCA",
+    "poisonNote": "Tersedia 24/7.",
+    "symptomsTitle": "Gejala Keracunan",
+    "symptom_vomiting": "Muntah",
+    "symptom_diarrhea": "Cirit-birit",
+    "symptom_drooling": "Air liur berlebihan",
+    "symptom_lethargy": "Lesu atau lemah",
+    "symptom_seizures": "Gegaran atau sawan",
+    "symptom_breathing": "Kesukaran bernafas",
+    "symptom_collapse": "Pengsan",
+    "symptom_pawing": "Menggaru mulut",
+    "firstAidTitle": "Pertolongan Cemas",
+    "firstAid_step1": "Bertenang. Jauhkan anjing dari bahaya.",
+    "firstAid_step2": "Hubungi ASPCA (888) 426-4435 atau veterinar kecemasan.",
+    "firstAid_step3": "JANGAN paksa muntah tanpa arahan.",
+    "firstAid_step4": "Catat apa yang dimakan, berapa banyak dan bila.",
+    "firstAid_step5": "Bawa ke veterinar kecemasan 24 jam terdekat.",
+    "emergencyVets": "Veterinar Kecemasan 24 Jam di Bay Area",
+    "allAreas": "Semua Kawasan",
+    "visitWebsite": "Lawat Laman Web"
+  },
+  "hikingChecklist": {
+    "title": "Senarai Semak Mendaki dengan Anjing",
+    "subtitle": "Semua yang perlu dibawa untuk mendaki dengan anjing.",
+    "home": "Utama",
+    "learn": "Belajar",
+    "progress": "{count} daripada {total} disediakan",
+    "reset": "Set semula",
+    "item_water_bottle": "Botol air untuk anjing",
+    "item_collapsible_bowl": "Mangkuk lipat",
+    "item_extra_water": "Air tambahan",
+    "item_leash": "Tali + simpanan",
+    "item_harness": "Harnes dengan tag ID",
+    "item_poop_bags": "Beg najis (lebih!)",
+    "item_treats": "Snek latihan",
+    "item_first_aid": "Kit pertolongan cemas",
+    "item_id_tags": "Tag ID dan maklumat cip",
+    "item_flea_tick": "Perlindungan kutu",
+    "item_paw_balm": "Balm tapak kaki",
+    "item_towel": "Tuala",
+    "item_sunscreen": "Pelindung matahari untuk anjing",
+    "item_booties": "Kasut anjing",
+    "item_reflective": "Peralatan reflektif",
+    "item_phone_charged": "Telefon dicas",
+    "tipsTitle": "Tips Pro",
+    "tip1": "Semak polisi tali sebelum pergi.",
+    "tip2": "Mula dengan pendakian pendek untuk anak anjing.",
+    "tip3": "Elak mendaki 10:00-16:00 pada musim panas.",
+    "tip4": "Beri laluan kepada pendaki lain."
+  },
+  "seasonal": {
+    "spring_title": "Musim Bunga Tiba!",
+    "spring_tip": "Musim bunga liar. Berhati-hati dengan foxtails di laluan.",
+    "summer_title": "Keselamatan Musim Panas",
+    "summer_tip": "Elak mendaki 10:00-16:00 — asfalt panas membakar tapak kaki!",
+    "fall_title": "Pengembaraan Musim Luruh",
+    "fall_tip": "Cuaca mendaki sempurna! Hari semakin pendek — bawa peralatan reflektif.",
+    "winter_title": "Tips Musim Sejuk",
+    "winter_tip": "Musim hujan = laluan berlumpur. Bawa tuala.",
+    "explore": "Terokai Laluan"
+  },
+  "search": {
+    "placeholder": "Cari laluan, restoran, makanan...",
+    "hint": "Taip sekurang-kurangnya 2 aksara",
+    "noResults": "Tiada keputusan.",
+    "escHint": "Tekan Esc untuk tutup"
+  }
+}

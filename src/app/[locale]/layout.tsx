@@ -34,21 +34,12 @@ export async function generateMetadata({
     alternates: {
       canonical: "/",
       languages: {
-        en: "/en",
-        zh: "/zh",
-        es: "/es",
-        ja: "/ja",
-        ko: "/ko",
-        fr: "/fr",
-        de: "/de",
-        pt: "/pt",
-        it: "/it",
-        ru: "/ru",
-        ar: "/ar",
-        hi: "/hi",
-        th: "/th",
-        vi: "/vi",
-        id: "/id",
+        en: "/en", zh: "/zh", es: "/es", ja: "/ja", ko: "/ko",
+        fr: "/fr", de: "/de", pt: "/pt", it: "/it", ru: "/ru",
+        ar: "/ar", hi: "/hi", th: "/th", vi: "/vi", id: "/id",
+        tr: "/tr", nl: "/nl", pl: "/pl", sv: "/sv", da: "/da",
+        nb: "/nb", fi: "/fi", cs: "/cs", he: "/he", ms: "/ms",
+        tl: "/tl", uk: "/uk", ro: "/ro", hu: "/hu", el: "/el",
       },
     },
     openGraph: {
@@ -82,7 +73,7 @@ export default async function LocaleLayout({
   setRequestLocale(locale);
 
   return (
-    <html lang={locale} dir={locale === "ar" ? "rtl" : "ltr"} className={geist.variable} suppressHydrationWarning>
+    <html lang={locale} dir={locale === "ar" || locale === "he" ? "rtl" : "ltr"} className={geist.variable} suppressHydrationWarning>
       <head>
         <link rel="icon" href="/icon.svg" type="image/svg+xml" />
         <link rel="apple-touch-icon" href="/icon.svg" />

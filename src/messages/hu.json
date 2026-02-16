@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - Kutyád Útmutatója a Bay Area-hoz",
+    "description": "A legjobb útmutató kutyatulajdonosok számára a Bay Area-ban."
+  },
+  "nav": {
+    "home": "Főoldal",
+    "trails": "Ösvények",
+    "eat": "Étkezés",
+    "play": "Játék",
+    "shop": "Bolt",
+    "learn": "Tanulás"
+  },
+  "hero": {
+    "title": "Kutyád Útmutatója a Bay Area-hoz",
+    "subtitle": "Fedezd fel a legjobb ösvényeket, kutyabarát éttermeket, parkokat és boltokat.",
+    "cta": "Felfedezés",
+    "search_placeholder": "Keresés ösvények, éttermek, parkok..."
+  },
+  "categories": {
+    "section_title": "Felfedezés Kategória Szerint",
+    "trails": {
+      "title": "Ösvények és Túrázás",
+      "description": "Póráz nélküli ösvények, tengerparti séták és festői túrák.",
+      "cta": "Ösvények Keresése"
+    },
+    "eat": {
+      "title": "Étkezés és Ital",
+      "description": "Kutyabarát éttermek, kávézók és sörfőzdék.",
+      "cta": "Éttermek Keresése"
+    },
+    "play": {
+      "title": "Játék és Szórakozás",
+      "description": "Kutyaparkok, strandok, események és tevékenységek.",
+      "cta": "Tevékenységek"
+    },
+    "shop": {
+      "title": "Bolt",
+      "description": "Állatkereskedések, kutyakozmetikák és állatorvosok.",
+      "cta": "Boltok Keresése"
+    },
+    "learn": {
+      "title": "Tanulás",
+      "description": "Képzési tippek, táplálkozási útmutatók és egészségügyi tanácsok.",
+      "cta": "Kezdj Tanulni"
+    }
+  },
+  "featured": {
+    "title": "Népszerű Ezen a Héten",
+    "view_all": "Összes Megtekintése"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Ikonikus póráz nélküli strand lenyűgöző óceáni kilátással.",
+      "tags": "Póráz nélkül,Strand,Festői"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "A Bay Area legnagyobb póráz nélküli kutyaparkja.",
+      "tags": "Póráz nélkül,Vízpart,Nagy"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Több Helyszín",
+      "description": "Kutyabarát étterem kutyamenüvel.",
+      "tags": "Étterem,Terasz,Kutyamenü"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Prémium nyers kutyaeledel helyi farmokról.",
+      "tags": "Nyers eledel,Helyi,Bio"
+    }
+  },
+  "newsletter": {
+    "title": "Maradj Naprakész",
+    "description": "Heti tippek kutyabarát helyekről.",
+    "placeholder": "Add meg az emailed",
+    "button": "Feliratkozás",
+    "privacy": "Tiszteletben tartjuk a magánszférád."
+  },
+  "todaysPick": {
+    "title": "A Nap Választása",
+    "random": "Véletlenszerű Kaland",
+    "viewDetails": "Részletek",
+    "weekendAdventure": "Hétvégi Kaland",
+    "beatTheHeat": "Menekülés a Hőség Elől",
+    "winterWalk": "Téli Séta",
+    "quickWalk": "Gyors Séta"
+  },
+  "map": {
+    "title": "Fedezd Fel a Bay Area-t",
+    "loading": "Térkép betöltése...",
+    "all": "Összes",
+    "offLeash": "Póráz Nélkül",
+    "onLeash": "Pórázos",
+    "restaurants": "Éttermek",
+    "rawFood": "Nyers Eledel",
+    "legendRestaurant": "Étterem",
+    "legendRawFood": "Nyers Eledel Bolt"
+  },
+  "trailFilters": {
+    "all": "Összes",
+    "offLeash": "Póráz Nélkül",
+    "onLeash": "Pórázos",
+    "mixed": "Vegyes",
+    "allAreas": "Minden Terület",
+    "anyDifficulty": "Bármilyen Nehézség",
+    "easy": "Könnyű",
+    "moderate": "Közepes",
+    "hard": "Nehéz",
+    "showing": "{count} / {total} ösvény",
+    "noResults": "Nincs találat",
+    "noResultsHint": "Módosítsd a szűrőket.",
+    "sortRating": "Legjobb Értékelés",
+    "sortName": "Név A-Z",
+    "sortDifficulty": "Legkönnyebb"
+  },
+  "trailDetail": {
+    "backToTrails": "Vissza az Ösvényekhez",
+    "aboutTrail": "Erről az Ösvényről",
+    "features": "Jellemzők",
+    "bestFor": "Legjobb",
+    "location": "Helyszín",
+    "getDirections": "Útvonal a Google Maps-en",
+    "trailInfo": "Ösvény Információ",
+    "parking": "Parkolás",
+    "water": "Víz",
+    "tips": "Tippek",
+    "bestTime": "Legjobb Idő",
+    "photoSpot": "Fotópont",
+    "nearby": "A Közelben",
+    "food": "Étel",
+    "vet": "Állatorvos",
+    "officialWebsite": "Hivatalos Honlap",
+    "home": "Főoldal",
+    "trails": "Ösvények",
+    "largeDogs": "Nagy Kutyák",
+    "smallDogs": "Kis Kutyák",
+    "seniorDogs": "Idős Kutyák",
+    "puppies": "Kölykök",
+    "waterDogs": "Vízi Kutyák",
+    "shyDogs": "Félénk Kutyák"
+  },
+  "mobileNav": {
+    "home": "Főoldal",
+    "trails": "Ösvények",
+    "eat": "Étkezés",
+    "shop": "Bolt",
+    "more": "Több"
+  },
+  "eat": {
+    "restaurantsTitle": "Kutyabarát Éttermek",
+    "restaurantsSubtitle": "A legjobb teraszok a Bay Area-ban.",
+    "rawFoodTitle": "Nyers Eledel és Csontok",
+    "rawFoodSubtitle": "Hol vásárolj nyers hozzávalókat.",
+    "priceCompareTitle": "Ár-összehasonlítás",
+    "priceCompareSubtitle": "Hasonlítsd össze az árakat.",
+    "budgetTitle": "Költségvetési Tervek",
+    "budgetSubtitle": "Válaszd a költségvetésedhez illő tervet.",
+    "item": "Termék",
+    "patio": "Terasz",
+    "dogMenu": "Kutyamenü",
+    "visit": "Meglátogatás"
+  },
+  "learn": {
+    "nutrition": "Táplálkozás",
+    "recipes": "Receptek",
+    "training": "Képzés",
+    "health": "Egészség",
+    "guide": "Útmutató",
+    "rawFeedingTitle": "Nyers Etetés Útmutató (BARF)",
+    "rawFeedingDesc": "Ismerd meg a 80-10-10 arányt.",
+    "homemadeTitle": "Házi Kutyaeledel Receptek",
+    "homemadeDesc": "Állatorvos által jóváhagyott receptek.",
+    "offLeashTitle": "Póráz Nélküli Képzés",
+    "offLeashDesc": "Visszahívási képzés a Bay Area ösvényeihez.",
+    "toxicFoodsTitle": "Mérgező Ételek Kutyáknak",
+    "toxicFoodsDesc": "Kerülendő élelmiszerek.",
+    "newOwnerTitle": "Új Kutyatulajdonos Ellenőrző Lista",
+    "newOwnerDesc": "Minden amire szükséged van a Bay Area-ban.",
+    "calciumTitle": "Kalcium Kiegészítő Útmutató",
+    "calciumDesc": "Miért hiányzik a kalcium a házi diétákból.",
+    "balanceIT": "Balance IT Recept Generátor",
+    "rawFeedingGuide": "Nyers Etetés Útmutató",
+    "vetApproved": "Állatorvos Által Jóváhagyott",
+    "akcIngredients": "AKC Összetevő Útmutató",
+    "aspcaList": "ASPCA Mérgek Listája",
+    "balanceITSupp": "Balance IT Kiegészítők",
+    "toolsSection": "Interaktív Eszközök"
+  },
+  "play": {
+    "dogParksTitle": "Kutyaparkok és Strandok",
+    "dogParksSubtitle": "A legjobb póráz nélküli parkok a Bay Area-ban.",
+    "fenced": "Bekerített",
+    "separateAreas": "Külön Területek"
+  },
+  "shop": {
+    "petStore": "Állatkereskedés",
+    "grooming": "Kutyakozmetika",
+    "vet": "Állatorvos",
+    "training": "Képzés",
+    "emergency24h": "24 Órás Ügyelet"
+  },
+  "notFound": {
+    "title": "Ez a kölyök eltévedt!",
+    "description": "Az oldal nem található.",
+    "goHome": "Vissza a Főoldalra",
+    "exploreTrails": "Ösvények Felfedezése"
+  },
+  "footer": {
+    "tagline": "Segítünk a Bay Area kutyáinak a legjobb életet élni.",
+    "about": "Rólunk",
+    "contact": "Kapcsolat",
+    "privacy": "Adatvédelem",
+    "terms": "Feltételek",
+    "copyright": "Bay Area Dog. Minden jog fenntartva."
+  },
+  "foodSafety": {
+    "title": "Kutyaeledel Biztonsági Ellenőrzés",
+    "subtitle": "Mely emberi ételek biztonságosak kutyádnak.",
+    "home": "Főoldal",
+    "learn": "Tanulás",
+    "searchPlaceholder": "Keresés étel...",
+    "filterAll": "Összes",
+    "safe": "Biztonságos",
+    "cautionLabel": "Óvatos",
+    "dangerous": "Veszélyes",
+    "emergency": "Sürgős",
+    "noResults": "Nincs találat.",
+    "cat_all": "Összes",
+    "cat_fruit": "Gyümölcsök",
+    "cat_vegetable": "Zöldségek",
+    "cat_protein": "Fehérje",
+    "cat_dairy": "Tejtermék",
+    "cat_grain": "Gabona",
+    "cat_other": "Egyéb"
+  },
+  "foodCalculator": {
+    "title": "Nyers Eledel Kalkulátor",
+    "subtitle": "Számold ki a napi nyers eledel mennyiséget.",
+    "home": "Főoldal",
+    "learn": "Tanulás",
+    "weightLabel": "Kutya Súlya",
+    "activityLabel": "Aktivitási Szint",
+    "activity_low": "Alacsony",
+    "activity_normal": "Normál",
+    "activity_high": "Magas",
+    "infoNote": "A kalkulátor BARF (80-10-10) arányt használ. Konzultálj állatorvossal.",
+    "dailyAmount": "Napi Mennyiség",
+    "perDay": "naponta",
+    "perWeek": "hetente",
+    "muscleMeat": "Izomhús",
+    "rawBone": "Nyers Csont",
+    "organ": "Szerv",
+    "liver": "Máj",
+    "veggies": "Zöldség és Gyümölcs",
+    "estimatedCost": "Becsült Havi Költség",
+    "budgetPlan": "Gazdaságos",
+    "budgetDesc": "99 Ranch, alap",
+    "standardPlan": "Standard",
+    "standardDesc": "Vegyes források",
+    "premiumPlan": "Prémium",
+    "premiumDesc": "Bio"
+  },
+  "emergencyCard": {
+    "title": "Kutya Vészhelyzeti Kártya",
+    "subtitle": "Sürgősségi elérhetőségek, mérgezési tünetek és elsősegély.",
+    "home": "Főoldal",
+    "learn": "Tanulás",
+    "printCard": "Kártya Nyomtatása",
+    "poisonControl": "ASPCA Méregközpont",
+    "poisonNote": "Elérhető 24/7.",
+    "symptomsTitle": "Mérgezési Tünetek",
+    "symptom_vomiting": "Hányás",
+    "symptom_diarrhea": "Hasmenés",
+    "symptom_drooling": "Túlzott nyáladzás",
+    "symptom_lethargy": "Bágyadtság vagy gyengeség",
+    "symptom_seizures": "Remegés vagy görcs",
+    "symptom_breathing": "Légzési nehézség",
+    "symptom_collapse": "Összeomlás",
+    "symptom_pawing": "Mancsol a szájánál",
+    "firstAidTitle": "Elsősegély",
+    "firstAid_step1": "Maradj nyugodt. Távolítsd el a kutyát a veszélytől.",
+    "firstAid_step2": "Hívd az ASPCA-t (888) 426-4435 vagy a sürgősségi állatorvost.",
+    "firstAid_step3": "NE idézz elő hányást utasítás nélkül.",
+    "firstAid_step4": "Jegyzd fel mit evett a kutya, mennyit és mikor.",
+    "firstAid_step5": "Szállítsd a legközelebbi 24 órás sürgősségi állatorvoshoz.",
+    "emergencyVets": "24 Órás Sürgősségi Állatorvosok a Bay Area-ban",
+    "allAreas": "Minden Terület",
+    "visitWebsite": "Honlap Megtekintése"
+  },
+  "hikingChecklist": {
+    "title": "Kutya Túra Ellenőrző Lista",
+    "subtitle": "Minden ami kell egy biztonságos túrához kutyáddal.",
+    "home": "Főoldal",
+    "learn": "Tanulás",
+    "progress": "{count} / {total} kész",
+    "reset": "Visszaállítás",
+    "item_water_bottle": "Vizespalack a kutyának",
+    "item_collapsible_bowl": "Összecsukható tál",
+    "item_extra_water": "Extra víz",
+    "item_leash": "Póráz + tartalék",
+    "item_harness": "Hám azonosítóval",
+    "item_poop_bags": "Zacskók (plusz!)",
+    "item_treats": "Jutalomfalatok",
+    "item_first_aid": "Elsősegély csomag",
+    "item_id_tags": "Azonosító és chip info",
+    "item_flea_tick": "Bolha- és kullancsvédelem",
+    "item_paw_balm": "Mancsbalzsam",
+    "item_towel": "Törölköző",
+    "item_sunscreen": "Kutya fényvédő",
+    "item_booties": "Kutya cipő",
+    "item_reflective": "Fényvisszaverő felszerelés",
+    "item_phone_charged": "Feltöltött telefon",
+    "tipsTitle": "Pro Tippek",
+    "tip1": "Ellenőrizd a póráz szabályzatot indulás előtt.",
+    "tip2": "Kezdj rövid túrákkal kölyköknél.",
+    "tip3": "Kerüld a túrázást 10:00-16:00 között nyáron.",
+    "tip4": "Mindig adj utat más túrázóknak."
+  },
+  "seasonal": {
+    "spring_title": "Itt a Tavasz!",
+    "spring_tip": "Vadvirág szezon. Vigyázz a foxtail-ekre az ösvényeken.",
+    "summer_title": "Nyári Biztonság",
+    "summer_tip": "Kerüld a túrázást 10:00-16:00 — a forró aszfalt égeti a mancsokat!",
+    "fall_title": "Őszi Kalandok",
+    "fall_tip": "Tökéletes túra idő! Rövidebb nappalok — vigyél fényvisszaverőt.",
+    "winter_title": "Téli Tippek",
+    "winter_tip": "Esős évszak = sáros ösvények. Vigyél törölközőt.",
+    "explore": "Ösvények Felfedezése"
+  },
+  "search": {
+    "placeholder": "Keresés ösvények, éttermek, ételek...",
+    "hint": "Írj be legalább 2 karaktert",
+    "noResults": "Nincs találat.",
+    "escHint": "Nyomd meg az Esc-et a bezáráshoz"
+  }
+}

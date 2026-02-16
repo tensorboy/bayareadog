@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - המדריך של הכלב שלך ל-Bay Area",
+    "description": "המדריך המקיף ביותר לבעלי כלבים ב-Bay Area."
+  },
+  "nav": {
+    "home": "דף הבית",
+    "trails": "שבילים",
+    "eat": "אוכל",
+    "play": "משחק",
+    "shop": "חנות",
+    "learn": "למידה"
+  },
+  "hero": {
+    "title": "המדריך של הכלב שלך ל-Bay Area",
+    "subtitle": "גלו את השבילים הטובים ביותר, מסעדות ידידותיות לכלבים, פארקים וחנויות.",
+    "cta": "חקור עכשיו",
+    "search_placeholder": "חפש שבילים, מסעדות, פארקים..."
+  },
+  "categories": {
+    "section_title": "חקור לפי קטגוריה",
+    "trails": {
+      "title": "שבילים וטיולים",
+      "description": "שבילים ללא רצועה, טיולי חוף ומסלולים ציוריים.",
+      "cta": "מצא שבילים"
+    },
+    "eat": {
+      "title": "אוכל ושתייה",
+      "description": "מסעדות ידידותיות לכלבים, בתי קפה ומבשלות.",
+      "cta": "מצא מסעדות"
+    },
+    "play": {
+      "title": "משחק וכיף",
+      "description": "פארקי כלבים, חופים, אירועים ופעילויות.",
+      "cta": "מצא פעילויות"
+    },
+    "shop": {
+      "title": "חנות",
+      "description": "חנויות חיות, מספרות ומרפאות וטרינריות.",
+      "cta": "מצא חנויות"
+    },
+    "learn": {
+      "title": "למידה",
+      "description": "טיפים לאילוף, מדריכי תזונה ועצות בריאות.",
+      "cta": "התחל ללמוד"
+    }
+  },
+  "featured": {
+    "title": "פופולרי השבוע",
+    "view_all": "צפה בהכל"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "סן פרנסיסקו",
+      "description": "חוף אייקוני ללא רצועה עם נוף אוקיינוס מדהים.",
+      "tags": "ללא רצועה,חוף,ציורי"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "ריצ'מונד",
+      "description": "פארק הכלבים הגדול ביותר ב-Bay Area ללא רצועה.",
+      "tags": "ללא רצועה,חוף ים,גדול"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "מספר מיקומים",
+      "description": "מסעדה ידידותית לכלבים עם תפריט כלבים.",
+      "tags": "מסעדה,מרפסת,תפריט כלבים"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "סן רפאל",
+      "description": "מזון כלבים גולמי פרימיום מחוות מקומיות.",
+      "tags": "מזון גולמי,מקומי,אורגני"
+    }
+  },
+  "newsletter": {
+    "title": "הישארו מעודכנים",
+    "description": "קבלו טיפים שבועיים למקומות ידידותיים לכלבים.",
+    "placeholder": "הזינו אימייל",
+    "button": "הרשמה",
+    "privacy": "אנו מכבדים את פרטיותכם."
+  },
+  "todaysPick": {
+    "title": "הבחירה של היום",
+    "random": "הרפתקה אקראית",
+    "viewDetails": "צפה בפרטים",
+    "weekendAdventure": "הרפתקת סוף שבוע",
+    "beatTheHeat": "להתגבר על החום",
+    "winterWalk": "טיול חורף",
+    "quickWalk": "טיול מהיר"
+  },
+  "map": {
+    "title": "חקור את Bay Area",
+    "loading": "טוען מפה...",
+    "all": "הכל",
+    "offLeash": "ללא רצועה",
+    "onLeash": "עם רצועה",
+    "restaurants": "מסעדות",
+    "rawFood": "מזון גולמי",
+    "legendRestaurant": "מסעדה",
+    "legendRawFood": "חנות מזון גולמי"
+  },
+  "trailFilters": {
+    "all": "הכל",
+    "offLeash": "ללא רצועה",
+    "onLeash": "עם רצועה",
+    "mixed": "מעורב",
+    "allAreas": "כל האזורים",
+    "anyDifficulty": "כל רמת קושי",
+    "easy": "קל",
+    "moderate": "בינוני",
+    "hard": "קשה",
+    "showing": "{count} מתוך {total} שבילים",
+    "noResults": "לא נמצאו שבילים",
+    "noResultsHint": "נסו לשנות את הסינון.",
+    "sortRating": "דירוג גבוה",
+    "sortName": "שם א-ת",
+    "sortDifficulty": "הקל ביותר"
+  },
+  "trailDetail": {
+    "backToTrails": "חזרה לשבילים",
+    "aboutTrail": "על שביל זה",
+    "features": "תכונות",
+    "bestFor": "הטוב ביותר עבור",
+    "location": "מיקום",
+    "getDirections": "הוראות ב-Google Maps",
+    "trailInfo": "מידע על השביל",
+    "parking": "חניה",
+    "water": "מים",
+    "tips": "טיפים",
+    "bestTime": "הזמן הטוב ביותר",
+    "photoSpot": "נקודת צילום",
+    "nearby": "בסביבה",
+    "food": "אוכל",
+    "vet": "וטרינר",
+    "officialWebsite": "אתר רשמי",
+    "home": "דף הבית",
+    "trails": "שבילים",
+    "largeDogs": "כלבים גדולים",
+    "smallDogs": "כלבים קטנים",
+    "seniorDogs": "כלבים מבוגרים",
+    "puppies": "גורים",
+    "waterDogs": "כלבי מים",
+    "shyDogs": "כלבים ביישנים"
+  },
+  "mobileNav": {
+    "home": "בית",
+    "trails": "שבילים",
+    "eat": "אוכל",
+    "shop": "חנות",
+    "more": "עוד"
+  },
+  "eat": {
+    "restaurantsTitle": "מסעדות ידידותיות לכלבים",
+    "restaurantsSubtitle": "המרפסות והקפה הטובים ביותר ב-Bay Area.",
+    "rawFoodTitle": "מזון גולמי ועצמות",
+    "rawFoodSubtitle": "איפה לקנות מרכיבים גולמיים.",
+    "priceCompareTitle": "השוואת מחירים",
+    "priceCompareSubtitle": "השוו מחירים בחנויות פופולריות.",
+    "budgetTitle": "תוכניות תקציב",
+    "budgetSubtitle": "בחרו תוכנית שמתאימה לתקציב.",
+    "item": "מוצר",
+    "patio": "מרפסת",
+    "dogMenu": "תפריט כלבים",
+    "visit": "בקרו"
+  },
+  "learn": {
+    "nutrition": "תזונה",
+    "recipes": "מתכונים",
+    "training": "אילוף",
+    "health": "בריאות",
+    "guide": "מדריך",
+    "rawFeedingTitle": "מדריך האכלה גולמית (BARF)",
+    "rawFeedingDesc": "למדו את יחס 80-10-10.",
+    "homemadeTitle": "מתכוני מזון כלבים ביתי",
+    "homemadeDesc": "מתכונים מאושרים על ידי וטרינר.",
+    "offLeashTitle": "אימון ללא רצועה",
+    "offLeashDesc": "אימון קריאה חזרה לשבילי Bay Area.",
+    "toxicFoodsTitle": "מזונות רעילים לכלבים",
+    "toxicFoodsDesc": "מה להימנע.",
+    "newOwnerTitle": "רשימת בדיקה לבעל כלב חדש",
+    "newOwnerDesc": "כל מה שצריך ב-Bay Area.",
+    "calciumTitle": "מדריך תוספי סידן",
+    "calciumDesc": "למה תזונה ביתית חסרה סידן.",
+    "balanceIT": "Balance IT מחולל מתכונים",
+    "rawFeedingGuide": "מדריך האכלה גולמית",
+    "vetApproved": "מאושר וטרינרית",
+    "akcIngredients": "מדריך מרכיבים AKC",
+    "aspcaList": "רשימת רעלים ASPCA",
+    "balanceITSupp": "תוספי Balance IT",
+    "toolsSection": "כלים אינטראקטיביים"
+  },
+  "play": {
+    "dogParksTitle": "פארקי כלבים וחופים",
+    "dogParksSubtitle": "הפארקים הטובים ביותר ללא רצועה ב-Bay Area.",
+    "fenced": "מגודר",
+    "separateAreas": "אזורים נפרדים"
+  },
+  "shop": {
+    "petStore": "חנות חיות",
+    "grooming": "טיפוח",
+    "vet": "וטרינר",
+    "training": "אילוף",
+    "emergency24h": "חירום 24 שעות"
+  },
+  "notFound": {
+    "title": "הגור הזה תעה מהשביל!",
+    "description": "העמוד שחיפשת לא נמצא.",
+    "goHome": "חזרה לדף הבית",
+    "exploreTrails": "חקור שבילים"
+  },
+  "footer": {
+    "tagline": "עוזרים לכלבי Bay Area לחיות את החיים הטובים ביותר.",
+    "about": "אודות",
+    "contact": "צור קשר",
+    "privacy": "פרטיות",
+    "terms": "תנאים",
+    "copyright": "Bay Area Dog. כל הזכויות שמורות."
+  },
+  "foodSafety": {
+    "title": "בדיקת בטיחות מזון כלבים",
+    "subtitle": "אילו מזונות אנושיים בטוחים לכלב.",
+    "home": "בית",
+    "learn": "למידה",
+    "searchPlaceholder": "חפש מזון...",
+    "filterAll": "הכל",
+    "safe": "בטוח",
+    "cautionLabel": "זהירות",
+    "dangerous": "מסוכן",
+    "emergency": "חירום",
+    "noResults": "אין תוצאות.",
+    "cat_all": "הכל",
+    "cat_fruit": "פירות",
+    "cat_vegetable": "ירקות",
+    "cat_protein": "חלבון",
+    "cat_dairy": "מוצרי חלב",
+    "cat_grain": "דגנים",
+    "cat_other": "אחר"
+  },
+  "foodCalculator": {
+    "title": "מחשבון מזון גולמי",
+    "subtitle": "חשבו כמות יומית של מזון גולמי.",
+    "home": "בית",
+    "learn": "למידה",
+    "weightLabel": "משקל הכלב",
+    "activityLabel": "רמת פעילות",
+    "activity_low": "נמוך",
+    "activity_normal": "רגיל",
+    "activity_high": "גבוה",
+    "infoNote": "המחשבון משתמש ב-BARF (80-10-10). התייעצו עם וטרינר.",
+    "dailyAmount": "כמות יומית",
+    "perDay": "ליום",
+    "perWeek": "לשבוע",
+    "muscleMeat": "בשר שריר",
+    "rawBone": "עצם גולמית",
+    "organ": "איבר",
+    "liver": "כבד",
+    "veggies": "ירקות ופירות",
+    "estimatedCost": "עלות חודשית משוערת",
+    "budgetPlan": "חסכוני",
+    "budgetDesc": "99 Ranch, בסיסי",
+    "standardPlan": "רגיל",
+    "standardDesc": "מקורות מעורבים",
+    "premiumPlan": "פרימיום",
+    "premiumDesc": "אורגני"
+  },
+  "emergencyCard": {
+    "title": "כרטיס חירום לכלבים",
+    "subtitle": "אנשי קשר לחירום, סימני הרעלה ועזרה ראשונה.",
+    "home": "בית",
+    "learn": "למידה",
+    "printCard": "הדפס כרטיס",
+    "poisonControl": "קו רעלים ASPCA",
+    "poisonNote": "זמין 24/7.",
+    "symptomsTitle": "סימני הרעלה",
+    "symptom_vomiting": "הקאות",
+    "symptom_diarrhea": "שלשול",
+    "symptom_drooling": "ריור מוגזם",
+    "symptom_lethargy": "עייפות או חולשה",
+    "symptom_seizures": "רעידות או פרכוסים",
+    "symptom_breathing": "קשיי נשימה",
+    "symptom_collapse": "קריסה",
+    "symptom_pawing": "שפשוף הפה",
+    "firstAidTitle": "עזרה ראשונה",
+    "firstAid_step1": "הישארו רגועים. הרחיקו את הכלב מהסכנה.",
+    "firstAid_step2": "התקשרו ל-ASPCA (888) 426-4435 או וטרינר חירום.",
+    "firstAid_step3": "אל תגרמו להקאה ללא הנחיה.",
+    "firstAid_step4": "רשמו מה הכלב אכל, כמה ומתי.",
+    "firstAid_step5": "הובילו לוטרינר חירום 24 שעות הקרוב.",
+    "emergencyVets": "וטרינרי חירום 24 שעות ב-Bay Area",
+    "allAreas": "כל האזורים",
+    "visitWebsite": "בקרו באתר"
+  },
+  "hikingChecklist": {
+    "title": "רשימת טיול עם כלב",
+    "subtitle": "כל מה שצריך לארוז לטיול עם הכלב.",
+    "home": "בית",
+    "learn": "למידה",
+    "progress": "{count} מתוך {total} ארוז",
+    "reset": "אפס",
+    "item_water_bottle": "בקבוק מים לכלב",
+    "item_collapsible_bowl": "קערת מים מתקפלת",
+    "item_extra_water": "מים נוספים",
+    "item_leash": "רצועה + גיבוי",
+    "item_harness": "רתמה עם תג זיהוי",
+    "item_poop_bags": "שקיות קקי (עודף!)",
+    "item_treats": "חטיפי אימון",
+    "item_first_aid": "ערכת עזרה ראשונה",
+    "item_id_tags": "תגי זיהוי וצ'יפ",
+    "item_flea_tick": "הגנה מפרעושים וקרציות",
+    "item_paw_balm": "משחת כפות",
+    "item_towel": "מגבת",
+    "item_sunscreen": "קרם הגנה לכלבים",
+    "item_booties": "נעלי כלב",
+    "item_reflective": "ציוד זוהר",
+    "item_phone_charged": "טלפון טעון",
+    "tipsTitle": "טיפים",
+    "tip1": "בדקו מדיניות רצועה לפני היציאה.",
+    "tip2": "התחילו עם טיולים קצרים עם גורים.",
+    "tip3": "הימנעו מטיולים 10:00-16:00 בקיץ.",
+    "tip4": "תנו מקום למטיילים אחרים."
+  },
+  "seasonal": {
+    "spring_title": "האביב הגיע!",
+    "spring_tip": "עונת פרחי בר. היזהרו מזנבות שועל בשבילים.",
+    "summer_title": "בטיחות קיץ",
+    "summer_tip": "הימנעו מטיולים 10:00-16:00 — אספלט חם שורף כפות!",
+    "fall_title": "הרפתקאות סתיו",
+    "fall_tip": "מזג אוויר מושלם לטיולים! יום קצר יותר — קחו ציוד זוהר.",
+    "winter_title": "טיפים לחורף",
+    "winter_tip": "עונת גשמים = שבילים בוציים. קחו מגבות.",
+    "explore": "חקור שבילים"
+  },
+  "search": {
+    "placeholder": "חפש שבילים, מסעדות, מזון...",
+    "hint": "הקלידו לפחות 2 תווים",
+    "noResults": "אין תוצאות.",
+    "escHint": "לחצו Esc לסגירה"
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - Przewodnik dla Twojego Psa",
+    "description": "Najlepszy przewodnik dla właścicieli psów w Bay Area."
+  },
+  "nav": {
+    "home": "Strona główna",
+    "trails": "Szlaki",
+    "eat": "Jedzenie",
+    "play": "Zabawa",
+    "shop": "Sklep",
+    "learn": "Nauka"
+  },
+  "hero": {
+    "title": "Przewodnik Twojego Psa po Bay Area",
+    "subtitle": "Odkryj najlepsze szlaki, restauracje przyjazne psom, parki i sklepy.",
+    "cta": "Odkrywaj",
+    "search_placeholder": "Szukaj szlaków, restauracji, parków..."
+  },
+  "categories": {
+    "section_title": "Przeglądaj według Kategorii",
+    "trails": {
+      "title": "Szlaki i Wędrówki",
+      "description": "Szlaki bez smyczy, spacery po plaży i malownicze wędrówki.",
+      "cta": "Znajdź Szlaki"
+    },
+    "eat": {
+      "title": "Jedzenie i Picie",
+      "description": "Restauracje przyjazne psom, kawiarnie i browary.",
+      "cta": "Znajdź Restauracje"
+    },
+    "play": {
+      "title": "Zabawa",
+      "description": "Parki dla psów, plaże, wydarzenia i aktywności.",
+      "cta": "Znajdź Aktywności"
+    },
+    "shop": {
+      "title": "Sklep",
+      "description": "Sklepy zoologiczne, salony groomerskie i kliniki weterynaryjne.",
+      "cta": "Znajdź Sklepy"
+    },
+    "learn": {
+      "title": "Nauka",
+      "description": "Porady treningowe, przewodniki żywieniowe i porady zdrowotne.",
+      "cta": "Zacznij Naukę"
+    }
+  },
+  "featured": {
+    "title": "Popularne w tym Tygodniu",
+    "view_all": "Zobacz Wszystko"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Kultowa plaża bez smyczy z widokami na ocean.",
+      "tags": "Bez smyczy,Plaża,Widokowy"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "Największy park dla psów bez smyczy w Bay Area.",
+      "tags": "Bez smyczy,Nad wodą,Duży"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Wiele Lokalizacji",
+      "description": "Restauracja przyjazna psom z menu dla psów.",
+      "tags": "Restauracja,Taras,Menu dla psów"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Premium surowa karma z lokalnych farm.",
+      "tags": "Surowa karma,Lokalna,Organiczna"
+    }
+  },
+  "newsletter": {
+    "title": "Bądź na Bieżąco",
+    "description": "Cotygodniowe rekomendacje najlepszych miejsc i porad.",
+    "placeholder": "Wpisz email",
+    "button": "Subskrybuj",
+    "privacy": "Szanujemy Twoją prywatność."
+  },
+  "todaysPick": {
+    "title": "Wybór Dnia",
+    "random": "Losowa Przygoda",
+    "viewDetails": "Zobacz Szczegóły",
+    "weekendAdventure": "Weekendowa Przygoda",
+    "beatTheHeat": "Ucieczka przed Upałem",
+    "winterWalk": "Zimowy Spacer",
+    "quickWalk": "Szybki Spacer"
+  },
+  "map": {
+    "title": "Odkrywaj Bay Area",
+    "loading": "Ładowanie mapy...",
+    "all": "Wszystko",
+    "offLeash": "Bez smyczy",
+    "onLeash": "Na smyczy",
+    "restaurants": "Restauracje",
+    "rawFood": "Surowa karma",
+    "legendRestaurant": "Restauracja",
+    "legendRawFood": "Sklep z surową karmą"
+  },
+  "trailFilters": {
+    "all": "Wszystko",
+    "offLeash": "Bez smyczy",
+    "onLeash": "Na smyczy",
+    "mixed": "Mieszane",
+    "allAreas": "Wszystkie Obszary",
+    "anyDifficulty": "Dowolna Trudność",
+    "easy": "Łatwy",
+    "moderate": "Umiarkowany",
+    "hard": "Trudny",
+    "showing": "{count} z {total} szlaków",
+    "noResults": "Brak szlaków pasujących do filtrów",
+    "noResultsHint": "Dostosuj filtry.",
+    "sortRating": "Najwyżej Oceniane",
+    "sortName": "Nazwa A-Z",
+    "sortDifficulty": "Najłatwiejsze"
+  },
+  "trailDetail": {
+    "backToTrails": "Powrót do Szlaków",
+    "aboutTrail": "O tym Szlaku",
+    "features": "Cechy",
+    "bestFor": "Najlepszy Dla",
+    "location": "Lokalizacja",
+    "getDirections": "Wyznacz Trasę w Google Maps",
+    "trailInfo": "Informacje o Szlaku",
+    "parking": "Parking",
+    "water": "Woda",
+    "tips": "Porady",
+    "bestTime": "Najlepszy Czas",
+    "photoSpot": "Punkt Fotograficzny",
+    "nearby": "W Pobliżu",
+    "food": "Jedzenie",
+    "vet": "Weterynarz",
+    "officialWebsite": "Oficjalna Strona",
+    "home": "Strona główna",
+    "trails": "Szlaki",
+    "largeDogs": "Duże Psy",
+    "smallDogs": "Małe Psy",
+    "seniorDogs": "Starsze Psy",
+    "puppies": "Szczenięta",
+    "waterDogs": "Psy Wodne",
+    "shyDogs": "Nieśmiałe Psy"
+  },
+  "mobileNav": {
+    "home": "Główna",
+    "trails": "Szlaki",
+    "eat": "Jedzenie",
+    "shop": "Sklep",
+    "more": "Więcej"
+  },
+  "eat": {
+    "restaurantsTitle": "Restauracje Przyjazne Psom",
+    "restaurantsSubtitle": "Najlepsze tarasy i kawiarnie w Bay Area.",
+    "rawFoodTitle": "Surowa Karma i Kości",
+    "rawFoodSubtitle": "Gdzie kupić surowe mięsne kości.",
+    "priceCompareTitle": "Porównanie Cen",
+    "priceCompareSubtitle": "Porównaj ceny w popularnych sklepach.",
+    "budgetTitle": "Plany Budżetowe",
+    "budgetSubtitle": "Wybierz plan dopasowany do budżetu.",
+    "item": "Produkt",
+    "patio": "Taras",
+    "dogMenu": "Menu dla psów",
+    "visit": "Odwiedź"
+  },
+  "learn": {
+    "nutrition": "Żywienie",
+    "recipes": "Przepisy",
+    "training": "Trening",
+    "health": "Zdrowie",
+    "guide": "Przewodnik",
+    "rawFeedingTitle": "Przewodnik Surowego Żywienia (BARF)",
+    "rawFeedingDesc": "Poznaj proporcje 80-10-10.",
+    "homemadeTitle": "Przepisy na Domową Karmę",
+    "homemadeDesc": "Zatwierdzone przez weterynarza przepisy.",
+    "offLeashTitle": "Trening bez Smyczy",
+    "offLeashDesc": "Trening przywoływania dla szlaków Bay Area.",
+    "toxicFoodsTitle": "Toksyczne Pokarmy dla Psów",
+    "toxicFoodsDesc": "Wiedzieć czego unikać.",
+    "newOwnerTitle": "Lista Nowego Właściciela Psa",
+    "newOwnerDesc": "Wszystko czego potrzebujesz w Bay Area.",
+    "calciumTitle": "Suplementacja Wapniem",
+    "calciumDesc": "Dlaczego domowe diety nie mają wystarczająco wapnia.",
+    "balanceIT": "Balance IT Przepisy",
+    "rawFeedingGuide": "Przewodnik Surowego Żywienia",
+    "vetApproved": "Przepisy Weterynaryjne",
+    "akcIngredients": "AKC Składniki",
+    "aspcaList": "ASPCA Lista Toksycznych",
+    "balanceITSupp": "Balance IT Suplementy",
+    "toolsSection": "Interaktywne Narzędzia"
+  },
+  "play": {
+    "dogParksTitle": "Parki dla Psów i Plaże",
+    "dogParksSubtitle": "Najlepsze parki bez smyczy i plaże w Bay Area.",
+    "fenced": "Ogrodzone",
+    "separateAreas": "Oddzielne Strefy"
+  },
+  "shop": {
+    "petStore": "Sklep Zoologiczny",
+    "grooming": "Grooming",
+    "vet": "Weterynarz",
+    "training": "Szkolenie",
+    "emergency24h": "Całodobowy Dyżur"
+  },
+  "notFound": {
+    "title": "Ten szczeniak zbłądził!",
+    "description": "Strona nie istnieje lub została przeniesiona.",
+    "goHome": "Strona Główna",
+    "exploreTrails": "Odkrywaj Szlaki"
+  },
+  "footer": {
+    "tagline": "Pomagamy psom z Bay Area żyć najlepiej.",
+    "about": "O nas",
+    "contact": "Kontakt",
+    "privacy": "Prywatność",
+    "terms": "Regulamin",
+    "copyright": "Bay Area Dog. Wszelkie prawa zastrzeżone."
+  },
+  "foodSafety": {
+    "title": "Bezpieczeństwo Karmy",
+    "subtitle": "Które ludzkie pokarmy są bezpieczne dla psa.",
+    "home": "Główna",
+    "learn": "Nauka",
+    "searchPlaceholder": "Szukaj pokarmu...",
+    "filterAll": "Wszystko",
+    "safe": "Bezpieczne",
+    "cautionLabel": "Ostrożnie",
+    "dangerous": "Niebezpieczne",
+    "emergency": "Nagły wypadek",
+    "noResults": "Brak wyników.",
+    "cat_all": "Wszystko",
+    "cat_fruit": "Owoce",
+    "cat_vegetable": "Warzywa",
+    "cat_protein": "Białko",
+    "cat_dairy": "Nabiał",
+    "cat_grain": "Zboża",
+    "cat_other": "Inne"
+  },
+  "foodCalculator": {
+    "title": "Kalkulator Surowej Karmy",
+    "subtitle": "Oblicz dzienną ilość surowej karmy.",
+    "home": "Główna",
+    "learn": "Nauka",
+    "weightLabel": "Waga Psa",
+    "activityLabel": "Aktywność",
+    "activity_low": "Niski",
+    "activity_normal": "Normalny",
+    "activity_high": "Wysoki",
+    "infoNote": "Kalkulator używa proporcji BARF (80-10-10). Konsultuj z weterynarzem.",
+    "dailyAmount": "Dzienna Ilość",
+    "perDay": "dziennie",
+    "perWeek": "tygodniowo",
+    "muscleMeat": "Mięso",
+    "rawBone": "Surowa Kość",
+    "organ": "Podroby",
+    "liver": "Wątroba",
+    "veggies": "Warzywa i Owoce",
+    "estimatedCost": "Koszt Miesięczny",
+    "budgetPlan": "Ekonomiczny",
+    "budgetDesc": "99 Ranch, podstawowe",
+    "standardPlan": "Standardowy",
+    "standardDesc": "Mieszane źródła",
+    "premiumPlan": "Premium",
+    "premiumDesc": "Organiczne"
+  },
+  "emergencyCard": {
+    "title": "Karta Alarmowa dla Psa",
+    "subtitle": "Kontakty alarmowe, objawy zatrucia i pierwsza pomoc.",
+    "home": "Główna",
+    "learn": "Nauka",
+    "printCard": "Wydrukuj Kartę",
+    "poisonControl": "Infolinia ASPCA",
+    "poisonNote": "Dostępna 24/7.",
+    "symptomsTitle": "Objawy Zatrucia",
+    "symptom_vomiting": "Wymioty",
+    "symptom_diarrhea": "Biegunka",
+    "symptom_drooling": "Nadmierne ślinienie",
+    "symptom_lethargy": "Letarg",
+    "symptom_seizures": "Drgawki",
+    "symptom_breathing": "Trudności z oddychaniem",
+    "symptom_collapse": "Zapaść",
+    "symptom_pawing": "Drapanie pyska",
+    "firstAidTitle": "Pierwsza Pomoc",
+    "firstAid_step1": "Zachowaj spokój. Usuń psa z niebezpieczeństwa.",
+    "firstAid_step2": "Zadzwoń ASPCA (888) 426-4435 lub do weterynarza.",
+    "firstAid_step3": "NIE wywołuj wymiotów bez wskazań.",
+    "firstAid_step4": "Zanotuj co pies zjadł, ile i kiedy.",
+    "firstAid_step5": "Przewieź do najbliższego 24h weterynarza.",
+    "emergencyVets": "Całodobowi Weterynarze w Bay Area",
+    "allAreas": "Wszystkie Obszary",
+    "visitWebsite": "Odwiedź Stronę"
+  },
+  "hikingChecklist": {
+    "title": "Lista na Wędrówkę z Psem",
+    "subtitle": "Wszystko co spakować na wędrówkę z psem.",
+    "home": "Główna",
+    "learn": "Nauka",
+    "progress": "{count} z {total} spakowane",
+    "reset": "Resetuj",
+    "item_water_bottle": "Butelka wody dla psa",
+    "item_collapsible_bowl": "Składana miska",
+    "item_extra_water": "Dodatkowa woda",
+    "item_leash": "Smycz + zapasowa",
+    "item_harness": "Szelki z identyfikatorem",
+    "item_poop_bags": "Woreczki na odchody",
+    "item_treats": "Przysmaki",
+    "item_first_aid": "Apteczka",
+    "item_id_tags": "Identyfikatory i chip",
+    "item_flea_tick": "Ochrona przed pchłami",
+    "item_paw_balm": "Balsam do łap",
+    "item_towel": "Ręcznik",
+    "item_sunscreen": "Krem z filtrem",
+    "item_booties": "Buty dla psa",
+    "item_reflective": "Odblaskowe wyposażenie",
+    "item_phone_charged": "Naładowany telefon",
+    "tipsTitle": "Porady Pro",
+    "tip1": "Sprawdź politykę smyczy szlaku.",
+    "tip2": "Zacznij od krótkich wędrówek.",
+    "tip3": "Unikaj wędrówek 10:00-16:00 latem.",
+    "tip4": "Ustępuj innym wędrowcom."
+  },
+  "seasonal": {
+    "spring_title": "Wiosna Nadeszła!",
+    "spring_tip": "Sezon dzikich kwiatów. Uważaj na lisie ogony.",
+    "summer_title": "Bezpieczeństwo Letnie",
+    "summer_tip": "Unikaj wędrówek 10:00-16:00 — gorący asfalt parzy łapy!",
+    "fall_title": "Jesienne Przygody",
+    "fall_tip": "Idealna pogoda na wędrówki! Dzień się skraca.",
+    "winter_title": "Zimowe Porady",
+    "winter_tip": "Pora deszczowa to błotniste szlaki. Weź ręczniki.",
+    "explore": "Odkrywaj Szlaki"
+  },
+  "search": {
+    "placeholder": "Szukaj szlaków, restauracji...",
+    "hint": "Wpisz minimum 2 znaki",
+    "noResults": "Brak wyników.",
+    "escHint": "Naciśnij Esc aby zamknąć"
+  }
+}

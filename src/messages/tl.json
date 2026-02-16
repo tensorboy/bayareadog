@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - Gabay ng Iyong Aso sa Bay Area",
+    "description": "Ang pinakamahusay na gabay para sa mga may-ari ng aso sa Bay Area."
+  },
+  "nav": {
+    "home": "Home",
+    "trails": "Mga Trail",
+    "eat": "Kain",
+    "play": "Laro",
+    "shop": "Tindahan",
+    "learn": "Matuto"
+  },
+  "hero": {
+    "title": "Gabay ng Iyong Aso sa Bay Area",
+    "subtitle": "Tuklasin ang pinakamahusay na mga trail, restaurant na friendly sa aso, park at tindahan.",
+    "cta": "Tuklasin Ngayon",
+    "search_placeholder": "Hanapin ang mga trail, restaurant, park..."
+  },
+  "categories": {
+    "section_title": "Tuklasin ayon sa Kategorya",
+    "trails": {
+      "title": "Mga Trail at Hiking",
+      "description": "Off-leash trails, beach walks at magagandang hikes.",
+      "cta": "Hanapin ang Trails"
+    },
+    "eat": {
+      "title": "Kain at Inumin",
+      "description": "Mga restaurant na friendly sa aso, cafe at brewery.",
+      "cta": "Hanapin ang Restaurant"
+    },
+    "play": {
+      "title": "Laro at Saya",
+      "description": "Mga dog park, beach, event at aktibidad.",
+      "cta": "Hanapin ang Aktibidad"
+    },
+    "shop": {
+      "title": "Tindahan",
+      "description": "Pet store, grooming salon at veterinary clinic.",
+      "cta": "Hanapin ang Tindahan"
+    },
+    "learn": {
+      "title": "Matuto",
+      "description": "Training tips, nutrition guide at health advice.",
+      "cta": "Magsimulang Matuto"
+    }
+  },
+  "featured": {
+    "title": "Sikat Ngayong Linggo",
+    "view_all": "Tingnan Lahat"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Iconic na off-leash beach na may magandang view ng dagat.",
+      "tags": "Off-leash,Beach,Maganda"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "Ang pinakamalaking off-leash dog park sa Bay Area.",
+      "tags": "Off-leash,Waterfront,Malaki"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Maraming Lokasyon",
+      "description": "Restaurant na friendly sa aso na may dog menu.",
+      "tags": "Restaurant,Patio,Dog Menu"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Premium raw dog food mula sa lokal na farm.",
+      "tags": "Raw Food,Lokal,Organic"
+    }
+  },
+  "newsletter": {
+    "title": "Manatiling Updated",
+    "description": "Kumuha ng weekly tips para sa mga dog-friendly na lugar.",
+    "placeholder": "Ilagay ang email",
+    "button": "Mag-subscribe",
+    "privacy": "Nirerespeto namin ang iyong privacy."
+  },
+  "todaysPick": {
+    "title": "Pili Ngayong Araw",
+    "random": "Random na Pakikipagsapalaran",
+    "viewDetails": "Tingnan ang Detalye",
+    "weekendAdventure": "Weekend na Pakikipagsapalaran",
+    "beatTheHeat": "Labanan ang Init",
+    "winterWalk": "Winter Walk",
+    "quickWalk": "Mabilisang Lakad"
+  },
+  "map": {
+    "title": "Tuklasin ang Bay Area",
+    "loading": "Nagloload ng mapa...",
+    "all": "Lahat",
+    "offLeash": "Off-Leash",
+    "onLeash": "On-Leash",
+    "restaurants": "Mga Restaurant",
+    "rawFood": "Raw Food",
+    "legendRestaurant": "Restaurant",
+    "legendRawFood": "Raw Food Shop"
+  },
+  "trailFilters": {
+    "all": "Lahat",
+    "offLeash": "Off-Leash",
+    "onLeash": "On-Leash",
+    "mixed": "Mixed",
+    "allAreas": "Lahat ng Area",
+    "anyDifficulty": "Kahit anong Difficulty",
+    "easy": "Madali",
+    "moderate": "Katamtaman",
+    "hard": "Mahirap",
+    "showing": "{count} sa {total} trails",
+    "noResults": "Walang trails na tumugma",
+    "noResultsHint": "I-adjust ang filters.",
+    "sortRating": "Pinakamataas na Rating",
+    "sortName": "Pangalan A-Z",
+    "sortDifficulty": "Pinamadali"
+  },
+  "trailDetail": {
+    "backToTrails": "Bumalik sa Trails",
+    "aboutTrail": "Tungkol sa Trail na Ito",
+    "features": "Mga Feature",
+    "bestFor": "Pinakamahusay Para sa",
+    "location": "Lokasyon",
+    "getDirections": "Direksyon sa Google Maps",
+    "trailInfo": "Impormasyon ng Trail",
+    "parking": "Parking",
+    "water": "Tubig",
+    "tips": "Mga Tip",
+    "bestTime": "Pinakamahusay na Oras",
+    "photoSpot": "Photo Spot",
+    "nearby": "Malapit",
+    "food": "Pagkain",
+    "vet": "Veterinarian",
+    "officialWebsite": "Opisyal na Website",
+    "home": "Home",
+    "trails": "Trails",
+    "largeDogs": "Malalaking Aso",
+    "smallDogs": "Maliliit na Aso",
+    "seniorDogs": "Matatandang Aso",
+    "puppies": "Mga Tuta",
+    "waterDogs": "Mga Water Dog",
+    "shyDogs": "Mahiyaing Aso"
+  },
+  "mobileNav": {
+    "home": "Home",
+    "trails": "Trails",
+    "eat": "Kain",
+    "shop": "Shop",
+    "more": "Iba pa"
+  },
+  "eat": {
+    "restaurantsTitle": "Dog-Friendly na Restaurant",
+    "restaurantsSubtitle": "Pinakamahusay na patio at cafe sa Bay Area.",
+    "rawFoodTitle": "Raw Food at Buto",
+    "rawFoodSubtitle": "Saan bumili ng raw na sangkap.",
+    "priceCompareTitle": "Paghahambing ng Presyo",
+    "priceCompareSubtitle": "Ihambing ang presyo sa popular na tindahan.",
+    "budgetTitle": "Budget Plan",
+    "budgetSubtitle": "Pumili ng plan na akma sa budget.",
+    "item": "Produkto",
+    "patio": "Patio",
+    "dogMenu": "Dog Menu",
+    "visit": "Bisitahin"
+  },
+  "learn": {
+    "nutrition": "Nutrisyon",
+    "recipes": "Mga Resipe",
+    "training": "Training",
+    "health": "Kalusugan",
+    "guide": "Gabay",
+    "rawFeedingTitle": "Gabay sa Raw Feeding (BARF)",
+    "rawFeedingDesc": "Alamin ang 80-10-10 ratio.",
+    "homemadeTitle": "Homemade Dog Food Recipes",
+    "homemadeDesc": "Vet-approved na mga resipe.",
+    "offLeashTitle": "Off-Leash Training",
+    "offLeashDesc": "Recall training para sa Bay Area trails.",
+    "toxicFoodsTitle": "Mga Toxic na Pagkain para sa Aso",
+    "toxicFoodsDesc": "Ano ang dapat iwasan.",
+    "newOwnerTitle": "Checklist para sa Bagong May-ari ng Aso",
+    "newOwnerDesc": "Lahat ng kailangan mo sa Bay Area.",
+    "calciumTitle": "Gabay sa Calcium Supplement",
+    "calciumDesc": "Bakit kulang sa calcium ang homemade diet.",
+    "balanceIT": "Balance IT Recipe Generator",
+    "rawFeedingGuide": "Raw Feeding Guide",
+    "vetApproved": "Vet-Approved na Resipe",
+    "akcIngredients": "AKC Ingredient Guide",
+    "aspcaList": "ASPCA Toxic Food List",
+    "balanceITSupp": "Balance IT Supplements",
+    "toolsSection": "Interactive Tools"
+  },
+  "play": {
+    "dogParksTitle": "Dog Parks at Beaches",
+    "dogParksSubtitle": "Pinakamahusay na off-leash parks sa Bay Area.",
+    "fenced": "May Bakod",
+    "separateAreas": "Hiwalay na Area"
+  },
+  "shop": {
+    "petStore": "Pet Store",
+    "grooming": "Grooming",
+    "vet": "Veterinarian",
+    "training": "Training",
+    "emergency24h": "24-Oras na Emergency"
+  },
+  "notFound": {
+    "title": "Naligaw ang tuta na ito!",
+    "description": "Hindi mahanap ang page.",
+    "goHome": "Bumalik sa Home",
+    "exploreTrails": "Tuklasin ang Trails"
+  },
+  "footer": {
+    "tagline": "Tinutulungan ang mga aso sa Bay Area na mabuhay ng pinakamahusay.",
+    "about": "Tungkol",
+    "contact": "Kontak",
+    "privacy": "Privacy",
+    "terms": "Mga Tuntunin",
+    "copyright": "Bay Area Dog. Lahat ng karapatan ay nakalaan."
+  },
+  "foodSafety": {
+    "title": "Dog Food Safety Checker",
+    "subtitle": "Aling pagkaing pang-tao ang ligtas para sa aso.",
+    "home": "Home",
+    "learn": "Matuto",
+    "searchPlaceholder": "Maghanap ng pagkain...",
+    "filterAll": "Lahat",
+    "safe": "Ligtas",
+    "cautionLabel": "Mag-ingat",
+    "dangerous": "Mapanganib",
+    "emergency": "Emergency",
+    "noResults": "Walang resulta.",
+    "cat_all": "Lahat",
+    "cat_fruit": "Prutas",
+    "cat_vegetable": "Gulay",
+    "cat_protein": "Protina",
+    "cat_dairy": "Gatas",
+    "cat_grain": "Butil",
+    "cat_other": "Iba pa"
+  },
+  "foodCalculator": {
+    "title": "Raw Food Calculator",
+    "subtitle": "Kalkulahin ang pang-araw-araw na raw food.",
+    "home": "Home",
+    "learn": "Matuto",
+    "weightLabel": "Timbang ng Aso",
+    "activityLabel": "Antas ng Aktibidad",
+    "activity_low": "Mababa",
+    "activity_normal": "Normal",
+    "activity_high": "Mataas",
+    "infoNote": "Gumagamit ng BARF (80-10-10). Kumonsulta sa vet.",
+    "dailyAmount": "Pang-araw-araw na Dami",
+    "perDay": "bawat araw",
+    "perWeek": "bawat linggo",
+    "muscleMeat": "Muscle Meat",
+    "rawBone": "Raw Bone",
+    "organ": "Organ",
+    "liver": "Atay",
+    "veggies": "Gulay at Prutas",
+    "estimatedCost": "Tinatayang Buwanang Gastos",
+    "budgetPlan": "Budget",
+    "budgetDesc": "99 Ranch, basic",
+    "standardPlan": "Standard",
+    "standardDesc": "Mixed sources",
+    "premiumPlan": "Premium",
+    "premiumDesc": "Organic"
+  },
+  "emergencyCard": {
+    "title": "Dog Emergency Card",
+    "subtitle": "Emergency contacts, sintomas ng pagkalason at first aid.",
+    "home": "Home",
+    "learn": "Matuto",
+    "printCard": "I-print ang Card na Ito",
+    "poisonControl": "ASPCA Poison Control",
+    "poisonNote": "Available 24/7.",
+    "symptomsTitle": "Sintomas ng Pagkalason",
+    "symptom_vomiting": "Pagsusuka",
+    "symptom_diarrhea": "Pagtatae",
+    "symptom_drooling": "Labis na paglalaway",
+    "symptom_lethargy": "Pagkapagod o kahinaan",
+    "symptom_seizures": "Panginginig o seizure",
+    "symptom_breathing": "Hirap sa paghinga",
+    "symptom_collapse": "Pagbagsak",
+    "symptom_pawing": "Pagkamot sa bibig",
+    "firstAidTitle": "First Aid",
+    "firstAid_step1": "Manatiling kalmado. Ilayo ang aso sa panganib.",
+    "firstAid_step2": "Tumawag sa ASPCA (888) 426-4435 o emergency vet.",
+    "firstAid_step3": "HUWAG magpasuka nang walang tagubilin.",
+    "firstAid_step4": "I-note kung ano ang kinain, gaano karami at kailan.",
+    "firstAid_step5": "Dalhin sa pinakamalapit na 24-oras na emergency vet.",
+    "emergencyVets": "24-Oras na Emergency Vet sa Bay Area",
+    "allAreas": "Lahat ng Area",
+    "visitWebsite": "Bisitahin ang Website"
+  },
+  "hikingChecklist": {
+    "title": "Dog Hiking Checklist",
+    "subtitle": "Lahat ng kailangan para sa ligtas na hike kasama ang aso.",
+    "home": "Home",
+    "learn": "Matuto",
+    "progress": "{count} sa {total} handa na",
+    "reset": "I-reset",
+    "item_water_bottle": "Water bottle para sa aso",
+    "item_collapsible_bowl": "Collapsible bowl",
+    "item_extra_water": "Extra na tubig",
+    "item_leash": "Leash + backup",
+    "item_harness": "Harness na may ID tag",
+    "item_poop_bags": "Poop bags (dagdagan!)",
+    "item_treats": "Training treats",
+    "item_first_aid": "First aid kit",
+    "item_id_tags": "Updated ID tags at chip info",
+    "item_flea_tick": "Flea at tick prevention",
+    "item_paw_balm": "Paw balm",
+    "item_towel": "Tuwalya",
+    "item_sunscreen": "Dog-safe sunscreen",
+    "item_booties": "Dog booties",
+    "item_reflective": "Reflective gear",
+    "item_phone_charged": "Fully charged phone",
+    "tipsTitle": "Pro Tips",
+    "tip1": "I-check ang leash policy bago umalis.",
+    "tip2": "Magsimula sa maikling hikes para sa mga tuta.",
+    "tip3": "Iwasan ang hiking 10am-4pm sa tag-init.",
+    "tip4": "Laging magbigay daan sa ibang hikers."
+  },
+  "seasonal": {
+    "spring_title": "Nandito na ang Spring!",
+    "spring_tip": "Wildflower season. Mag-ingat sa foxtails sa trails.",
+    "summer_title": "Summer Safety",
+    "summer_tip": "Iwasan ang hiking 10am-4pm — mainit na asfalt ay nakakasunog ng paws!",
+    "fall_title": "Fall Adventures",
+    "fall_tip": "Perpektong panahon para mag-hike! Paikliin ang araw — magdala ng reflective gear.",
+    "winter_title": "Winter Tips",
+    "winter_tip": "Rainy season = maputik na trails. Magdala ng tuwalya.",
+    "explore": "Tuklasin ang Trails"
+  },
+  "search": {
+    "placeholder": "Hanapin ang trails, restaurant, pagkain...",
+    "hint": "Mag-type ng hindi bababa sa 2 character",
+    "noResults": "Walang resulta.",
+    "escHint": "Pindutin ang Esc para isara"
+  }
+}

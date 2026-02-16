@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - Průvodce pro Vašeho Psa",
+    "description": "Nejlepší průvodce pro majitele psů v Bay Area."
+  },
+  "nav": {
+    "home": "Domů",
+    "trails": "Trasy",
+    "eat": "Jídlo",
+    "play": "Hra",
+    "shop": "Obchod",
+    "learn": "Učení"
+  },
+  "hero": {
+    "title": "Průvodce Vašeho Psa po Bay Area",
+    "subtitle": "Objevte nejlepší trasy, restaurace přátelské psům, parky a obchody.",
+    "cta": "Objevujte",
+    "search_placeholder": "Hledat trasy, restaurace, parky..."
+  },
+  "categories": {
+    "section_title": "Prozkoumejte dle Kategorie",
+    "trails": {
+      "title": "Trasy a Turistika",
+      "description": "Trasy bez vodítka, plážové procházky a malebné túry.",
+      "cta": "Najít Trasy"
+    },
+    "eat": {
+      "title": "Jídlo a Pití",
+      "description": "Restaurace přátelské psům, kavárny a pivovary.",
+      "cta": "Najít Restaurace"
+    },
+    "play": {
+      "title": "Hra a Zábava",
+      "description": "Psí parky, pláže, akce a aktivity.",
+      "cta": "Najít Aktivity"
+    },
+    "shop": {
+      "title": "Obchod",
+      "description": "Chovatelské potřeby, salony a veterináři.",
+      "cta": "Najít Obchody"
+    },
+    "learn": {
+      "title": "Učení",
+      "description": "Tipy na výcvik, výživové průvodce a zdravotní rady.",
+      "cta": "Začít se Učit"
+    }
+  },
+  "featured": {
+    "title": "Populární Tento Týden",
+    "view_all": "Zobrazit Vše"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Ikonická pláž bez vodítka s úžasným výhledem.",
+      "tags": "Bez vodítka,Pláž,Malebný"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "Největší psí park bez vodítka v Bay Area.",
+      "tags": "Bez vodítka,Pobřeží,Velký"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Více Míst",
+      "description": "Restaurace přátelská psům s psím menu.",
+      "tags": "Restaurace,Terasa,Psí menu"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Premium syrové krmivo z místních farem.",
+      "tags": "Syrové krmivo,Místní,Bio"
+    }
+  },
+  "newsletter": {
+    "title": "Buďte v Obraze",
+    "description": "Týdenní tipy na místa přátelská psům.",
+    "placeholder": "Zadejte email",
+    "button": "Odebírat",
+    "privacy": "Respektujeme vaše soukromí."
+  },
+  "todaysPick": {
+    "title": "Dnešní Výběr",
+    "random": "Náhodné Dobrodružství",
+    "viewDetails": "Zobrazit Detail",
+    "weekendAdventure": "Víkendové Dobrodružství",
+    "beatTheHeat": "Únik před Horkem",
+    "winterWalk": "Zimní Procházka",
+    "quickWalk": "Rychlá Procházka"
+  },
+  "map": {
+    "title": "Prozkoumejte Bay Area",
+    "loading": "Načítání mapy...",
+    "all": "Vše",
+    "offLeash": "Bez vodítka",
+    "onLeash": "Na vodítku",
+    "restaurants": "Restaurace",
+    "rawFood": "Syrové krmivo",
+    "legendRestaurant": "Restaurace",
+    "legendRawFood": "Syrové krmivo Obchod"
+  },
+  "trailFilters": {
+    "all": "Vše",
+    "offLeash": "Bez vodítka",
+    "onLeash": "Na vodítku",
+    "mixed": "Smíšené",
+    "allAreas": "Všechny Oblasti",
+    "anyDifficulty": "Jakákoliv Obtížnost",
+    "easy": "Snadný",
+    "moderate": "Střední",
+    "hard": "Obtížný",
+    "showing": "{count} z {total} tras",
+    "noResults": "Žádné trasy",
+    "noResultsHint": "Upravte filtry.",
+    "sortRating": "Nejlépe Hodnocené",
+    "sortName": "Název A-Z",
+    "sortDifficulty": "Nejsnazší"
+  },
+  "trailDetail": {
+    "backToTrails": "Zpět na Trasy",
+    "aboutTrail": "O Této Trase",
+    "features": "Vlastnosti",
+    "bestFor": "Nejlepší Pro",
+    "location": "Umístění",
+    "getDirections": "Navigace na Google Maps",
+    "trailInfo": "Informace o Trase",
+    "parking": "Parkování",
+    "water": "Voda",
+    "tips": "Tipy",
+    "bestTime": "Nejlepší Čas",
+    "photoSpot": "Místo na Foto",
+    "nearby": "V Okolí",
+    "food": "Jídlo",
+    "vet": "Veterinář",
+    "officialWebsite": "Oficiální Web",
+    "home": "Domů",
+    "trails": "Trasy",
+    "largeDogs": "Velcí Psi",
+    "smallDogs": "Malí Psi",
+    "seniorDogs": "Starší Psi",
+    "puppies": "Štěňata",
+    "waterDogs": "Vodní Psi",
+    "shyDogs": "Stydliví Psi"
+  },
+  "mobileNav": {
+    "home": "Domů",
+    "trails": "Trasy",
+    "eat": "Jídlo",
+    "shop": "Obchod",
+    "more": "Více"
+  },
+  "eat": {
+    "restaurantsTitle": "Restaurace Přátelské Psům",
+    "restaurantsSubtitle": "Nejlepší terasy v Bay Area.",
+    "rawFoodTitle": "Syrové Krmivo a Kosti",
+    "rawFoodSubtitle": "Kde koupit syrové ingredience.",
+    "priceCompareTitle": "Srovnání Cen",
+    "priceCompareSubtitle": "Porovnejte ceny v oblíbených obchodech.",
+    "budgetTitle": "Rozpočtové Plány",
+    "budgetSubtitle": "Vyberte plán podle rozpočtu.",
+    "item": "Produkt",
+    "patio": "Terasa",
+    "dogMenu": "Psí Menu",
+    "visit": "Navštívit"
+  },
+  "learn": {
+    "nutrition": "Výživa",
+    "recipes": "Recepty",
+    "training": "Výcvik",
+    "health": "Zdraví",
+    "guide": "Průvodce",
+    "rawFeedingTitle": "Průvodce Syrovým Krmením (BARF)",
+    "rawFeedingDesc": "Naučte se poměr 80-10-10.",
+    "homemadeTitle": "Domácí Psí Krmivo Recepty",
+    "homemadeDesc": "Veterinářem schválené recepty.",
+    "offLeashTitle": "Výcvik bez Vodítka",
+    "offLeashDesc": "Trénink přivolání pro Bay Area.",
+    "toxicFoodsTitle": "Toxická Jídla pro Psy",
+    "toxicFoodsDesc": "Co se vyvarovat.",
+    "newOwnerTitle": "Kontrolní Seznam Nového Majitele",
+    "newOwnerDesc": "Vše co potřebujete v Bay Area.",
+    "calciumTitle": "Průvodce Kalciovými Doplňky",
+    "calciumDesc": "Proč domácí stravě chybí vápník.",
+    "balanceIT": "Balance IT Generátor",
+    "rawFeedingGuide": "Průvodce Syrovým Krmením",
+    "vetApproved": "Veterinářem Schválené",
+    "akcIngredients": "AKC Průvodce Ingrediencemi",
+    "aspcaList": "ASPCA Seznam Jedů",
+    "balanceITSupp": "Balance IT Doplňky",
+    "toolsSection": "Interaktivní Nástroje"
+  },
+  "play": {
+    "dogParksTitle": "Psí Parky a Pláže",
+    "dogParksSubtitle": "Nejlepší parky bez vodítka v Bay Area.",
+    "fenced": "Oplocený",
+    "separateAreas": "Oddělené Zóny"
+  },
+  "shop": {
+    "petStore": "Chovatelské Potřeby",
+    "grooming": "Úprava",
+    "vet": "Veterinář",
+    "training": "Výcvik",
+    "emergency24h": "24h Pohotovost"
+  },
+  "notFound": {
+    "title": "Toto štěně zabloudilo!",
+    "description": "Stránka nebyla nalezena.",
+    "goHome": "Zpět Domů",
+    "exploreTrails": "Prozkoumejte Trasy"
+  },
+  "footer": {
+    "tagline": "Pomáháme psům v Bay Area žít nejlepší život.",
+    "about": "O nás",
+    "contact": "Kontakt",
+    "privacy": "Soukromí",
+    "terms": "Podmínky",
+    "copyright": "Bay Area Dog. Všechna práva vyhrazena."
+  },
+  "foodSafety": {
+    "title": "Kontrola Bezpečnosti Krmiva",
+    "subtitle": "Která lidská jídla jsou bezpečná pro psa.",
+    "home": "Domů",
+    "learn": "Učení",
+    "searchPlaceholder": "Hledat jídlo...",
+    "filterAll": "Vše",
+    "safe": "Bezpečné",
+    "cautionLabel": "Opatrně",
+    "dangerous": "Nebezpečné",
+    "emergency": "Nouzový stav",
+    "noResults": "Žádné výsledky.",
+    "cat_all": "Vše",
+    "cat_fruit": "Ovoce",
+    "cat_vegetable": "Zelenina",
+    "cat_protein": "Bílkoviny",
+    "cat_dairy": "Mléčné",
+    "cat_grain": "Obiloviny",
+    "cat_other": "Ostatní"
+  },
+  "foodCalculator": {
+    "title": "Kalkulačka Syrového Krmiva",
+    "subtitle": "Vypočítejte denní dávku syrového krmiva.",
+    "home": "Domů",
+    "learn": "Učení",
+    "weightLabel": "Váha Psa",
+    "activityLabel": "Aktivita",
+    "activity_low": "Nízká",
+    "activity_normal": "Normální",
+    "activity_high": "Vysoká",
+    "infoNote": "Kalkulačka používá BARF (80-10-10). Poraďte se s veterinářem.",
+    "dailyAmount": "Denní Dávka",
+    "perDay": "denně",
+    "perWeek": "týdně",
+    "muscleMeat": "Svalovina",
+    "rawBone": "Surová Kost",
+    "organ": "Vnitřnosti",
+    "liver": "Játra",
+    "veggies": "Zelenina a Ovoce",
+    "estimatedCost": "Měsíční Náklady",
+    "budgetPlan": "Ekonomický",
+    "budgetDesc": "99 Ranch, základ",
+    "standardPlan": "Standardní",
+    "standardDesc": "Smíšené zdroje",
+    "premiumPlan": "Premium",
+    "premiumDesc": "Bio, pastevní"
+  },
+  "emergencyCard": {
+    "title": "Psí Nouzová Karta",
+    "subtitle": "Nouzové kontakty, příznaky otravy a první pomoc.",
+    "home": "Domů",
+    "learn": "Učení",
+    "printCard": "Vytisknout Kartu",
+    "poisonControl": "ASPCA Toxikologická Linka",
+    "poisonNote": "K dispozici 24/7.",
+    "symptomsTitle": "Příznaky Otravy",
+    "symptom_vomiting": "Zvracení",
+    "symptom_diarrhea": "Průjem",
+    "symptom_drooling": "Nadměrné slinění",
+    "symptom_lethargy": "Letargie nebo slabost",
+    "symptom_seizures": "Třes nebo křeče",
+    "symptom_breathing": "Potíže s dýcháním",
+    "symptom_collapse": "Kolaps",
+    "symptom_pawing": "Drápání u tlamy",
+    "firstAidTitle": "První Pomoc",
+    "firstAid_step1": "Zůstaňte klidní. Odstraňte psa z nebezpečí.",
+    "firstAid_step2": "Volejte ASPCA (888) 426-4435 nebo pohotovostního veterináře.",
+    "firstAid_step3": "NEVYVOLÁVEJTE zvracení bez pokynů.",
+    "firstAid_step4": "Zaznamenejte co pes snědl, kolik a kdy.",
+    "firstAid_step5": "Přepravte k nejbližšímu 24h veterináři.",
+    "emergencyVets": "24h Pohotovostní Veterináři v Bay Area",
+    "allAreas": "Všechny Oblasti",
+    "visitWebsite": "Navštívit Web"
+  },
+  "hikingChecklist": {
+    "title": "Psí Turistický Seznam",
+    "subtitle": "Vše co potřebujete na výlet se psem.",
+    "home": "Domů",
+    "learn": "Učení",
+    "progress": "{count} z {total} zabaleno",
+    "reset": "Resetovat",
+    "item_water_bottle": "Lahev vody pro psa",
+    "item_collapsible_bowl": "Skládací miska",
+    "item_extra_water": "Extra voda",
+    "item_leash": "Vodítko + záložní",
+    "item_harness": "Postroj s ID",
+    "item_poop_bags": "Sáčky na exkrementy",
+    "item_treats": "Pamlsky",
+    "item_first_aid": "Lékárnička",
+    "item_id_tags": "ID známky a čip",
+    "item_flea_tick": "Ochrana proti blechám",
+    "item_paw_balm": "Balzám na tlapky",
+    "item_towel": "Ručník",
+    "item_sunscreen": "Opalovací krém pro psy",
+    "item_booties": "Psí botičky",
+    "item_reflective": "Reflexní vybavení",
+    "item_phone_charged": "Nabitý telefon",
+    "tipsTitle": "Tipy",
+    "tip1": "Zkontrolujte pravidla vodítka předem.",
+    "tip2": "Začněte krátkými trasami se štěňaty.",
+    "tip3": "Vyhněte se výletům 10:00-16:00 v létě.",
+    "tip4": "Vždy dejte přednost ostatním turistům."
+  },
+  "seasonal": {
+    "spring_title": "Jaro je Tady!",
+    "spring_tip": "Sezóna divokých květin. Pozor na psí ocásky na trasách.",
+    "summer_title": "Letní Bezpečnost",
+    "summer_tip": "Vyhněte se trasám 10:00-16:00 — horký asfalt pálí tlapky!",
+    "fall_title": "Podzimní Dobrodružství",
+    "fall_tip": "Perfektní počasí na túry! Kratší den — vezměte reflexní prvky.",
+    "winter_title": "Zimní Tipy",
+    "winter_tip": "Období dešťů = blátivé trasy. Vezměte ručníky.",
+    "explore": "Prozkoumejte Trasy"
+  },
+  "search": {
+    "placeholder": "Hledat trasy, restaurace, jídlo...",
+    "hint": "Zadejte alespoň 2 znaky",
+    "noResults": "Žádné výsledky.",
+    "escHint": "Stiskněte Esc pro zavření"
+  }
+}

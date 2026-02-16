@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - Ghidul Câinelui Tău în Bay Area",
+    "description": "Ghidul suprem pentru proprietarii de câini din Bay Area."
+  },
+  "nav": {
+    "home": "Acasă",
+    "trails": "Trasee",
+    "eat": "Mâncare",
+    "play": "Joacă",
+    "shop": "Magazin",
+    "learn": "Învață"
+  },
+  "hero": {
+    "title": "Ghidul Câinelui Tău în Bay Area",
+    "subtitle": "Descoperă cele mai bune trasee, restaurante prietenoase cu câinii, parcuri și magazine.",
+    "cta": "Explorează Acum",
+    "search_placeholder": "Caută trasee, restaurante, parcuri..."
+  },
+  "categories": {
+    "section_title": "Explorează pe Categorii",
+    "trails": {
+      "title": "Trasee și Drumeții",
+      "description": "Trasee fără lesă, plimbări pe plajă și drumeții pitorești.",
+      "cta": "Găsește Trasee"
+    },
+    "eat": {
+      "title": "Mâncare și Băutură",
+      "description": "Restaurante prietenoase cu câinii, cafenele și berării.",
+      "cta": "Găsește Restaurante"
+    },
+    "play": {
+      "title": "Joacă și Distracție",
+      "description": "Parcuri pentru câini, plaje, evenimente și activități.",
+      "cta": "Găsește Activități"
+    },
+    "shop": {
+      "title": "Magazin",
+      "description": "Pet shop-uri, saloane și clinici veterinare.",
+      "cta": "Găsește Magazine"
+    },
+    "learn": {
+      "title": "Învață",
+      "description": "Sfaturi de dresaj, ghiduri de nutriție și sfaturi de sănătate.",
+      "cta": "Începe să Înveți"
+    }
+  },
+  "featured": {
+    "title": "Popular Săptămâna Aceasta",
+    "view_all": "Vezi Tot"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Plajă iconică fără lesă cu priveliște oceanică.",
+      "tags": "Fără lesă,Plajă,Pitoresc"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "Cel mai mare parc fără lesă din Bay Area.",
+      "tags": "Fără lesă,Malul apei,Mare"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Mai Multe Locații",
+      "description": "Restaurant prietenos cu câinii cu meniu pentru câini.",
+      "tags": "Restaurant,Terasă,Meniu Câini"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Hrană crudă premium de la ferme locale.",
+      "tags": "Hrană Crudă,Local,Organic"
+    }
+  },
+  "newsletter": {
+    "title": "Fii la Curent",
+    "description": "Primește sfaturi săptămânale despre locuri prietenoase cu câinii.",
+    "placeholder": "Introdu emailul",
+    "button": "Abonează-te",
+    "privacy": "Respectăm confidențialitatea ta."
+  },
+  "todaysPick": {
+    "title": "Alegerea Zilei",
+    "random": "Aventură Aleatorie",
+    "viewDetails": "Vezi Detalii",
+    "weekendAdventure": "Aventură de Weekend",
+    "beatTheHeat": "Scapă de Căldură",
+    "winterWalk": "Plimbare de Iarnă",
+    "quickWalk": "Plimbare Rapidă"
+  },
+  "map": {
+    "title": "Explorează Bay Area",
+    "loading": "Se încarcă harta...",
+    "all": "Toate",
+    "offLeash": "Fără Lesă",
+    "onLeash": "Cu Lesă",
+    "restaurants": "Restaurante",
+    "rawFood": "Hrană Crudă",
+    "legendRestaurant": "Restaurant",
+    "legendRawFood": "Magazin Hrană Crudă"
+  },
+  "trailFilters": {
+    "all": "Toate",
+    "offLeash": "Fără Lesă",
+    "onLeash": "Cu Lesă",
+    "mixed": "Mixt",
+    "allAreas": "Toate Zonele",
+    "anyDifficulty": "Orice Dificultate",
+    "easy": "Ușor",
+    "moderate": "Moderat",
+    "hard": "Dificil",
+    "showing": "{count} din {total} trasee",
+    "noResults": "Niciun traseu găsit",
+    "noResultsHint": "Ajustează filtrele.",
+    "sortRating": "Cel Mai Bine Evaluat",
+    "sortName": "Nume A-Z",
+    "sortDifficulty": "Cele Mai Ușoare"
+  },
+  "trailDetail": {
+    "backToTrails": "Înapoi la Trasee",
+    "aboutTrail": "Despre Acest Traseu",
+    "features": "Caracteristici",
+    "bestFor": "Cel Mai Bun Pentru",
+    "location": "Locație",
+    "getDirections": "Indicații pe Google Maps",
+    "trailInfo": "Informații Traseu",
+    "parking": "Parcare",
+    "water": "Apă",
+    "tips": "Sfaturi",
+    "bestTime": "Cel Mai Bun Moment",
+    "photoSpot": "Punct Foto",
+    "nearby": "În Apropiere",
+    "food": "Mâncare",
+    "vet": "Veterinar",
+    "officialWebsite": "Site Oficial",
+    "home": "Acasă",
+    "trails": "Trasee",
+    "largeDogs": "Câini Mari",
+    "smallDogs": "Câini Mici",
+    "seniorDogs": "Câini Bătrâni",
+    "puppies": "Căței",
+    "waterDogs": "Câini de Apă",
+    "shyDogs": "Câini Timizi"
+  },
+  "mobileNav": {
+    "home": "Acasă",
+    "trails": "Trasee",
+    "eat": "Mâncare",
+    "shop": "Magazin",
+    "more": "Mai Mult"
+  },
+  "eat": {
+    "restaurantsTitle": "Restaurante Prietenoase cu Câinii",
+    "restaurantsSubtitle": "Cele mai bune terase din Bay Area.",
+    "rawFoodTitle": "Hrană Crudă și Oase",
+    "rawFoodSubtitle": "De unde să cumperi ingrediente crude.",
+    "priceCompareTitle": "Comparație de Prețuri",
+    "priceCompareSubtitle": "Compară prețuri în magazine populare.",
+    "budgetTitle": "Planuri de Buget",
+    "budgetSubtitle": "Alege un plan potrivit bugetului.",
+    "item": "Produs",
+    "patio": "Terasă",
+    "dogMenu": "Meniu Câini",
+    "visit": "Vizitează"
+  },
+  "learn": {
+    "nutrition": "Nutriție",
+    "recipes": "Rețete",
+    "training": "Dresaj",
+    "health": "Sănătate",
+    "guide": "Ghid",
+    "rawFeedingTitle": "Ghid Hrănire Crudă (BARF)",
+    "rawFeedingDesc": "Învață raportul 80-10-10.",
+    "homemadeTitle": "Rețete Hrană de Casă",
+    "homemadeDesc": "Rețete aprobate de veterinar.",
+    "offLeashTitle": "Antrenament Fără Lesă",
+    "offLeashDesc": "Antrenament de rechemare pentru Bay Area.",
+    "toxicFoodsTitle": "Alimente Toxice pentru Câini",
+    "toxicFoodsDesc": "Ce să eviți.",
+    "newOwnerTitle": "Lista Noului Proprietar",
+    "newOwnerDesc": "Tot ce ai nevoie în Bay Area.",
+    "calciumTitle": "Ghid Suplimente de Calciu",
+    "calciumDesc": "De ce dietelor de casă le lipsește calciul.",
+    "balanceIT": "Balance IT Generator",
+    "rawFeedingGuide": "Ghid Hrănire Crudă",
+    "vetApproved": "Aprobat de Veterinar",
+    "akcIngredients": "Ghid Ingrediente AKC",
+    "aspcaList": "Lista Otrăvuri ASPCA",
+    "balanceITSupp": "Suplimente Balance IT",
+    "toolsSection": "Instrumente Interactive"
+  },
+  "play": {
+    "dogParksTitle": "Parcuri și Plaje pentru Câini",
+    "dogParksSubtitle": "Cele mai bune parcuri fără lesă din Bay Area.",
+    "fenced": "Împrejmuit",
+    "separateAreas": "Zone Separate"
+  },
+  "shop": {
+    "petStore": "Pet Shop",
+    "grooming": "Îngrijire",
+    "vet": "Veterinar",
+    "training": "Dresaj",
+    "emergency24h": "Urgență 24h"
+  },
+  "notFound": {
+    "title": "Acest cățel s-a rătăcit!",
+    "description": "Pagina nu a fost găsită.",
+    "goHome": "Înapoi Acasă",
+    "exploreTrails": "Explorează Trasee"
+  },
+  "footer": {
+    "tagline": "Ajutăm câinii din Bay Area să trăiască cel mai bine.",
+    "about": "Despre",
+    "contact": "Contact",
+    "privacy": "Confidențialitate",
+    "terms": "Termeni",
+    "copyright": "Bay Area Dog. Toate drepturile rezervate."
+  },
+  "foodSafety": {
+    "title": "Verificare Siguranță Hrană",
+    "subtitle": "Ce alimente umane sunt sigure pentru câine.",
+    "home": "Acasă",
+    "learn": "Învață",
+    "searchPlaceholder": "Caută un aliment...",
+    "filterAll": "Toate",
+    "safe": "Sigur",
+    "cautionLabel": "Atenție",
+    "dangerous": "Periculos",
+    "emergency": "Urgență",
+    "noResults": "Niciun rezultat.",
+    "cat_all": "Toate",
+    "cat_fruit": "Fructe",
+    "cat_vegetable": "Legume",
+    "cat_protein": "Proteine",
+    "cat_dairy": "Lactate",
+    "cat_grain": "Cereale",
+    "cat_other": "Altele"
+  },
+  "foodCalculator": {
+    "title": "Calculator Hrană Crudă",
+    "subtitle": "Calculează cantitatea zilnică de hrană crudă.",
+    "home": "Acasă",
+    "learn": "Învață",
+    "weightLabel": "Greutatea Câinelui",
+    "activityLabel": "Nivel Activitate",
+    "activity_low": "Scăzut",
+    "activity_normal": "Normal",
+    "activity_high": "Ridicat",
+    "infoNote": "Calculatorul folosește BARF (80-10-10). Consultă veterinarul.",
+    "dailyAmount": "Cantitate Zilnică",
+    "perDay": "pe zi",
+    "perWeek": "pe săptămână",
+    "muscleMeat": "Carne Musculară",
+    "rawBone": "Os Crud",
+    "organ": "Organ",
+    "liver": "Ficat",
+    "veggies": "Legume și Fructe",
+    "estimatedCost": "Cost Lunar Estimat",
+    "budgetPlan": "Buget",
+    "budgetDesc": "99 Ranch, bază",
+    "standardPlan": "Standard",
+    "standardDesc": "Surse mixte",
+    "premiumPlan": "Premium",
+    "premiumDesc": "Organic"
+  },
+  "emergencyCard": {
+    "title": "Card de Urgență Câini",
+    "subtitle": "Contacte de urgență, simptome de otrăvire și prim ajutor.",
+    "home": "Acasă",
+    "learn": "Învață",
+    "printCard": "Printează Cardul",
+    "poisonControl": "Linia ASPCA Otrăvuri",
+    "poisonNote": "Disponibilă 24/7.",
+    "symptomsTitle": "Simptome de Otrăvire",
+    "symptom_vomiting": "Vomitat",
+    "symptom_diarrhea": "Diaree",
+    "symptom_drooling": "Salivație excesivă",
+    "symptom_lethargy": "Letargie sau slăbiciune",
+    "symptom_seizures": "Tremurături sau convulsii",
+    "symptom_breathing": "Dificultăți de respirație",
+    "symptom_collapse": "Colaps",
+    "symptom_pawing": "Labele la gură",
+    "firstAidTitle": "Prim Ajutor",
+    "firstAid_step1": "Stai calm. Îndepărtează câinele de pericol.",
+    "firstAid_step2": "Sună ASPCA (888) 426-4435 sau veterinarul de urgență.",
+    "firstAid_step3": "NU provoca voma fără indicații.",
+    "firstAid_step4": "Notează ce a mâncat câinele, cât și când.",
+    "firstAid_step5": "Transportă la cel mai apropiat veterinar de urgență 24h.",
+    "emergencyVets": "Veterinari de Urgență 24h în Bay Area",
+    "allAreas": "Toate Zonele",
+    "visitWebsite": "Vizitează Site-ul"
+  },
+  "hikingChecklist": {
+    "title": "Lista pentru Drumeție cu Câinele",
+    "subtitle": "Tot ce trebuie să împachetezi.",
+    "home": "Acasă",
+    "learn": "Învață",
+    "progress": "{count} din {total} pregătite",
+    "reset": "Resetează",
+    "item_water_bottle": "Sticlă de apă pentru câine",
+    "item_collapsible_bowl": "Castron pliabil",
+    "item_extra_water": "Apă suplimentară",
+    "item_leash": "Lesă + rezervă",
+    "item_harness": "Ham cu etichetă ID",
+    "item_poop_bags": "Pungi (ia mai multe!)",
+    "item_treats": "Recompense",
+    "item_first_aid": "Trusă de prim ajutor",
+    "item_id_tags": "Etichete ID și info cip",
+    "item_flea_tick": "Protecție anti-purici",
+    "item_paw_balm": "Balsam pentru lăbuțe",
+    "item_towel": "Prosop",
+    "item_sunscreen": "Cremă solară pentru câini",
+    "item_booties": "Botoșei pentru câini",
+    "item_reflective": "Echipament reflectorizant",
+    "item_phone_charged": "Telefon încărcat",
+    "tipsTitle": "Sfaturi Pro",
+    "tip1": "Verifică regulile de lesă înainte de plecare.",
+    "tip2": "Începe cu drumeții scurte cu cățeii.",
+    "tip3": "Evită drumeții 10:00-16:00 vara.",
+    "tip4": "Cedează întotdeauna trecerea altor drumeți."
+  },
+  "seasonal": {
+    "spring_title": "A Venit Primăvara!",
+    "spring_tip": "Sezonul florilor sălbatice. Atenție la foxtails pe trasee.",
+    "summer_title": "Siguranță de Vară",
+    "summer_tip": "Evită drumeții 10:00-16:00 — asfaltul fierbinte arde lăbuțele!",
+    "fall_title": "Aventuri de Toamnă",
+    "fall_tip": "Vreme perfectă pentru drumeții! Zile mai scurte — ia echipament reflectorizant.",
+    "winter_title": "Sfaturi de Iarnă",
+    "winter_tip": "Sezonul ploilor = trasee noroioase. Ia prosoape.",
+    "explore": "Explorează Trasee"
+  },
+  "search": {
+    "placeholder": "Caută trasee, restaurante, alimente...",
+    "hint": "Tastează minim 2 caractere",
+    "noResults": "Niciun rezultat.",
+    "escHint": "Apasă Esc pentru a închide"
+  }
+}
