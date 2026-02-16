@@ -63,23 +63,23 @@ export default async function GuidePage({
     author: {
       "@type": "Organization",
       name: "Bay Area Dog",
-      url: "https://bayarea.dog",
+      url: "https://www.bayarea.dog",
     },
     publisher: {
       "@type": "Organization",
       name: "Bay Area Dog",
-      url: "https://bayarea.dog",
+      url: "https://www.bayarea.dog",
     },
-    mainEntityOfPage: `https://bayarea.dog/${locale}/guides/${article.slug}`,
+    mainEntityOfPage: `https://www.bayarea.dog/${locale}/guides/${article.slug}`,
   };
 
   const breadcrumbJsonLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: `https://bayarea.dog/${locale}` },
-      { "@type": "ListItem", position: 2, name: "Guides", item: `https://bayarea.dog/${locale}/learn` },
-      { "@type": "ListItem", position: 3, name: article.title, item: `https://bayarea.dog/${locale}/guides/${article.slug}` },
+      { "@type": "ListItem", position: 1, name: "Home", item: `https://www.bayarea.dog/${locale}` },
+      { "@type": "ListItem", position: 2, name: "Guides", item: `https://www.bayarea.dog/${locale}/learn` },
+      { "@type": "ListItem", position: 3, name: article.title, item: `https://www.bayarea.dog/${locale}/guides/${article.slug}` },
     ],
   };
 

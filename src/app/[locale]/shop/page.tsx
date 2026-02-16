@@ -26,8 +26,8 @@ export default async function ShopPage({ params }: { params: Promise<{ locale: s
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: `https://bayarea.dog/${locale}` },
-      { "@type": "ListItem", position: 2, name: "Shop", item: `https://bayarea.dog/${locale}/shop` },
+      { "@type": "ListItem", position: 1, name: "Home", item: `https://www.bayarea.dog/${locale}` },
+      { "@type": "ListItem", position: 2, name: "Shop", item: `https://www.bayarea.dog/${locale}/shop` },
     ],
   };
 

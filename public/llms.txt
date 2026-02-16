@@ -1,0 +1,40 @@
+# Bay Area Dog
+
+> The ultimate guide for dog owners in the San Francisco Bay Area.
+
+Bay Area Dog helps dog owners find the best trails, restaurants, parks, shops, and resources across the San Francisco Bay Area. The site covers 23+ dog-friendly hiking trails with detailed descriptions, difficulty ratings, and GPS coordinates, plus curated guides for dining, playing, and shopping with your dog.
+
+## Main Sections
+
+- [Home](https://www.bayarea.dog/en)
+- [Trails](https://www.bayarea.dog/en/trails) — 23+ dog-friendly hiking trails with ratings, distances, and descriptions
+- [Eat](https://www.bayarea.dog/en/eat) — Dog-friendly restaurants and cafes
+- [Play](https://www.bayarea.dog/en/play) — Dog parks, beaches, and play areas
+- [Shop](https://www.bayarea.dog/en/shop) — Pet stores and dog supplies
+- [Learn](https://www.bayarea.dog/en/learn) — Guides and resources for dog owners
+
+## Interactive Tools
+
+- [Food Safety Checker](https://www.bayarea.dog/en/tools/food-safety) — Check if foods are safe for dogs
+- [Food Calculator](https://www.bayarea.dog/en/tools/food-calculator) — Calculate proper portions for your dog
+- [Emergency Card](https://www.bayarea.dog/en/tools/emergency-card) — Generate a printable emergency info card
+- [Hiking Checklist](https://www.bayarea.dog/en/tools/hiking-checklist) — Customizable hiking preparation checklist
+
+## Featured Guides
+
+- [Best Off-Leash Dog Beaches in the Bay Area](https://www.bayarea.dog/en/guides/best-off-leash-dog-beaches-bay-area)
+- [Dog-Friendly Restaurants in San Francisco](https://www.bayarea.dog/en/guides/dog-friendly-restaurants-san-francisco)
+- [Bay Area Dog Park Guide](https://www.bayarea.dog/en/guides/bay-area-dog-park-complete-guide)
+- [Emergency Vet Clinics Bay Area](https://www.bayarea.dog/en/guides/emergency-vet-clinics-bay-area)
+- [Dog-Friendly Wineries Napa Sonoma](https://www.bayarea.dog/en/guides/dog-friendly-wineries-napa-sonoma)
+- [Rainy Day Activities for Dogs](https://www.bayarea.dog/en/guides/rainy-day-activities-dogs-bay-area)
+- [Dog Training Classes Bay Area](https://www.bayarea.dog/en/guides/dog-training-classes-bay-area)
+- [Pet Insurance Guide Bay Area](https://www.bayarea.dog/en/guides/pet-insurance-guide-bay-area)
+
+## About
+
+Bay Area Dog is available in 30 languages including English, Chinese, Spanish, Japanese, Korean, French, German, and more. The site provides localized content to serve the diverse Bay Area community.
+
+## Contact
+
+Website: https://www.bayarea.dog

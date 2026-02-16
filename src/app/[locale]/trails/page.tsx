@@ -27,8 +27,8 @@ export default async function TrailsPage({ params }: { params: Promise<{ locale:
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: `https://bayarea.dog/${locale}` },
-      { "@type": "ListItem", position: 2, name: "Trails", item: `https://bayarea.dog/${locale}/trails` },
+      { "@type": "ListItem", position: 1, name: "Home", item: `https://www.bayarea.dog/${locale}` },
+      { "@type": "ListItem", position: 2, name: "Trails", item: `https://www.bayarea.dog/${locale}/trails` },
     ],
   };
 
@@ -41,7 +41,7 @@ export default async function TrailsPage({ params }: { params: Promise<{ locale:
       "@type": "ListItem",
       position: i + 1,
       name: trail.name,
-      url: `https://bayarea.dog/${locale}/trails/${trail.slug}`,
+      url: `https://www.bayarea.dog/${locale}/trails/${trail.slug}`,
     })),
   };
 

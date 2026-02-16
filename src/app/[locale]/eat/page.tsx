@@ -27,8 +27,8 @@ export default async function EatPage({ params }: { params: Promise<{ locale: st
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: `https://bayarea.dog/${locale}` },
-      { "@type": "ListItem", position: 2, name: "Eat & Drink", item: `https://bayarea.dog/${locale}/eat` },
+      { "@type": "ListItem", position: 1, name: "Home", item: `https://www.bayarea.dog/${locale}` },
+      { "@type": "ListItem", position: 2, name: "Eat & Drink", item: `https://www.bayarea.dog/${locale}/eat` },
     ],
   };
 

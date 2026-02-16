@@ -26,9 +26,9 @@ export default async function FoodCalculatorPage({ params }: { params: Promise<{
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: `https://bayarea.dog/${locale}` },
-      { "@type": "ListItem", position: 2, name: "Learn", item: `https://bayarea.dog/${locale}/learn` },
-      { "@type": "ListItem", position: 3, name: "Raw Food Calculator", item: `https://bayarea.dog/${locale}/tools/food-calculator` },
+      { "@type": "ListItem", position: 1, name: "Home", item: `https://www.bayarea.dog/${locale}` },
+      { "@type": "ListItem", position: 2, name: "Learn", item: `https://www.bayarea.dog/${locale}/learn` },
+      { "@type": "ListItem", position: 3, name: "Raw Food Calculator", item: `https://www.bayarea.dog/${locale}/tools/food-calculator` },
     ],
   };
 

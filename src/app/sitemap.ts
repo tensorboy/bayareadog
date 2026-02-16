@@ -18,13 +18,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       const isHome = page === "";
       const isTool = page.startsWith("/tools/");
       entries.push({
-        url: `https://bayarea.dog/${locale}${page}`,
+        url: `https://www.bayarea.dog/${locale}${page}`,
         lastModified: new Date(),
         changeFrequency: isHome ? "daily" : "weekly",
         priority: isHome ? 1.0 : isTool ? 0.7 : 0.8,
         alternates: {
           languages: Object.fromEntries(
-            locales.map((l) => [l, `https://bayarea.dog/${l}${page}`])
+            locales.map((l) => [l, `https://www.bayarea.dog/${l}${page}`])
           ),
         },
       });
@@ -33,13 +33,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // Trail detail pages
     for (const trail of trails) {
       entries.push({
-        url: `https://bayarea.dog/${locale}/trails/${trail.slug}`,
+        url: `https://www.bayarea.dog/${locale}/trails/${trail.slug}`,
         lastModified: new Date(),
         changeFrequency: "monthly",
         priority: 0.7,
         alternates: {
           languages: Object.fromEntries(
-            locales.map((l) => [l, `https://bayarea.dog/${l}/trails/${trail.slug}`])
+            locales.map((l) => [l, `https://www.bayarea.dog/${l}/trails/${trail.slug}`])
           ),
         },
       });
@@ -48,13 +48,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // Guide articles
     for (const article of articles) {
       entries.push({
-        url: `https://bayarea.dog/${locale}/guides/${article.slug}`,
+        url: `https://www.bayarea.dog/${locale}/guides/${article.slug}`,
         lastModified: new Date(article.date),
         changeFrequency: "monthly",
         priority: 0.8,
         alternates: {
           languages: Object.fromEntries(
-            locales.map((l) => [l, `https://bayarea.dog/${l}/guides/${article.slug}`])
+            locales.map((l) => [l, `https://www.bayarea.dog/${l}/guides/${article.slug}`])
           ),
         },
       });

@@ -17,5 +17,5 @@ export default function middleware(request: NextRequest) {
 }
 
 export const config = {
-  matcher: ["/", "/(zh|en|es|ja|ko)/:path*"],
+  matcher: ["/", "/(en|zh|es|ja|ko|fr|de|pt|it|ru|ar|hi|th|vi|id|tr|nl|pl|sv|da|nb|fi|cs|he|ms|tl|uk|ro|hu|el)/:path*"],
 };

@@ -30,9 +30,9 @@ export async function generateMetadata({
       template: `%s | Bay Area Dog`,
     },
     description: t("description"),
-    metadataBase: new URL("https://bayarea.dog"),
+    metadataBase: new URL("https://www.bayarea.dog"),
     alternates: {
-      canonical: "/",
+      canonical: `/${locale}`,
       languages: {
         en: "/en", zh: "/zh", es: "/es", ja: "/ja", ko: "/ko",
         fr: "/fr", de: "/de", pt: "/pt", it: "/it", ru: "/ru",
@@ -45,7 +45,7 @@ export async function generateMetadata({
     openGraph: {
       title: t("title"),
       description: t("description"),
-      url: "https://bayarea.dog",
+      url: "https://www.bayarea.dog",
       siteName: "Bay Area Dog",
       locale: locale,
       type: "website",
@@ -90,14 +90,32 @@ export default async function LocaleLayout({
               "@context": "https://schema.org",
               "@type": "WebSite",
               name: "Bay Area Dog",
-              url: "https://bayarea.dog",
+              url: "https://www.bayarea.dog",
               description:
                 "The ultimate guide for dog owners in the Bay Area.",
               potentialAction: {
                 "@type": "SearchAction",
-                target: "https://bayarea.dog/search?q={search_term_string}",
+                target: "https://www.bayarea.dog/search?q={search_term_string}",
                 "query-input": "required name=search_term_string",
               },
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              name: "Bay Area Dog",
+              url: "https://www.bayarea.dog",
+              logo: "https://www.bayarea.dog/icon.svg",
+              description: "The ultimate guide for dog owners in the San Francisco Bay Area.",
+              areaServed: {
+                "@type": "Place",
+                name: "San Francisco Bay Area",
+              },
+              sameAs: [],
             }),
           }}
         />

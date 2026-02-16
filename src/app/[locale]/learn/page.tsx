@@ -26,8 +26,8 @@ export default async function LearnPage({ params }: { params: Promise<{ locale: 
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: `https://bayarea.dog/${locale}` },
-      { "@type": "ListItem", position: 2, name: "Learn", item: `https://bayarea.dog/${locale}/learn` },
+      { "@type": "ListItem", position: 1, name: "Home", item: `https://www.bayarea.dog/${locale}` },
+      { "@type": "ListItem", position: 2, name: "Learn", item: `https://www.bayarea.dog/${locale}/learn` },
     ],
   };
 

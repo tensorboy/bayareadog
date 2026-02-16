@@ -80,7 +80,7 @@ export default async function TrailDetailPage({
       bestRating: 5,
       worstRating: 1,
     },
-    url: `https://bayarea.dog/${locale}/trails/${trail.slug}`,
+    url: `https://www.bayarea.dog/${locale}/trails/${trail.slug}`,
   };
 
   const breadcrumbJsonLd = {
@@ -91,19 +91,19 @@ export default async function TrailDetailPage({
         "@type": "ListItem",
         position: 1,
         name: "Home",
-        item: `https://bayarea.dog/${locale}`,
+        item: `https://www.bayarea.dog/${locale}`,
       },
       {
         "@type": "ListItem",
         position: 2,
         name: "Trails",
-        item: `https://bayarea.dog/${locale}/trails`,
+        item: `https://www.bayarea.dog/${locale}/trails`,
       },
       {
         "@type": "ListItem",
         position: 3,
         name: trail.name,
-        item: `https://bayarea.dog/${locale}/trails/${trail.slug}`,
+        item: `https://www.bayarea.dog/${locale}/trails/${trail.slug}`,
       },
     ],
   };
