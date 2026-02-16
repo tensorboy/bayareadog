@@ -103,8 +103,14 @@ export default async function LocaleLayout({
       </head>
       <body className="font-sans antialiased bg-white dark:bg-slate-900 text-gray-900 dark:text-gray-100 transition-colors">
         <NextIntlClientProvider>
+          <a
+            href="#main-content"
+            className="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[100] focus:px-4 focus:py-2 focus:bg-amber-600 focus:text-white focus:rounded-lg focus:text-sm focus:font-medium"
+          >
+            Skip to content
+          </a>
           <Header />
-          <main className="min-h-screen pb-16 md:pb-0">{children}</main>
+          <main id="main-content" role="main" className="min-h-screen pb-16 md:pb-0">{children}</main>
           <Footer />
           <BackToTop />
           <MobileNav />

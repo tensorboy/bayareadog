@@ -14,11 +14,11 @@ export default function NotFound() {
             <span className="absolute -bottom-2 -right-2 text-4xl">?</span>
           </div>
         </div>
-        <h1 className="text-6xl font-bold text-gray-900 mb-2">404</h1>
-        <h2 className="text-xl font-semibold text-gray-700 mb-4">
+        <h1 className="text-6xl font-bold text-gray-900 dark:text-white mb-2">404</h1>
+        <h2 className="text-xl font-semibold text-gray-700 dark:text-gray-200 mb-4">
           {t("title")}
         </h2>
-        <p className="text-gray-500 mb-8">{t("description")}</p>
+        <p className="text-gray-500 dark:text-gray-400 mb-8">{t("description")}</p>
         <div className="flex flex-col sm:flex-row gap-3 justify-center">
           <Link
             href="/"
@@ -28,7 +28,7 @@ export default function NotFound() {
           </Link>
           <Link
             href="/trails"
-            className="inline-flex items-center justify-center px-6 py-3 rounded-xl border border-gray-200 text-gray-700 font-medium hover:border-amber-300 hover:text-amber-600 transition-colors"
+            className="inline-flex items-center justify-center px-6 py-3 rounded-xl border border-gray-200 dark:border-slate-600 text-gray-700 dark:text-gray-300 font-medium hover:border-amber-300 hover:text-amber-600 transition-colors"
           >
             {t("exploreTrails")}
           </Link>

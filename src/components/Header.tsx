@@ -61,7 +61,7 @@ export default function Header() {
   };
 
   return (
-    <header className="sticky top-0 z-50 bg-white/80 dark:bg-slate-900/80 backdrop-blur-md border-b border-amber-100 dark:border-slate-700">
+    <header role="banner" className="sticky top-0 z-50 bg-white/80 dark:bg-slate-900/80 backdrop-blur-md border-b border-amber-100 dark:border-slate-700">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center gap-2 group">
@@ -71,7 +71,7 @@ export default function Header() {
             </span>
           </Link>
 
-          <nav className="hidden md:flex items-center gap-1">
+          <nav aria-label="Main navigation" className="hidden md:flex items-center gap-1">
             {navItems.map((item) => (
               <Link
                 key={item.href}
@@ -88,6 +88,7 @@ export default function Header() {
             <select
               value={locale}
               onChange={(e) => switchLocale(e.target.value)}
+              aria-label="Select language"
               className="text-sm bg-transparent dark:bg-slate-800 border border-gray-200 dark:border-slate-600 rounded-lg px-2 py-1.5 text-gray-600 dark:text-gray-300 hover:border-amber-300 focus:outline-none focus:ring-2 focus:ring-amber-200"
             >
               {Object.entries(localeNames).map(([code, name]) => (
@@ -99,6 +100,8 @@ export default function Header() {
 
             <button
               onClick={() => setMobileOpen(!mobileOpen)}
+              aria-label={mobileOpen ? "Close menu" : "Open menu"}
+              aria-expanded={mobileOpen}
               className="md:hidden p-2 text-gray-600 dark:text-gray-300 hover:text-amber-600"
             >
               {mobileOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
@@ -107,7 +110,7 @@ export default function Header() {
         </div>
 
         {mobileOpen && (
-          <nav className="md:hidden pb-4 border-t border-amber-50 dark:border-slate-700 pt-2">
+          <nav aria-label="Mobile navigation" className="md:hidden pb-4 border-t border-amber-50 dark:border-slate-700 pt-2">
             {navItems.map((item) => (
               <Link
                 key={item.href}
