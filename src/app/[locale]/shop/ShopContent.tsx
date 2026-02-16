@@ -37,7 +37,7 @@ const shops: Shop[] = [
       en: "Independent pet store specializing in natural and holistic pet food. Knowledgeable staff who can help with dietary needs.",
       zh: "独立宠物店，专营天然和整体健康宠物食品。专业的工作人员可以帮助解决饮食需求。",
     },
-    website: "https://www.jeffreysnaturalpet.com",
+    website: "https://www.jeffreyspets.com",
     tags: ["Natural", "Holistic", "Independent"],
   },
   {
@@ -49,7 +49,7 @@ const shops: Shop[] = [
       en: "Full-service grooming and self-service dog wash in the Mission. Also offers daycare and boarding. Clean, friendly atmosphere.",
       zh: "Mission区的全方位美容和自助洗狗服务。也提供日托和寄宿服务。干净、友好的氛围。",
     },
-    website: "https://www.mudpuppiessf.com",
+    website: "https://mudpuppys.com/",
     tags: ["Grooming", "Dog Wash", "Daycare"],
   },
   {

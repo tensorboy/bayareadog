@@ -219,7 +219,7 @@ export const trails: Trail[] = [
     nearbyVet: "East Bay SPCA (2mi)",
     features: ["waterfront"],
     suitableFor: ["large", "small", "puppy", "water-lover"],
-    website: "https://www.ebparks.org/parks/pt-isabel",
+    website: "https://www.ebparks.org/parks/point-isabel",
   },
   {
     slug: "cesar-chavez-park",
@@ -243,7 +243,7 @@ export const trails: Trail[] = [
     ground: "Grass, dirt paths",
     features: ["hills", "waterfront"],
     suitableFor: ["large", "small"],
-    website: "https://berkeleyca.gov/community-recreation/parks-recreation/parks/cesar-e-chavez-park",
+    website: "https://berkeleyca.gov/community-recreation/parks-recreation/parks/cesar-chavez-park",
   },
   {
     slug: "tilden-park",
@@ -342,7 +342,7 @@ export const trails: Trail[] = [
     ground: "Paved, flat",
     features: ["waterfront", "lake"],
     suitableFor: ["small", "senior", "puppy"],
-    website: "https://www.mountainview.gov/our-city/departments/community-services/shoreline/parks",
+    website: "https://www.mountainview.gov/our-city/departments/community-services/shoreline-at-mountain-view",
   },
   {
     slug: "tennessee-valley",
@@ -366,7 +366,7 @@ export const trails: Trail[] = [
     ground: "Packed dirt, flat, well-maintained",
     features: ["beach", "hills"],
     suitableFor: ["large", "small", "senior"],
-    website: "https://www.nps.gov/goga/planyourvisit/tennessee-valley.htm",
+    website: "https://www.nps.gov/goga/planyourvisit/tennessee_valley.htm",
   },
   {
     slug: "rodeo-beach",
@@ -390,7 +390,7 @@ export const trails: Trail[] = [
     ground: "Pebbles, sand",
     features: ["beach", "cliffs"],
     suitableFor: ["large", "water-lover"],
-    website: "https://www.nps.gov/goga/planyourvisit/rodeo-beach.htm",
+    website: "https://www.nps.gov/places/000/rodeo-beach.htm",
   },
   {
     slug: "pacifica-dog-beach",
@@ -537,7 +537,7 @@ export const trails: Trail[] = [
     ground: "Paved, boardwalk, some dirt",
     features: ["waterfront"],
     suitableFor: ["small", "senior", "puppy"],
-    website: "https://www.cityofpaloalto.org/Departments/Community-Services/Open-Space-Parks-Golf/Parks-Preserves/Baylands-Nature-Preserve",
+    website: "https://www.paloalto.gov/Departments/Community-Services/Parks-Open-Space-Golf-Division/Neighborhood-Parks/Baylands-Nature-Preserve",
   },
   {
     slug: "stevens-creek",
@@ -657,6 +657,6 @@ export const trails: Trail[] = [
     ground: "Paved, flat",
     features: ["forest", "lake"],
     suitableFor: ["small", "senior", "puppy"],
-    website: "https://www.smcgov.org/parks/sawyer-camp-trail",
+    website: "https://www.smcgov.org/parks/sawyer-camp-segment",
   },
 ];

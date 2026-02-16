@@ -102,7 +102,7 @@ export const restaurants: Restaurant[] = [
     },
     patio: true,
     dogMenu: false,
-    website: "https://www.theramprestaurant.com",
+    website: "https://www.rampsf.com/",
     tags: ["Waterfront", "Patio", "Live Music"],
   },
   {
@@ -120,7 +120,7 @@ export const restaurants: Restaurant[] = [
     },
     patio: true,
     dogMenu: false,
-    website: "https://drfranklincraft.com/drakes-dealership",
+    website: "https://drinkdrakes.com/places/dealership/",
     tags: ["Beer Garden", "Pizza", "Outdoor"],
   },
   {

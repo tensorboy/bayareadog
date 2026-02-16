@@ -30,7 +30,7 @@ export const emergencyVets: EmergencyVet[] = [
     phone: "(415) 456-7372",
     area: "North Bay",
     hours: "24/7",
-    website: "https://www.petspecialistofmarin.com",
+    website: "https://pescm.com/",
   },
   {
     name: "SAGE Veterinary Centers - Campbell",
@@ -62,7 +62,7 @@ export const emergencyVets: EmergencyVet[] = [
     phone: "(510) 483-7387",
     area: "East Bay",
     hours: "24/7 Emergency",
-    website: "https://bayareavetspecialists.com",
+    website: "https://vcahospitals.com/bay-area-specialists",
   },
   {
     name: "VCA Bay Area Animal Hospital",
