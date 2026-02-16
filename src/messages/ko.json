@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - 베이 에어리어 반려견 가이드",
+    "description": "베이 에어리어 반려견 주인을 위한 궁극의 가이드. 트레일, 레스토랑, 상점, 이벤트, 팁을 찾아보세요."
+  },
+  "nav": {
+    "home": "홈",
+    "trails": "트레일",
+    "eat": "맛집",
+    "play": "놀이",
+    "shop": "쇼핑",
+    "learn": "배우기"
+  },
+  "hero": {
+    "title": "베이 에어리어 반려견 라이프 가이드",
+    "subtitle": "최고의 트레일, 반려견 친화 레스토랑, 공원, 상점을 발견하세요.",
+    "cta": "탐험하기",
+    "search_placeholder": "트레일, 레스토랑, 공원 검색..."
+  },
+  "categories": {
+    "trails": {
+      "title": "트레일 & 하이킹",
+      "description": "오프리시 트레일, 해변 산책, 경치 좋은 하이킹.",
+      "cta": "트레일 찾기"
+    },
+    "eat": {
+      "title": "맛집",
+      "description": "반려견 친화 레스토랑, 카페, 브루어리, 생식 전문점.",
+      "cta": "레스토랑 찾기"
+    },
+    "play": {
+      "title": "놀이 & 이벤트",
+      "description": "도그 파크, 해변, 이벤트, 모임, 활동.",
+      "cta": "활동 찾기"
+    },
+    "shop": {
+      "title": "쇼핑",
+      "description": "펫샵, 생식 공급업체, 그루밍, 동물병원.",
+      "cta": "상점 찾기"
+    },
+    "learn": {
+      "title": "배우기",
+      "description": "훈련 팁, 영양 가이드, 수제 레시피, 건강 조언.",
+      "cta": "배우기 시작"
+    }
+  },
+  "featured": {
+    "title": "이번 주 인기",
+    "view_all": "전체 보기"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "포트 펀스턴",
+      "location": "샌프란시스코",
+      "description": "멋진 해변 전망과 모래 절벽이 있는 오프리시 해변.",
+      "tags": "오프리시,해변,경치"
+    },
+    "point_isabel": {
+      "name": "포인트 이사벨",
+      "location": "리치몬드",
+      "description": "베이 에어리어 최대의 오프리시 도그 파크.",
+      "tags": "오프리시,워터프론트,넓음"
+    },
+    "lazy_dog": {
+      "name": "레이지 도그 레스토랑",
+      "location": "여러 지점",
+      "description": "반려견 메뉴가 있는 테라스 다이닝.",
+      "tags": "레스토랑,테라스,반려견 메뉴"
+    },
+    "marin_raw": {
+      "name": "마린 로",
+      "location": "산 라파엘",
+      "description": "지역 농장의 프리미엄 생식 사료와 뼈.",
+      "tags": "생식,로컬,유기농"
+    }
+  },
+  "newsletter": {
+    "title": "소식 받기",
+    "description": "매주 최고의 반려견 친화 장소, 이벤트, 팁을 받아보세요.",
+    "placeholder": "이메일 입력",
+    "button": "구독",
+    "privacy": "개인정보를 존중합니다. 언제든 구독 해제 가능."
+  },
+  "footer": {
+    "tagline": "베이 에어리어 반려견의 최고의 삶을 응원합니다.",
+    "about": "소개",
+    "contact": "문의",
+    "privacy": "개인정보",
+    "terms": "이용약관",
+    "copyright": "Bay Area Dog. All rights reserved."
+  }
+}

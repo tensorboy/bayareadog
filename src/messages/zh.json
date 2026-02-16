@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "title": "湾区遛狗指南 - 你的狗狗湾区生活宝典",
+    "description": "湾区养狗人的终极指南。发现最佳步道、狗友好餐厅、宠物店、活动和养狗技巧。"
+  },
+  "nav": {
+    "home": "首页",
+    "trails": "步道",
+    "eat": "美食",
+    "play": "玩乐",
+    "shop": "购物",
+    "learn": "学习"
+  },
+  "hero": {
+    "title": "湾区狗狗生活指南",
+    "subtitle": "发现最棒的步道、狗友好餐厅、公园、宠物店，让你的毛孩子在湾区过上最好的生活。",
+    "cta": "开始探索",
+    "search_placeholder": "搜索步道、餐厅、公园..."
+  },
+  "categories": {
+    "trails": {
+      "title": "步道与远足",
+      "description": "放绳步道、海滩漫步、风景徒步，由狗主人真实评价。",
+      "cta": "查找步道"
+    },
+    "eat": {
+      "title": "吃喝美食",
+      "description": "狗友好餐厅、咖啡馆、啤酒厂，以及最好的生骨肉店。",
+      "cta": "查找餐厅"
+    },
+    "play": {
+      "title": "玩乐活动",
+      "description": "狗公园、海滩、活动、聚会，和你的毛孩子一起玩。",
+      "cta": "查找活动"
+    },
+    "shop": {
+      "title": "购物指南",
+      "description": "宠物店、生骨肉供应商、美容沙龙、兽医诊所。",
+      "cta": "查找商店"
+    },
+    "learn": {
+      "title": "学习课堂",
+      "description": "训练技巧、营养指南、自制食谱、健康建议。",
+      "cta": "开始学习"
+    }
+  },
+  "featured": {
+    "title": "本周热门",
+    "view_all": "查看全部"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston 沙滩",
+      "location": "旧金山",
+      "description": "标志性的放绳海滩，拥有壮丽的海景和沙崖。",
+      "tags": "放绳,海滩,风景"
+    },
+    "point_isabel": {
+      "name": "Point Isabel 海滨公园",
+      "location": "Richmond",
+      "description": "湾区最大的放绳狗公园，拥有海滨步道。",
+      "tags": "放绳,海滨,超大"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog 餐厅",
+      "location": "多个地点",
+      "description": "狗友好的露台用餐，提供专门的狗狗菜单。",
+      "tags": "餐厅,露台,狗菜单"
+    },
+    "marin_raw": {
+      "name": "Marin Raw 生骨肉",
+      "location": "San Rafael",
+      "description": "来自本地农场的优质生骨肉和肉骨头。",
+      "tags": "生骨肉,本地,有机"
+    }
+  },
+  "newsletter": {
+    "title": "订阅动态",
+    "description": "每周精选最佳狗友好地点、活动和养狗技巧。",
+    "placeholder": "输入你的邮箱",
+    "button": "订阅",
+    "privacy": "我们尊重您的隐私，随时可以退订。"
+  },
+  "footer": {
+    "tagline": "让湾区的狗狗们过上最好的生活。",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "privacy": "隐私政策",
+    "terms": "使用条款",
+    "copyright": "Bay Area Dog 湾区遛狗指南。保留所有权利。"
+  }
+}

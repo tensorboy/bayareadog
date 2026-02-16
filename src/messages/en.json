@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - Your Dog's Guide to the Bay",
+    "description": "The ultimate guide for dog owners in the Bay Area. Find trails, restaurants, shops, events, and tips for your furry friend."
+  },
+  "nav": {
+    "home": "Home",
+    "trails": "Trails",
+    "eat": "Eat",
+    "play": "Play",
+    "shop": "Shop",
+    "learn": "Learn"
+  },
+  "hero": {
+    "title": "Your Dog's Guide to the Bay Area",
+    "subtitle": "Discover the best trails, dog-friendly restaurants, parks, shops, and everything your pup needs to live their best life in the Bay.",
+    "cta": "Explore Now",
+    "search_placeholder": "Search trails, restaurants, parks..."
+  },
+  "categories": {
+    "trails": {
+      "title": "Trails & Hiking",
+      "description": "Off-leash trails, beach walks, and scenic hikes rated by fellow dog owners.",
+      "cta": "Find Trails"
+    },
+    "eat": {
+      "title": "Eat & Drink",
+      "description": "Dog-friendly restaurants, cafes, breweries, and the best raw food shops.",
+      "cta": "Find Restaurants"
+    },
+    "play": {
+      "title": "Play & Fun",
+      "description": "Dog parks, beaches, events, meetups, and activities for you and your pup.",
+      "cta": "Find Activities"
+    },
+    "shop": {
+      "title": "Shop",
+      "description": "Pet stores, raw food suppliers, grooming salons, and vet clinics.",
+      "cta": "Find Shops"
+    },
+    "learn": {
+      "title": "Learn",
+      "description": "Training tips, nutrition guides, homemade recipes, and health advice.",
+      "cta": "Start Learning"
+    }
+  },
+  "featured": {
+    "title": "Popular This Week",
+    "view_all": "View All"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Iconic off-leash beach with stunning ocean views and sandy cliffs.",
+      "tags": "Off-leash,Beach,Scenic"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "The largest off-leash dog park in the Bay Area with waterfront trails.",
+      "tags": "Off-leash,Waterfront,Large"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Multiple Locations",
+      "description": "Dog-friendly patio dining with a special dog menu.",
+      "tags": "Restaurant,Patio,Dog Menu"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Premium raw dog food and meaty bones from local farms.",
+      "tags": "Raw Food,Local,Organic"
+    }
+  },
+  "newsletter": {
+    "title": "Stay in the Loop",
+    "description": "Get weekly picks for the best dog-friendly spots, events, and tips.",
+    "placeholder": "Enter your email",
+    "button": "Subscribe",
+    "privacy": "We respect your privacy. Unsubscribe at any time."
+  },
+  "footer": {
+    "tagline": "Helping Bay Area dogs live their best lives.",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "copyright": "Bay Area Dog. All rights reserved."
+  }
+}

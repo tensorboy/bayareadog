@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - La Guía de tu Perro en la Bahía",
+    "description": "La guía definitiva para dueños de perros en el Área de la Bahía. Encuentra senderos, restaurantes, tiendas, eventos y consejos."
+  },
+  "nav": {
+    "home": "Inicio",
+    "trails": "Senderos",
+    "eat": "Comer",
+    "play": "Jugar",
+    "shop": "Tiendas",
+    "learn": "Aprender"
+  },
+  "hero": {
+    "title": "La Guía de tu Perro en el Área de la Bahía",
+    "subtitle": "Descubre los mejores senderos, restaurantes pet-friendly, parques, tiendas y todo lo que tu perro necesita.",
+    "cta": "Explorar Ahora",
+    "search_placeholder": "Buscar senderos, restaurantes, parques..."
+  },
+  "categories": {
+    "trails": {
+      "title": "Senderos y Caminatas",
+      "description": "Senderos sin correa, paseos por la playa y caminatas escénicas.",
+      "cta": "Buscar Senderos"
+    },
+    "eat": {
+      "title": "Comer y Beber",
+      "description": "Restaurantes, cafés y cervecerías pet-friendly, y tiendas de comida cruda.",
+      "cta": "Buscar Restaurantes"
+    },
+    "play": {
+      "title": "Jugar y Divertirse",
+      "description": "Parques para perros, playas, eventos y actividades.",
+      "cta": "Buscar Actividades"
+    },
+    "shop": {
+      "title": "Tiendas",
+      "description": "Tiendas de mascotas, proveedores de comida cruda, salones de belleza y clínicas.",
+      "cta": "Buscar Tiendas"
+    },
+    "learn": {
+      "title": "Aprender",
+      "description": "Consejos de entrenamiento, guías de nutrición, recetas caseras y salud.",
+      "cta": "Empezar a Aprender"
+    }
+  },
+  "featured": {
+    "title": "Popular Esta Semana",
+    "view_all": "Ver Todo"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Playa icónica sin correa con vistas al océano y acantilados de arena.",
+      "tags": "Sin correa,Playa,Escénico"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "El parque para perros sin correa más grande del Área de la Bahía.",
+      "tags": "Sin correa,Frente al mar,Grande"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Múltiples Ubicaciones",
+      "description": "Comida en terraza pet-friendly con menú especial para perros.",
+      "tags": "Restaurante,Terraza,Menú para perros"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Comida cruda premium para perros de granjas locales.",
+      "tags": "Comida cruda,Local,Orgánico"
+    }
+  },
+  "newsletter": {
+    "title": "Mantente Informado",
+    "description": "Recibe selecciones semanales de los mejores lugares, eventos y consejos.",
+    "placeholder": "Ingresa tu correo",
+    "button": "Suscribirse",
+    "privacy": "Respetamos tu privacidad. Cancela cuando quieras."
+  },
+  "footer": {
+    "tagline": "Ayudando a los perros de la Bahía a vivir su mejor vida.",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "copyright": "Bay Area Dog. Todos los derechos reservados."
+  }
+}
