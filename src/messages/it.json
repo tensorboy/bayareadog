@@ -75,13 +75,6 @@
       "tags": "Cibo Crudo,Locale,Biologico"
     }
   },
-  "newsletter": {
-    "title": "Resta Aggiornato",
-    "description": "Ricevi settimanalmente i migliori posti, eventi e consigli dog-friendly.",
-    "placeholder": "Inserisci la tua email",
-    "button": "Iscriviti",
-    "privacy": "Rispettiamo la tua privacy. Disiscriviti in qualsiasi momento."
-  },
   "todaysPick": {
     "title": "Scelta del Giorno",
     "random": "Avventura Casuale",

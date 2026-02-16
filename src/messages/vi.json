@@ -75,13 +75,6 @@
       "tags": "Thức ăn sống,Địa phương,Hữu cơ"
     }
   },
-  "newsletter": {
-    "title": "Cập Nhật Tin Tức",
-    "description": "Nhận hàng tuần những địa điểm, sự kiện và mẹo tốt nhất cho chó.",
-    "placeholder": "Nhập email của bạn",
-    "button": "Đăng Ký",
-    "privacy": "Chúng tôi tôn trọng quyền riêng tư của bạn. Hủy đăng ký bất cứ lúc nào."
-  },
   "todaysPick": {
     "title": "Gợi Ý Hôm Nay",
     "random": "Phiêu Lưu Ngẫu Nhiên",

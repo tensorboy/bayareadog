@@ -75,13 +75,6 @@
       "tags": "Çiğ Gıda,Yerel,Organik"
     }
   },
-  "newsletter": {
-    "title": "Haberdar Olun",
-    "description": "En iyi köpek dostu mekanlar, etkinlikler ve ipuçları için haftalık öneriler alın.",
-    "placeholder": "E-postanızı girin",
-    "button": "Abone Ol",
-    "privacy": "Gizliliğinize saygı duyuyoruz."
-  },
   "todaysPick": {
     "title": "Günün Seçimi",
     "random": "Rastgele Macera",

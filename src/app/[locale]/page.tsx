@@ -5,7 +5,6 @@ import Hero from "@/components/Hero";
 import CategoryCard from "@/components/CategoryCard";
 import BayAreaMap from "@/components/BayAreaMap";
 import TodaysPick from "@/components/TodaysPick";
-import Newsletter from "@/components/Newsletter";
 import SeasonalBanner from "@/components/SeasonalBanner";
 import FadeIn from "@/components/FadeIn";
 
@@ -58,9 +57,6 @@ function HomeContent() {
         <BayAreaMap />
       </FadeIn>
 
-      <FadeIn>
-        <Newsletter />
-      </FadeIn>
     </>
   );
 }

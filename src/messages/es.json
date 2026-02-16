@@ -75,13 +75,6 @@
       "tags": "Comida cruda,Local,Orgánico"
     }
   },
-  "newsletter": {
-    "title": "Mantente Informado",
-    "description": "Recibe selecciones semanales de los mejores lugares, eventos y consejos.",
-    "placeholder": "Ingresa tu correo",
-    "button": "Suscribirse",
-    "privacy": "Respetamos tu privacidad. Cancela cuando quieras."
-  },
   "todaysPick": {
     "title": "Recomendación del Día",
     "random": "Aventura Aleatoria",

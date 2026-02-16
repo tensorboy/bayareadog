@@ -75,13 +75,6 @@
       "tags": "생식,로컬,유기농"
     }
   },
-  "newsletter": {
-    "title": "소식 받기",
-    "description": "매주 최고의 반려견 친화 장소, 이벤트, 팁을 받아보세요.",
-    "placeholder": "이메일 입력",
-    "button": "구독",
-    "privacy": "개인정보를 존중합니다. 언제든 구독 해제 가능."
-  },
   "todaysPick": {
     "title": "오늘의 추천",
     "random": "랜덤 모험",

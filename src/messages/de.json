@@ -75,13 +75,6 @@
       "tags": "Rohfutter,Lokal,Bio"
     }
   },
-  "newsletter": {
-    "title": "Bleiben Sie Informiert",
-    "description": "Erhalten Sie wöchentlich die besten hundefreundlichen Orte, Events und Tipps.",
-    "placeholder": "E-Mail-Adresse eingeben",
-    "button": "Abonnieren",
-    "privacy": "Wir respektieren Ihre Privatsphäre. Jederzeit abbestellbar."
-  },
   "todaysPick": {
     "title": "Tipp des Tages",
     "random": "Zufälliges Abenteuer",

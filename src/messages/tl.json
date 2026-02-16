@@ -75,13 +75,6 @@
       "tags": "Raw Food,Lokal,Organic"
     }
   },
-  "newsletter": {
-    "title": "Manatiling Updated",
-    "description": "Kumuha ng weekly tips para sa mga dog-friendly na lugar.",
-    "placeholder": "Ilagay ang email",
-    "button": "Mag-subscribe",
-    "privacy": "Nirerespeto namin ang iyong privacy."
-  },
   "todaysPick": {
     "title": "Pili Ngayong Araw",
     "random": "Random na Pakikipagsapalaran",

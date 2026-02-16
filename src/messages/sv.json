@@ -75,13 +75,6 @@
       "tags": "Rå Mat,Lokalt,Ekologiskt"
     }
   },
-  "newsletter": {
-    "title": "Håll Dig Uppdaterad",
-    "description": "Få veckovisa tips om hundvänliga platser.",
-    "placeholder": "Ange din e-post",
-    "button": "Prenumerera",
-    "privacy": "Vi respekterar din integritet."
-  },
   "todaysPick": {
     "title": "Dagens Val",
     "random": "Slumpmässigt Äventyr",

@@ -75,13 +75,6 @@
       "tags": "Makanan Mentah,Lokal,Organik"
     }
   },
-  "newsletter": {
-    "title": "Tetap Terupdate",
-    "description": "Dapatkan rekomendasi mingguan tempat, acara, dan tips terbaik untuk anjing.",
-    "placeholder": "Masukkan email Anda",
-    "button": "Berlangganan",
-    "privacy": "Kami menghormati privasi Anda. Berhenti berlangganan kapan saja."
-  },
   "todaysPick": {
     "title": "Pilihan Hari Ini",
     "random": "Petualangan Acak",

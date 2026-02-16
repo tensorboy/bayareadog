@@ -75,13 +75,6 @@
       "tags": "Rauw Voer,Lokaal,Biologisch"
     }
   },
-  "newsletter": {
-    "title": "Blijf Op de Hoogte",
-    "description": "Ontvang wekelijkse tips voor hondvriendelijke plekken.",
-    "placeholder": "Voer je e-mail in",
-    "button": "Abonneren",
-    "privacy": "We respecteren je privacy."
-  },
   "todaysPick": {
     "title": "Tip van de Dag",
     "random": "Willekeurig Avontuur",

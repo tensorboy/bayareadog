@@ -75,13 +75,6 @@
       "tags": "生骨肉,本地,有机"
     }
   },
-  "newsletter": {
-    "title": "订阅动态",
-    "description": "每周精选最佳狗友好地点、活动和养狗技巧。",
-    "placeholder": "输入你的邮箱",
-    "button": "订阅",
-    "privacy": "我们尊重您的隐私，随时可以退订。"
-  },
   "todaysPick": {
     "title": "今日推荐",
     "random": "随机探索",

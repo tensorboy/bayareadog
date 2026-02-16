@@ -75,13 +75,6 @@
       "tags": "Surowa karma,Lokalna,Organiczna"
     }
   },
-  "newsletter": {
-    "title": "Bądź na Bieżąco",
-    "description": "Cotygodniowe rekomendacje najlepszych miejsc i porad.",
-    "placeholder": "Wpisz email",
-    "button": "Subskrybuj",
-    "privacy": "Szanujemy Twoją prywatność."
-  },
   "todaysPick": {
     "title": "Wybór Dnia",
     "random": "Losowa Przygoda",

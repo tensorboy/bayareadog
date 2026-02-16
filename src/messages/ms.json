@@ -75,13 +75,6 @@
       "tags": "Makanan Mentah,Tempatan,Organik"
     }
   },
-  "newsletter": {
-    "title": "Kekal Terkini",
-    "description": "Dapatkan tips mingguan tempat mesra anjing.",
-    "placeholder": "Masukkan emel",
-    "button": "Langgan",
-    "privacy": "Kami menghormati privasi anda."
-  },
   "todaysPick": {
     "title": "Pilihan Hari Ini",
     "random": "Pengembaraan Rawak",

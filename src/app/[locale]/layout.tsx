@@ -75,6 +75,7 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} dir={locale === "ar" || locale === "he" ? "rtl" : "ltr"} className={geist.variable} suppressHydrationWarning>
       <head>
+        <meta name="impact-site-verification" content="ff8e1d75-cc80-4a81-a9d3-48f2a487a978" />
         <link rel="icon" href="/icon.svg" type="image/svg+xml" />
         <link rel="apple-touch-icon" href="/icon.svg" />
         <script

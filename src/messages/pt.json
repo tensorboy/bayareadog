@@ -75,13 +75,6 @@
       "tags": "Comida Crua,Local,Orgânico"
     }
   },
-  "newsletter": {
-    "title": "Fique por Dentro",
-    "description": "Receba semanalmente os melhores lugares, eventos e dicas pet-friendly.",
-    "placeholder": "Digite seu email",
-    "button": "Inscrever-se",
-    "privacy": "Respeitamos sua privacidade. Cancele a qualquer momento."
-  },
   "todaysPick": {
     "title": "Escolha do Dia",
     "random": "Aventura Aleatória",

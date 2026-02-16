@@ -75,13 +75,6 @@
       "tags": "Syrové krmivo,Místní,Bio"
     }
   },
-  "newsletter": {
-    "title": "Buďte v Obraze",
-    "description": "Týdenní tipy na místa přátelská psům.",
-    "placeholder": "Zadejte email",
-    "button": "Odebírat",
-    "privacy": "Respektujeme vaše soukromí."
-  },
   "todaysPick": {
     "title": "Dnešní Výběr",
     "random": "Náhodné Dobrodružství",

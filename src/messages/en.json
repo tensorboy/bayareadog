@@ -75,13 +75,6 @@
       "tags": "Raw Food,Local,Organic"
     }
   },
-  "newsletter": {
-    "title": "Stay in the Loop",
-    "description": "Get weekly picks for the best dog-friendly spots, events, and tips.",
-    "placeholder": "Enter your email",
-    "button": "Subscribe",
-    "privacy": "We respect your privacy. Unsubscribe at any time."
-  },
   "todaysPick": {
     "title": "Today's Pick",
     "random": "Random Adventure",

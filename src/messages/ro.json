@@ -75,13 +75,6 @@
       "tags": "Hrană Crudă,Local,Organic"
     }
   },
-  "newsletter": {
-    "title": "Fii la Curent",
-    "description": "Primește sfaturi săptămânale despre locuri prietenoase cu câinii.",
-    "placeholder": "Introdu emailul",
-    "button": "Abonează-te",
-    "privacy": "Respectăm confidențialitatea ta."
-  },
   "todaysPick": {
     "title": "Alegerea Zilei",
     "random": "Aventură Aleatorie",
