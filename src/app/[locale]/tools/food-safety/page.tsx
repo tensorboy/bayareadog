@@ -1,15 +1,15 @@
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import type { Metadata } from "next";
-import LearnContent from "./LearnContent";
+import FoodSafetyContent from "./FoodSafetyContent";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
-  const t = await getTranslations({ locale, namespace: "categories.learn" });
-  return { title: t("title"), description: t("description") };
+  const t = await getTranslations({ locale, namespace: "foodSafety" });
+  return { title: t("title"), description: t("subtitle") };
 }
 
-export default async function LearnPage({ params }: { params: Promise<{ locale: string }> }) {
+export default async function FoodSafetyPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   setRequestLocale(locale);
-  return <LearnContent />;
+  return <FoodSafetyContent />;
 }

@@ -6,6 +6,8 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import BackToTop from "@/components/BackToTop";
+import MobileNav from "@/components/MobileNav";
 import "../globals.css";
 
 const geist = Geist({ subsets: ["latin"], variable: "--font-geist" });
@@ -37,6 +39,16 @@ export async function generateMetadata({
         es: "/es",
         ja: "/ja",
         ko: "/ko",
+        fr: "/fr",
+        de: "/de",
+        pt: "/pt",
+        it: "/it",
+        ru: "/ru",
+        ar: "/ar",
+        hi: "/hi",
+        th: "/th",
+        vi: "/vi",
+        id: "/id",
       },
     },
     openGraph: {
@@ -70,9 +82,15 @@ export default async function LocaleLayout({
   setRequestLocale(locale);
 
   return (
-    <html lang={locale} className={geist.variable}>
+    <html lang={locale} dir={locale === "ar" ? "rtl" : "ltr"} className={geist.variable} suppressHydrationWarning>
       <head>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/icon.svg" type="image/svg+xml" />
+        <link rel="apple-touch-icon" href="/icon.svg" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{var t=localStorage.getItem('theme');if(t==='dark'||(!t&&window.matchMedia('(prefers-color-scheme:dark)').matches)){document.documentElement.classList.add('dark')}}catch(e){}})()`,
+          }}
+        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -92,11 +110,13 @@ export default async function LocaleLayout({
           }}
         />
       </head>
-      <body className="font-sans antialiased bg-white text-gray-900">
+      <body className="font-sans antialiased bg-white dark:bg-slate-900 text-gray-900 dark:text-gray-100 transition-colors">
         <NextIntlClientProvider>
           <Header />
-          <main className="min-h-screen">{children}</main>
+          <main className="min-h-screen pb-16 md:pb-0">{children}</main>
           <Footer />
+          <BackToTop />
+          <MobileNav />
         </NextIntlClientProvider>
       </body>
     </html>

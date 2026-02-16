@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - La Guida del Tuo Cane nella Bay Area",
+    "description": "La guida definitiva per i proprietari di cani nella Bay Area. Trova sentieri, ristoranti, negozi, eventi e consigli per il tuo amico a quattro zampe."
+  },
+  "nav": {
+    "home": "Home",
+    "trails": "Sentieri",
+    "eat": "Mangiare",
+    "play": "Giocare",
+    "shop": "Negozi",
+    "learn": "Imparare"
+  },
+  "hero": {
+    "title": "La Guida del Tuo Cane nella Bay Area",
+    "subtitle": "Scopri i migliori sentieri, ristoranti dog-friendly, parchi, negozi e tutto ciò che il tuo cane ha bisogno per vivere al meglio nella Bay Area.",
+    "cta": "Esplora Ora",
+    "search_placeholder": "Cerca sentieri, ristoranti, parchi..."
+  },
+  "categories": {
+    "section_title": "Esplora per Categoria",
+    "trails": {
+      "title": "Sentieri & Escursioni",
+      "description": "Sentieri senza guinzaglio, passeggiate in spiaggia e escursioni panoramiche valutate dai proprietari di cani.",
+      "cta": "Trova Sentieri"
+    },
+    "eat": {
+      "title": "Mangiare & Bere",
+      "description": "Ristoranti, caffè e birrerie dog-friendly, e i migliori negozi di cibo crudo.",
+      "cta": "Trova Ristoranti"
+    },
+    "play": {
+      "title": "Giocare & Divertirsi",
+      "description": "Parchi per cani, spiagge, eventi, incontri e attività per te e il tuo cane.",
+      "cta": "Trova Attività"
+    },
+    "shop": {
+      "title": "Negozi",
+      "description": "Negozi per animali, fornitori di cibo crudo, toelettature e cliniche veterinarie.",
+      "cta": "Trova Negozi"
+    },
+    "learn": {
+      "title": "Imparare",
+      "description": "Consigli di addestramento, guide nutrizionali, ricette fatte in casa e consigli sulla salute.",
+      "cta": "Inizia a Imparare"
+    }
+  },
+  "featured": {
+    "title": "Popolare Questa Settimana",
+    "view_all": "Vedi Tutto"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Iconica spiaggia senza guinzaglio con viste mozzafiato sull'oceano e scogliere sabbiose.",
+      "tags": "Senza guinzaglio,Spiaggia,Panoramico"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "Il più grande parco per cani senza guinzaglio della Bay Area con sentieri sul lungomare.",
+      "tags": "Senza guinzaglio,Lungomare,Grande"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Diverse Sedi",
+      "description": "Ristorante dog-friendly con terrazza e menù speciale per cani.",
+      "tags": "Ristorante,Terrazza,Menù Cane"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Cibo crudo premium per cani e ossa carnose da fattorie locali.",
+      "tags": "Cibo Crudo,Locale,Biologico"
+    }
+  },
+  "newsletter": {
+    "title": "Resta Aggiornato",
+    "description": "Ricevi settimanalmente i migliori posti, eventi e consigli dog-friendly.",
+    "placeholder": "Inserisci la tua email",
+    "button": "Iscriviti",
+    "privacy": "Rispettiamo la tua privacy. Disiscriviti in qualsiasi momento."
+  },
+  "todaysPick": {
+    "title": "Scelta del Giorno",
+    "random": "Avventura Casuale",
+    "viewDetails": "Vedi Dettagli",
+    "weekendAdventure": "Avventura del Weekend",
+    "beatTheHeat": "Sfuggire al Caldo",
+    "winterWalk": "Passeggiata Invernale",
+    "quickWalk": "Passeggiata Veloce"
+  },
+  "map": {
+    "title": "Esplora la Bay Area",
+    "loading": "Caricamento mappa...",
+    "all": "Tutti",
+    "offLeash": "Senza Guinzaglio",
+    "onLeash": "Con Guinzaglio",
+    "restaurants": "Ristoranti",
+    "rawFood": "Cibo Crudo",
+    "legendRestaurant": "Ristorante",
+    "legendRawFood": "Negozio Cibo Crudo"
+  },
+  "trailFilters": {
+    "all": "Tutti",
+    "offLeash": "Senza Guinzaglio",
+    "onLeash": "Con Guinzaglio",
+    "mixed": "Misto",
+    "allAreas": "Tutte le Zone",
+    "anyDifficulty": "Qualsiasi Difficoltà",
+    "easy": "Facile",
+    "moderate": "Moderato",
+    "hard": "Difficile",
+    "showing": "Mostrando {count} di {total} sentieri",
+    "noResults": "Nessun sentiero corrisponde ai tuoi filtri",
+    "noResultsHint": "Prova ad aggiustare i filtri per vedere più risultati.",
+    "sortRating": "Meglio Valutati",
+    "sortName": "Nome A-Z",
+    "sortDifficulty": "Più Facile Prima"
+  },
+  "trailDetail": {
+    "backToTrails": "Torna ai Sentieri",
+    "aboutTrail": "Info sul Sentiero",
+    "features": "Caratteristiche",
+    "bestFor": "Ideale Per",
+    "location": "Posizione",
+    "getDirections": "Indicazioni su Google Maps",
+    "trailInfo": "Info Sentiero",
+    "parking": "Parcheggio",
+    "water": "Acqua",
+    "tips": "Consigli",
+    "bestTime": "Orario Migliore",
+    "photoSpot": "Punto Foto",
+    "nearby": "Nelle Vicinanze",
+    "food": "Cibo",
+    "vet": "Veterinario",
+    "officialWebsite": "Sito Ufficiale",
+    "home": "Home",
+    "trails": "Sentieri",
+    "largeDogs": "Cani Grandi",
+    "smallDogs": "Cani Piccoli",
+    "seniorDogs": "Cani Anziani",
+    "puppies": "Cuccioli",
+    "waterDogs": "Cani d'Acqua",
+    "shyDogs": "Cani Timidi"
+  },
+  "mobileNav": {
+    "home": "Home",
+    "trails": "Sentieri",
+    "eat": "Mangiare",
+    "shop": "Negozi",
+    "more": "Altro"
+  },
+  "eat": {
+    "restaurantsTitle": "Ristoranti Dog-Friendly",
+    "restaurantsSubtitle": "Le migliori terrazze, birrerie e caffè che accolgono il tuo cane nella Bay Area.",
+    "rawFoodTitle": "Cibo Crudo & Ossa",
+    "rawFoodSubtitle": "Dove comprare ossa carnose crude e ingredienti per cibo fatto in casa nella Bay Area.",
+    "priceCompareTitle": "Confronto Prezzi Cibo Crudo",
+    "priceCompareSubtitle": "Confronta i prezzi nei negozi popolari della Bay Area per ingredienti comuni di alimentazione cruda.",
+    "budgetTitle": "Piani Budget Alimentazione Cruda",
+    "budgetSubtitle": "Scegli un piano adatto al tuo budget. Tutti i piani forniscono nutrizione completa.",
+    "item": "Articolo",
+    "patio": "Terrazza",
+    "dogMenu": "Menù Cane",
+    "visit": "Visita"
+  },
+  "learn": {
+    "nutrition": "Nutrizione",
+    "recipes": "Ricette",
+    "training": "Addestramento",
+    "health": "Salute",
+    "guide": "Guida",
+    "rawFeedingTitle": "Guida Completa all'Alimentazione Cruda (Dieta BARF)",
+    "rawFeedingDesc": "Impara il rapporto 80-10-10: 80% carne muscolare, 10% ossa, 10% organi. Più rapporti calcio-fosforo, integrazione e consigli per la transizione.",
+    "homemadeTitle": "Ricette di Cibo Fatto in Casa per Cani",
+    "homemadeDesc": "Ricette approvate dal veterinario con un corretto equilibrio nutrizionale. Include pollo & riso, manzo & patata dolce, e pesce & verdure.",
+    "offLeashTitle": "Basi dell'Addestramento Senza Guinzaglio",
+    "offLeashDesc": "Addestramento essenziale al richiamo per i sentieri della Bay Area. Impara il comando 'vieni', il richiamo d'emergenza e il comportamento affidabile senza guinzaglio.",
+    "toxicFoodsTitle": "Cibi Tossici per i Cani",
+    "toxicFoodsDesc": "Cosa evitare: uva, cipolle, cioccolato, xilitolo, avocado, noci di macadamia e altro. Contatti veterinari d'emergenza inclusi.",
+    "newOwnerTitle": "Checklist Bay Area per Nuovi Proprietari di Cani",
+    "newOwnerDesc": "Tutto ciò che serve: licenze, microchip, scelta del veterinario, parchi per cani vicini e gruppi comunitari locali.",
+    "calciumTitle": "Guida all'Integrazione di Calcio",
+    "calciumDesc": "Perché le diete fatte in casa spesso mancano di calcio. Come usare correttamente polvere di guscio d'uovo, integratori Balance IT e farina di ossa.",
+    "balanceIT": "Generatore Ricette Balance IT",
+    "rawFeedingGuide": "Guida Alimentazione Cruda",
+    "vetApproved": "Ricette Approvate dal Vet",
+    "akcIngredients": "Guida Ingredienti AKC",
+    "aspcaList": "Lista ASPCA Cibi Tossici",
+    "balanceITSupp": "Integratori Balance IT",
+    "toolsSection": "Strumenti Interattivi"
+  },
+  "play": {
+    "dogParksTitle": "Parchi per Cani & Spiagge",
+    "dogParksSubtitle": "I migliori parchi senza guinzaglio, spiagge e aree gioco della Bay Area.",
+    "fenced": "Recintato",
+    "separateAreas": "Aree Separate"
+  },
+  "shop": {
+    "petStore": "Negozio Animali",
+    "grooming": "Toelettatura",
+    "vet": "Veterinario",
+    "training": "Addestramento",
+    "emergency24h": "Emergenza 24h"
+  },
+  "notFound": {
+    "title": "Questo cagnolino si è perso dal sentiero!",
+    "description": "La pagina che cerchi non esiste o è stata spostata. Torniamo sulla strada giusta.",
+    "goHome": "Torna alla Home",
+    "exploreTrails": "Esplora i Sentieri"
+  },
+  "footer": {
+    "tagline": "Aiutare i cani della Bay Area a vivere al meglio.",
+    "about": "Chi Siamo",
+    "contact": "Contatti",
+    "privacy": "Privacy",
+    "terms": "Termini",
+    "copyright": "Bay Area Dog. Tutti i diritti riservati."
+  },
+  "foodSafety": {
+    "title": "Verifica Alimenti per Cani",
+    "subtitle": "Riferimento rapido: quali cibi umani sono sicuri, pericolosi o richiedono cautela.",
+    "home": "Home",
+    "learn": "Imparare",
+    "searchPlaceholder": "Cerca un alimento...",
+    "filterAll": "Tutti",
+    "safe": "Sicuro",
+    "cautionLabel": "Cautela",
+    "dangerous": "Pericoloso",
+    "emergency": "Emergenza",
+    "noResults": "Nessun alimento trovato.",
+    "cat_all": "Tutti",
+    "cat_fruit": "Frutta",
+    "cat_vegetable": "Verdura",
+    "cat_protein": "Proteine",
+    "cat_dairy": "Latticini",
+    "cat_grain": "Cereali",
+    "cat_other": "Altro"
+  },
+  "foodCalculator": {
+    "title": "Calcolatore Cibo Crudo",
+    "subtitle": "Calcola quanto cibo crudo ha bisogno il tuo cane ogni giorno in base a peso e attività.",
+    "home": "Home",
+    "learn": "Impara",
+    "weightLabel": "Peso del Cane",
+    "activityLabel": "Livello di Attività",
+    "activity_low": "Basso",
+    "activity_normal": "Normale",
+    "activity_high": "Alto",
+    "infoNote": "Questo calcolatore usa il rapporto BARF (80-10-10) come guida. Consulta sempre il veterinario per consigli personalizzati.",
+    "dailyAmount": "Quantità Giornaliera",
+    "perDay": "al giorno",
+    "perWeek": "settimana",
+    "muscleMeat": "Carne Muscolare",
+    "rawBone": "Osso Crudo",
+    "organ": "Organo (non fegato)",
+    "liver": "Fegato",
+    "veggies": "Verdure e Frutta",
+    "estimatedCost": "Costo Mensile Stimato",
+    "budgetPlan": "Economico",
+    "budgetDesc": "Tagli base",
+    "standardPlan": "Standard",
+    "standardDesc": "Fonti miste",
+    "premiumPlan": "Premium",
+    "premiumDesc": "Biologico, allevamento al pascolo"
+  },
+  "emergencyCard": {
+    "title": "Scheda di Emergenza per Cani",
+    "subtitle": "Contatti di emergenza, sintomi di avvelenamento e primo soccorso. Stampa questa scheda.",
+    "home": "Home",
+    "learn": "Impara",
+    "printCard": "Stampa Scheda",
+    "poisonControl": "Centro Antiveleni ASPCA",
+    "poisonNote": "Disponibile 24/7. Potrebbe essere applicata una tariffa.",
+    "symptomsTitle": "Sintomi Comuni di Avvelenamento",
+    "symptom_vomiting": "Vomito o conati",
+    "symptom_diarrhea": "Diarrea (può essere sanguinolenta)",
+    "symptom_drooling": "Salivazione eccessiva o schiuma",
+    "symptom_lethargy": "Letargia o debolezza",
+    "symptom_seizures": "Tremori o convulsioni",
+    "symptom_breathing": "Difficoltà respiratorie",
+    "symptom_collapse": "Collasso o perdita di coscienza",
+    "symptom_pawing": "Grattarsi bocca o viso",
+    "firstAidTitle": "Passi di Primo Soccorso",
+    "firstAid_step1": "Mantieni la calma. Allontana il tuo cane dalla fonte di pericolo.",
+    "firstAid_step2": "Chiama il Centro Antiveleni ASPCA (888) 426-4435 o il veterinario di emergenza.",
+    "firstAid_step3": "NON indurre il vomito a meno che non sia indicato da un professionista.",
+    "firstAid_step4": "Annota cosa ha mangiato il tuo cane, quanto e quando. Porta la confezione se possibile.",
+    "firstAid_step5": "Trasporta al veterinario di emergenza 24h più vicino il prima possibile.",
+    "emergencyVets": "Veterinari di Emergenza 24h nella Bay Area",
+    "allAreas": "Tutte le Aree",
+    "visitWebsite": "Visita il Sito"
+  },
+  "hikingChecklist": {
+    "title": "Checklist Escursionismo con Cane",
+    "subtitle": "Tutto il necessario per un escursione sicura e divertente con il tuo cane.",
+    "home": "Home",
+    "learn": "Impara",
+    "progress": "{count} di {total} pronti",
+    "reset": "Ripristina",
+    "item_water_bottle": "Bottiglia d acqua per il cane",
+    "item_collapsible_bowl": "Ciotola pieghevole",
+    "item_extra_water": "Acqua extra",
+    "item_leash": "Guinzaglio (1,8m standard + riserva)",
+    "item_harness": "Pettorina o collare con medaglietta",
+    "item_poop_bags": "Sacchetti per bisogni (extra!)",
+    "item_treats": "Premi e snack",
+    "item_first_aid": "Kit pronto soccorso pet",
+    "item_id_tags": "Medaglietta e microchip aggiornati",
+    "item_flea_tick": "Antiparassitario applicato",
+    "item_paw_balm": "Balsamo per cuscinetti",
+    "item_towel": "Asciugamano per zampe fangose",
+    "item_sunscreen": "Crema solare per cani chiari",
+    "item_booties": "Scarpette per asfalto caldo",
+    "item_reflective": "Attrezzatura riflettente",
+    "item_phone_charged": "Telefono carico (emergenze)",
+    "tipsTitle": "Consigli Pro",
+    "tip1": "Verifica la politica del guinzaglio del sentiero prima di partire.",
+    "tip2": "Inizia con escursioni brevi per cuccioli e cani anziani.",
+    "tip3": "Evita le escursioni nelle ore più calde (10-16 in estate).",
+    "tip4": "Dai la precedenza agli altri escursionisti e tieni il cane vicino nei sentieri stretti."
+  },
+  "seasonal": {
+    "spring_title": "È Arrivata la Primavera!",
+    "spring_tip": "Stagione dei fiori selvatici. Attenzione alle spighe sui sentieri. Controlla la prevenzione antipulci.",
+    "summer_title": "Sicurezza Estiva",
+    "summer_tip": "Evita escursioni dalle 10 alle 16 — l asfalto caldo brucia le zampe! Scegli spiagge e sentieri ombreggiati.",
+    "fall_title": "Avventure Autunnali",
+    "fall_tip": "Tempo perfetto per escursioni! I giorni si accorciano — porta attrezzatura riflettente.",
+    "winter_title": "Consigli Invernali",
+    "winter_tip": "Stagione delle piogge. Porta asciugamani e controlla le chiusure dei sentieri.",
+    "explore": "Esplora i Sentieri"
+  },
+  "search": {
+    "placeholder": "Cerca sentieri, ristoranti, cibi...",
+    "hint": "Digita almeno 2 caratteri",
+    "noResults": "Nessun risultato trovato.",
+    "escHint": "Premi Esc per chiudere"
+  }
+}

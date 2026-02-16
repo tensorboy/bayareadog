@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - Le Guide de Votre Chien dans la Baie",
+    "description": "Le guide ultime pour les propriétaires de chiens dans la Bay Area. Trouvez des sentiers, restaurants, boutiques, événements et conseils pour votre compagnon."
+  },
+  "nav": {
+    "home": "Accueil",
+    "trails": "Sentiers",
+    "eat": "Manger",
+    "play": "Jouer",
+    "shop": "Boutiques",
+    "learn": "Apprendre"
+  },
+  "hero": {
+    "title": "Le Guide de Votre Chien dans la Bay Area",
+    "subtitle": "Découvrez les meilleurs sentiers, restaurants accueillant les chiens, parcs, boutiques et tout ce dont votre toutou a besoin pour vivre sa meilleure vie dans la Baie.",
+    "cta": "Explorer",
+    "search_placeholder": "Rechercher sentiers, restaurants, parcs..."
+  },
+  "categories": {
+    "section_title": "Explorer par Catégorie",
+    "trails": {
+      "title": "Sentiers & Randonnées",
+      "description": "Sentiers sans laisse, promenades sur la plage et randonnées panoramiques notées par d'autres propriétaires.",
+      "cta": "Trouver des Sentiers"
+    },
+    "eat": {
+      "title": "Manger & Boire",
+      "description": "Restaurants, cafés et brasseries accueillant les chiens, et les meilleures boutiques de nourriture crue.",
+      "cta": "Trouver des Restaurants"
+    },
+    "play": {
+      "title": "Jouer & S'amuser",
+      "description": "Parcs à chiens, plages, événements, rencontres et activités pour vous et votre toutou.",
+      "cta": "Trouver des Activités"
+    },
+    "shop": {
+      "title": "Boutiques",
+      "description": "Animaleries, fournisseurs de nourriture crue, salons de toilettage et cliniques vétérinaires.",
+      "cta": "Trouver des Boutiques"
+    },
+    "learn": {
+      "title": "Apprendre",
+      "description": "Conseils de dressage, guides nutritionnels, recettes maison et conseils santé.",
+      "cta": "Commencer à Apprendre"
+    }
+  },
+  "featured": {
+    "title": "Populaire Cette Semaine",
+    "view_all": "Voir Tout"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Plage emblématique sans laisse avec vues spectaculaires sur l'océan et falaises sableuses.",
+      "tags": "Sans laisse,Plage,Panoramique"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "Le plus grand parc à chiens sans laisse de la Bay Area avec sentiers en bord de mer.",
+      "tags": "Sans laisse,Bord de mer,Grand"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Plusieurs Emplacements",
+      "description": "Restaurant avec terrasse accueillant les chiens et menu spécial pour chiens.",
+      "tags": "Restaurant,Terrasse,Menu Chien"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Nourriture crue premium pour chiens et os charnus des fermes locales.",
+      "tags": "Nourriture Crue,Local,Bio"
+    }
+  },
+  "newsletter": {
+    "title": "Restez Informé",
+    "description": "Recevez chaque semaine les meilleurs endroits, événements et conseils pour chiens.",
+    "placeholder": "Entrez votre email",
+    "button": "S'abonner",
+    "privacy": "Nous respectons votre vie privée. Désabonnez-vous à tout moment."
+  },
+  "todaysPick": {
+    "title": "Choix du Jour",
+    "random": "Aventure Aléatoire",
+    "viewDetails": "Voir les Détails",
+    "weekendAdventure": "Aventure du Week-end",
+    "beatTheHeat": "Échapper à la Chaleur",
+    "winterWalk": "Promenade Hivernale",
+    "quickWalk": "Promenade Rapide"
+  },
+  "map": {
+    "title": "Explorer la Bay Area",
+    "loading": "Chargement de la carte...",
+    "all": "Tout",
+    "offLeash": "Sans Laisse",
+    "onLeash": "En Laisse",
+    "restaurants": "Restaurants",
+    "rawFood": "Nourriture Crue",
+    "legendRestaurant": "Restaurant",
+    "legendRawFood": "Boutique Crue"
+  },
+  "trailFilters": {
+    "all": "Tous",
+    "offLeash": "Sans Laisse",
+    "onLeash": "En Laisse",
+    "mixed": "Mixte",
+    "allAreas": "Toutes les Zones",
+    "anyDifficulty": "Toute Difficulté",
+    "easy": "Facile",
+    "moderate": "Modéré",
+    "hard": "Difficile",
+    "showing": "{count} sur {total} sentiers affichés",
+    "noResults": "Aucun sentier ne correspond à vos filtres",
+    "noResultsHint": "Essayez d'ajuster vos filtres pour voir plus de résultats.",
+    "sortRating": "Mieux Notés",
+    "sortName": "Nom A-Z",
+    "sortDifficulty": "Plus Facile d'Abord"
+  },
+  "trailDetail": {
+    "backToTrails": "Retour aux Sentiers",
+    "aboutTrail": "À Propos de ce Sentier",
+    "features": "Caractéristiques",
+    "bestFor": "Idéal Pour",
+    "location": "Localisation",
+    "getDirections": "Itinéraire sur Google Maps",
+    "trailInfo": "Infos Sentier",
+    "parking": "Stationnement",
+    "water": "Eau",
+    "tips": "Conseils",
+    "bestTime": "Meilleur Moment",
+    "photoSpot": "Spot Photo",
+    "nearby": "À Proximité",
+    "food": "Nourriture",
+    "vet": "Vétérinaire",
+    "officialWebsite": "Site Officiel",
+    "home": "Accueil",
+    "trails": "Sentiers",
+    "largeDogs": "Grands Chiens",
+    "smallDogs": "Petits Chiens",
+    "seniorDogs": "Chiens Seniors",
+    "puppies": "Chiots",
+    "waterDogs": "Chiens d'Eau",
+    "shyDogs": "Chiens Timides"
+  },
+  "mobileNav": {
+    "home": "Accueil",
+    "trails": "Sentiers",
+    "eat": "Manger",
+    "shop": "Boutiques",
+    "more": "Plus"
+  },
+  "eat": {
+    "restaurantsTitle": "Restaurants Accueillant les Chiens",
+    "restaurantsSubtitle": "Les meilleures terrasses, jardins de bière et cafés qui accueillent votre toutou dans la Bay Area.",
+    "rawFoodTitle": "Nourriture Crue & Os",
+    "rawFoodSubtitle": "Où acheter des os charnus crus et des ingrédients pour la nourriture maison dans la Bay Area.",
+    "priceCompareTitle": "Comparaison des Prix de Nourriture Crue",
+    "priceCompareSubtitle": "Comparez les prix dans les magasins populaires de la Bay Area pour les ingrédients courants.",
+    "budgetTitle": "Plans Budget Alimentation Crue",
+    "budgetSubtitle": "Choisissez un plan adapté à votre budget. Tous les plans fournissent une nutrition complète.",
+    "item": "Article",
+    "patio": "Terrasse",
+    "dogMenu": "Menu Chien",
+    "visit": "Visiter"
+  },
+  "learn": {
+    "nutrition": "Nutrition",
+    "recipes": "Recettes",
+    "training": "Dressage",
+    "health": "Santé",
+    "guide": "Guide",
+    "rawFeedingTitle": "Guide Complet de l'Alimentation Crue (Régime BARF)",
+    "rawFeedingDesc": "Apprenez le ratio 80-10-10 : 80% viande musculaire, 10% os, 10% abats. Plus les ratios calcium-phosphore, la supplémentation et les conseils de transition.",
+    "homemadeTitle": "Recettes de Nourriture Maison pour Chiens",
+    "homemadeDesc": "Recettes approuvées par les vétérinaires avec un bon équilibre nutritionnel. Inclut poulet & riz, bœuf & patate douce, et poisson & légumes.",
+    "offLeashTitle": "Bases du Dressage Sans Laisse",
+    "offLeashDesc": "Formation essentielle au rappel pour les sentiers de la Bay Area. Apprenez le rappel, le rappel d'urgence et comment construire un comportement fiable sans laisse.",
+    "toxicFoodsTitle": "Aliments Toxiques pour les Chiens",
+    "toxicFoodsDesc": "Ce qu'il faut éviter : raisins, oignons, chocolat, xylitol, avocat, noix de macadamia et plus. Contacts vétérinaires d'urgence inclus.",
+    "newOwnerTitle": "Checklist Bay Area pour Nouveaux Propriétaires",
+    "newOwnerDesc": "Tout ce dont vous avez besoin : licences, puce électronique, choix du vétérinaire, parcs à chiens à proximité et groupes communautaires locaux.",
+    "calciumTitle": "Guide de Supplémentation en Calcium",
+    "calciumDesc": "Pourquoi les régimes maison manquent souvent de calcium. Comment utiliser correctement la poudre de coquille d'œuf, les suppléments Balance IT et la farine d'os.",
+    "balanceIT": "Générateur de Recettes Balance IT",
+    "rawFeedingGuide": "Guide Alimentation Crue",
+    "vetApproved": "Recettes Approuvées Véto",
+    "akcIngredients": "Guide des Ingrédients AKC",
+    "aspcaList": "Liste ASPCA Aliments Toxiques",
+    "balanceITSupp": "Suppléments Balance IT",
+    "toolsSection": "Outils Interactifs"
+  },
+  "play": {
+    "dogParksTitle": "Parcs à Chiens & Plages",
+    "dogParksSubtitle": "Les meilleurs parcs à chiens sans laisse, plages et aires de jeux de la Bay Area.",
+    "fenced": "Clôturé",
+    "separateAreas": "Zones Séparées"
+  },
+  "shop": {
+    "petStore": "Animalerie",
+    "grooming": "Toilettage",
+    "vet": "Vétérinaire",
+    "training": "Dressage",
+    "emergency24h": "Urgences 24h"
+  },
+  "notFound": {
+    "title": "Ce toutou s'est égaré du sentier !",
+    "description": "La page que vous cherchez n'existe pas ou a été déplacée. Remettons-nous sur la bonne voie.",
+    "goHome": "Retour à l'Accueil",
+    "exploreTrails": "Explorer les Sentiers"
+  },
+  "footer": {
+    "tagline": "Aider les chiens de la Bay Area à vivre leur meilleure vie.",
+    "about": "À Propos",
+    "contact": "Contact",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "copyright": "Bay Area Dog. Tous droits réservés."
+  },
+  "foodSafety": {
+    "title": "Vérificateur Aliments pour Chiens",
+    "subtitle": "Référence rapide : quels aliments humains sont sûrs, dangereux ou nécessitent de la prudence.",
+    "home": "Accueil",
+    "learn": "Apprendre",
+    "searchPlaceholder": "Rechercher un aliment...",
+    "filterAll": "Tous",
+    "safe": "Sûr",
+    "cautionLabel": "Prudence",
+    "dangerous": "Dangereux",
+    "emergency": "Urgence",
+    "noResults": "Aucun aliment trouvé.",
+    "cat_all": "Tous",
+    "cat_fruit": "Fruits",
+    "cat_vegetable": "Légumes",
+    "cat_protein": "Protéines",
+    "cat_dairy": "Produits Laitiers",
+    "cat_grain": "Céréales",
+    "cat_other": "Autres"
+  },
+  "foodCalculator": {
+    "title": "Calculateur de Nourriture Crue",
+    "subtitle": "Calculez la quantité de nourriture crue dont votre chien a besoin quotidiennement selon son poids et son activité.",
+    "home": "Accueil",
+    "learn": "Apprendre",
+    "weightLabel": "Poids du Chien",
+    "activityLabel": "Niveau d'Activité",
+    "activity_low": "Faible",
+    "activity_normal": "Normal",
+    "activity_high": "Élevé",
+    "infoNote": "Ce calculateur utilise le ratio BARF (80-10-10) comme guide. Consultez toujours votre vétérinaire pour des conseils personnalisés.",
+    "dailyAmount": "Quantité Quotidienne",
+    "perDay": "par jour",
+    "perWeek": "semaine",
+    "muscleMeat": "Viande Musculaire",
+    "rawBone": "Os Cru",
+    "organ": "Organe (hors foie)",
+    "liver": "Foie",
+    "veggies": "Légumes et Fruits",
+    "estimatedCost": "Coût Mensuel Estimé",
+    "budgetPlan": "Économique",
+    "budgetDesc": "Morceaux basiques",
+    "standardPlan": "Standard",
+    "standardDesc": "Sources mixtes",
+    "premiumPlan": "Premium",
+    "premiumDesc": "Bio, nourri à l herbe"
+  },
+  "emergencyCard": {
+    "title": "Carte d'Urgence pour Chien",
+    "subtitle": "Contacts d'urgence, symptômes d'empoisonnement et premiers secours. Imprimez cette carte.",
+    "home": "Accueil",
+    "learn": "Apprendre",
+    "printCard": "Imprimer la Carte",
+    "poisonControl": "Centre Antipoison ASPCA",
+    "poisonNote": "Disponible 24h/24. Des frais peuvent s appliquer.",
+    "symptomsTitle": "Symptômes d'Empoisonnement Courants",
+    "symptom_vomiting": "Vomissements ou haut-le-cœur",
+    "symptom_diarrhea": "Diarrhée (peut être sanglante)",
+    "symptom_drooling": "Bave excessive ou mousse",
+    "symptom_lethargy": "Léthargie ou faiblesse",
+    "symptom_seizures": "Tremblements ou convulsions",
+    "symptom_breathing": "Difficulté à respirer",
+    "symptom_collapse": "Effondrement ou perte de conscience",
+    "symptom_pawing": "Se gratte la bouche ou le visage",
+    "firstAidTitle": "Étapes de Premiers Secours",
+    "firstAid_step1": "Restez calme. Éloignez votre chien de la source de danger.",
+    "firstAid_step2": "Appelez le Centre Antipoison ASPCA (888) 426-4435 ou votre vétérinaire d'urgence.",
+    "firstAid_step3": "NE provoquez PAS le vomissement sauf sur conseil d'un professionnel.",
+    "firstAid_step4": "Notez ce que votre chien a mangé, combien et quand. Apportez l emballage si possible.",
+    "firstAid_step5": "Transportez vers le vétérinaire d'urgence 24h le plus proche.",
+    "emergencyVets": "Vétérinaires d'Urgence 24h à Bay Area",
+    "allAreas": "Toutes les Zones",
+    "visitWebsite": "Visiter le Site"
+  },
+  "hikingChecklist": {
+    "title": "Liste de Randonnée avec Chien",
+    "subtitle": "Tout ce dont vous avez besoin pour une randonnée sûre et amusante avec votre chien.",
+    "home": "Accueil",
+    "learn": "Apprendre",
+    "progress": "{count} sur {total} prêts",
+    "reset": "Réinitialiser",
+    "item_water_bottle": "Bouteille d eau pour votre chien",
+    "item_collapsible_bowl": "Bol d eau pliable",
+    "item_extra_water": "Eau supplémentaire",
+    "item_leash": "Laisse (1,8m standard + secours)",
+    "item_harness": "Harnais ou collier avec médaille",
+    "item_poop_bags": "Sacs à déjections (en extra !)",
+    "item_treats": "Friandises d entraînement",
+    "item_first_aid": "Trousse de premiers soins",
+    "item_id_tags": "Médaille d identification à jour",
+    "item_flea_tick": "Antiparasitaire appliqué",
+    "item_paw_balm": "Baume pour coussinets",
+    "item_towel": "Serviette pour pattes boueuses",
+    "item_sunscreen": "Crème solaire pour chiens clairs",
+    "item_booties": "Bottines pour sol chaud",
+    "item_reflective": "Équipement réfléchissant",
+    "item_phone_charged": "Téléphone chargé (urgences)",
+    "tipsTitle": "Conseils Pro",
+    "tip1": "Vérifiez la politique de laisse du sentier avant de partir.",
+    "tip2": "Commencez par des randonnées courtes pour les chiots et chiens âgés.",
+    "tip3": "Évitez les heures de forte chaleur (10h-16h en été).",
+    "tip4": "Cédez le passage aux autres randonneurs et gardez votre chien près de vous."
+  },
+  "seasonal": {
+    "spring_title": "Le Printemps est Là !",
+    "spring_tip": "Saison des fleurs sauvages. Attention aux épillets sur les sentiers. Vérifiez la prévention anti-puces.",
+    "summer_title": "Sécurité Estivale",
+    "summer_tip": "Évitez la randonnée de 10h à 16h — le bitume brûle les pattes ! Préférez les plages et sentiers ombragés.",
+    "fall_title": "Aventures d Automne",
+    "fall_tip": "Temps parfait pour la rando ! Les jours raccourcissent — prenez un équipement réfléchissant.",
+    "winter_title": "Conseils Hivernaux",
+    "winter_tip": "Saison des pluies. Apportez des serviettes et vérifiez les fermetures de sentiers.",
+    "explore": "Explorer les Sentiers"
+  },
+  "search": {
+    "placeholder": "Rechercher sentiers, restaurants, aliments...",
+    "hint": "Tapez au moins 2 caractères",
+    "noResults": "Aucun résultat trouvé.",
+    "escHint": "Appuyez sur Esc pour fermer"
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - Panduan Anjing Anda di Bay Area",
+    "description": "Panduan lengkap untuk pemilik anjing di Bay Area. Temukan jalur, restoran, toko, acara, dan tips untuk sahabat berbulu Anda."
+  },
+  "nav": {
+    "home": "Beranda",
+    "trails": "Jalur",
+    "eat": "Makan",
+    "play": "Bermain",
+    "shop": "Toko",
+    "learn": "Pelajari"
+  },
+  "hero": {
+    "title": "Panduan Anjing Anda di Bay Area",
+    "subtitle": "Temukan jalur terbaik, restoran ramah anjing, taman, toko, dan semua yang dibutuhkan anjing Anda untuk hidup terbaik di Bay Area.",
+    "cta": "Jelajahi Sekarang",
+    "search_placeholder": "Cari jalur, restoran, taman..."
+  },
+  "categories": {
+    "section_title": "Jelajahi Berdasarkan Kategori",
+    "trails": {
+      "title": "Jalur & Hiking",
+      "description": "Jalur tanpa tali, jalan-jalan di pantai, dan hiking pemandangan yang dinilai oleh pemilik anjing.",
+      "cta": "Temukan Jalur"
+    },
+    "eat": {
+      "title": "Makan & Minum",
+      "description": "Restoran, kafe, dan brewery ramah anjing, serta toko makanan mentah terbaik.",
+      "cta": "Temukan Restoran"
+    },
+    "play": {
+      "title": "Bermain & Seru",
+      "description": "Taman anjing, pantai, acara, meetup, dan aktivitas untuk Anda dan anjing.",
+      "cta": "Temukan Aktivitas"
+    },
+    "shop": {
+      "title": "Toko",
+      "description": "Pet shop, pemasok makanan mentah, salon grooming, dan klinik hewan.",
+      "cta": "Temukan Toko"
+    },
+    "learn": {
+      "title": "Pelajari",
+      "description": "Tips pelatihan, panduan nutrisi, resep buatan rumah, dan saran kesehatan.",
+      "cta": "Mulai Belajar"
+    }
+  },
+  "featured": {
+    "title": "Populer Minggu Ini",
+    "view_all": "Lihat Semua"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Pantai tanpa tali yang ikonik dengan pemandangan laut yang menakjubkan dan tebing pasir.",
+      "tags": "Tanpa tali,Pantai,Pemandangan"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "Taman anjing tanpa tali terbesar di Bay Area dengan jalur tepi pantai.",
+      "tags": "Tanpa tali,Tepi pantai,Besar"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Beberapa Lokasi",
+      "description": "Restoran ramah anjing dengan teras dan menu khusus anjing.",
+      "tags": "Restoran,Teras,Menu Anjing"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Makanan mentah premium untuk anjing dan tulang daging dari peternakan lokal.",
+      "tags": "Makanan Mentah,Lokal,Organik"
+    }
+  },
+  "newsletter": {
+    "title": "Tetap Terupdate",
+    "description": "Dapatkan rekomendasi mingguan tempat, acara, dan tips terbaik untuk anjing.",
+    "placeholder": "Masukkan email Anda",
+    "button": "Berlangganan",
+    "privacy": "Kami menghormati privasi Anda. Berhenti berlangganan kapan saja."
+  },
+  "todaysPick": {
+    "title": "Pilihan Hari Ini",
+    "random": "Petualangan Acak",
+    "viewDetails": "Lihat Detail",
+    "weekendAdventure": "Petualangan Akhir Pekan",
+    "beatTheHeat": "Hindari Panas",
+    "winterWalk": "Jalan-jalan Musim Dingin",
+    "quickWalk": "Jalan Singkat"
+  },
+  "map": {
+    "title": "Jelajahi Bay Area",
+    "loading": "Memuat peta...",
+    "all": "Semua",
+    "offLeash": "Tanpa Tali",
+    "onLeash": "Pakai Tali",
+    "restaurants": "Restoran",
+    "rawFood": "Makanan Mentah",
+    "legendRestaurant": "Restoran",
+    "legendRawFood": "Toko Makanan Mentah"
+  },
+  "trailFilters": {
+    "all": "Semua",
+    "offLeash": "Tanpa Tali",
+    "onLeash": "Pakai Tali",
+    "mixed": "Campuran",
+    "allAreas": "Semua Area",
+    "anyDifficulty": "Semua Tingkat",
+    "easy": "Mudah",
+    "moderate": "Sedang",
+    "hard": "Sulit",
+    "showing": "Menampilkan {count} dari {total} jalur",
+    "noResults": "Tidak ada jalur yang cocok dengan filter",
+    "noResultsHint": "Coba sesuaikan filter untuk melihat lebih banyak hasil.",
+    "sortRating": "Rating Tertinggi",
+    "sortName": "Nama A-Z",
+    "sortDifficulty": "Termudah Dulu"
+  },
+  "trailDetail": {
+    "backToTrails": "Kembali ke Jalur",
+    "aboutTrail": "Tentang Jalur Ini",
+    "features": "Fitur",
+    "bestFor": "Terbaik Untuk",
+    "location": "Lokasi",
+    "getDirections": "Petunjuk Arah di Google Maps",
+    "trailInfo": "Info Jalur",
+    "parking": "Parkir",
+    "water": "Air",
+    "tips": "Tips",
+    "bestTime": "Waktu Terbaik",
+    "photoSpot": "Spot Foto",
+    "nearby": "Terdekat",
+    "food": "Makanan",
+    "vet": "Dokter Hewan",
+    "officialWebsite": "Situs Resmi",
+    "home": "Beranda",
+    "trails": "Jalur",
+    "largeDogs": "Anjing Besar",
+    "smallDogs": "Anjing Kecil",
+    "seniorDogs": "Anjing Senior",
+    "puppies": "Anak Anjing",
+    "waterDogs": "Anjing Air",
+    "shyDogs": "Anjing Pemalu"
+  },
+  "mobileNav": {
+    "home": "Beranda",
+    "trails": "Jalur",
+    "eat": "Makan",
+    "shop": "Toko",
+    "more": "Lainnya"
+  },
+  "eat": {
+    "restaurantsTitle": "Restoran Ramah Anjing",
+    "restaurantsSubtitle": "Teras, beer garden, dan kafe terbaik yang menyambut anjing Anda di Bay Area.",
+    "rawFoodTitle": "Makanan Mentah & Tulang",
+    "rawFoodSubtitle": "Di mana membeli tulang daging mentah dan bahan makanan anjing buatan rumah di Bay Area.",
+    "priceCompareTitle": "Perbandingan Harga Makanan Mentah",
+    "priceCompareSubtitle": "Bandingkan harga di toko populer Bay Area untuk bahan makanan mentah umum.",
+    "budgetTitle": "Rencana Budget Makanan Mentah",
+    "budgetSubtitle": "Pilih rencana yang sesuai budget. Semua rencana menyediakan nutrisi lengkap.",
+    "item": "Item",
+    "patio": "Teras",
+    "dogMenu": "Menu Anjing",
+    "visit": "Kunjungi"
+  },
+  "learn": {
+    "nutrition": "Nutrisi",
+    "recipes": "Resep",
+    "training": "Pelatihan",
+    "health": "Kesehatan",
+    "guide": "Panduan",
+    "rawFeedingTitle": "Panduan Lengkap Pemberian Makan Mentah (Diet BARF)",
+    "rawFeedingDesc": "Pelajari rasio 80-10-10: 80% daging otot, 10% tulang, 10% organ. Plus rasio kalsium-fosfor, suplemen, dan tips transisi.",
+    "homemadeTitle": "Resep Makanan Anjing Buatan Rumah",
+    "homemadeDesc": "Resep yang disetujui dokter hewan dengan keseimbangan nutrisi yang tepat. Termasuk ayam & nasi, daging & ubi, dan ikan & sayuran.",
+    "offLeashTitle": "Dasar Pelatihan Tanpa Tali",
+    "offLeashDesc": "Pelatihan recall penting untuk jalur Bay Area. Pelajari perintah 'kembali', recall darurat, dan perilaku tanpa tali yang andal.",
+    "toxicFoodsTitle": "Makanan Beracun untuk Anjing",
+    "toxicFoodsDesc": "Yang harus dihindari: anggur, bawang, cokelat, xylitol, alpukat, kacang macadamia, dan lainnya. Kontak dokter hewan darurat disertakan.",
+    "newOwnerTitle": "Checklist Bay Area untuk Pemilik Anjing Baru",
+    "newOwnerDesc": "Semua yang Anda butuhkan: lisensi, microchip, pilih dokter hewan, taman anjing terdekat, dan grup komunitas anjing lokal.",
+    "calciumTitle": "Panduan Suplementasi Kalsium",
+    "calciumDesc": "Mengapa diet buatan rumah sering kekurangan kalsium. Cara menggunakan bubuk cangkang telur, suplemen Balance IT, dan tepung tulang dengan benar.",
+    "balanceIT": "Generator Resep Balance IT",
+    "rawFeedingGuide": "Panduan Makan Mentah",
+    "vetApproved": "Resep Disetujui Vet",
+    "akcIngredients": "Panduan Bahan AKC",
+    "aspcaList": "Daftar Makanan Beracun ASPCA",
+    "balanceITSupp": "Suplemen Balance IT",
+    "toolsSection": "Alat Interaktif"
+  },
+  "play": {
+    "dogParksTitle": "Taman Anjing & Pantai",
+    "dogParksSubtitle": "Taman anjing tanpa tali, pantai, dan area bermain terbaik di Bay Area.",
+    "fenced": "Berpagar",
+    "separateAreas": "Area Terpisah"
+  },
+  "shop": {
+    "petStore": "Pet Shop",
+    "grooming": "Grooming",
+    "vet": "Dokter Hewan",
+    "training": "Pelatihan",
+    "emergency24h": "Darurat 24 Jam"
+  },
+  "notFound": {
+    "title": "Anak anjing ini tersesat!",
+    "description": "Halaman yang Anda cari tidak ada atau telah dipindahkan. Mari kembali ke jalur yang benar.",
+    "goHome": "Kembali ke Beranda",
+    "exploreTrails": "Jelajahi Jalur"
+  },
+  "footer": {
+    "tagline": "Membantu anjing Bay Area menjalani kehidupan terbaik mereka.",
+    "about": "Tentang",
+    "contact": "Kontak",
+    "privacy": "Privasi",
+    "terms": "Ketentuan",
+    "copyright": "Bay Area Dog. Hak cipta dilindungi."
+  },
+  "foodSafety": {
+    "title": "Cek Keamanan Makanan Anjing",
+    "subtitle": "Referensi cepat: makanan manusia mana yang aman, berbahaya, atau perlu hati-hati.",
+    "home": "Beranda",
+    "learn": "Pelajari",
+    "searchPlaceholder": "Cari makanan...",
+    "filterAll": "Semua",
+    "safe": "Aman",
+    "cautionLabel": "Hati-hati",
+    "dangerous": "Berbahaya",
+    "emergency": "Darurat",
+    "noResults": "Tidak ada makanan ditemukan.",
+    "cat_all": "Semua",
+    "cat_fruit": "Buah",
+    "cat_vegetable": "Sayuran",
+    "cat_protein": "Protein",
+    "cat_dairy": "Susu",
+    "cat_grain": "Biji-bijian",
+    "cat_other": "Lainnya"
+  },
+  "foodCalculator": {
+    "title": "Kalkulator Makanan Mentah",
+    "subtitle": "Hitung kebutuhan makanan mentah harian anjing berdasarkan berat badan dan tingkat aktivitas.",
+    "home": "Beranda",
+    "learn": "Pelajari",
+    "weightLabel": "Berat Anjing",
+    "activityLabel": "Tingkat Aktivitas",
+    "activity_low": "Rendah",
+    "activity_normal": "Normal",
+    "activity_high": "Tinggi",
+    "infoNote": "Kalkulator ini menggunakan rasio BARF (80-10-10) sebagai panduan. Selalu konsultasikan dengan dokter hewan untuk saran yang disesuaikan.",
+    "dailyAmount": "Jumlah Harian",
+    "perDay": "per hari",
+    "perWeek": "minggu",
+    "muscleMeat": "Daging Otot",
+    "rawBone": "Tulang Mentah",
+    "organ": "Organ (selain hati)",
+    "liver": "Hati",
+    "veggies": "Sayuran & Buah",
+    "estimatedCost": "Estimasi Biaya Bulanan",
+    "budgetPlan": "Hemat",
+    "budgetDesc": "Potongan dasar",
+    "standardPlan": "Standar",
+    "standardDesc": "Sumber campuran",
+    "premiumPlan": "Premium",
+    "premiumDesc": "Organik, pakan rumput"
+  },
+  "emergencyCard": {
+    "title": "Kartu Darurat Anjing",
+    "subtitle": "Kontak darurat, gejala keracunan, dan langkah pertolongan pertama. Cetak kartu ini.",
+    "home": "Beranda",
+    "learn": "Pelajari",
+    "printCard": "Cetak Kartu",
+    "poisonControl": "Hotline Racun ASPCA",
+    "poisonNote": "Tersedia 24/7. Biaya konsultasi mungkin berlaku.",
+    "symptomsTitle": "Gejala Keracunan Umum",
+    "symptom_vomiting": "Muntah atau mual",
+    "symptom_diarrhea": "Diare (mungkin berdarah)",
+    "symptom_drooling": "Air liur berlebihan atau berbusa",
+    "symptom_lethargy": "Lesu atau lemah",
+    "symptom_seizures": "Gemetar atau kejang",
+    "symptom_breathing": "Kesulitan bernapas",
+    "symptom_collapse": "Pingsan atau tidak sadarkan diri",
+    "symptom_pawing": "Menggaruk mulut atau wajah dengan kaki",
+    "firstAidTitle": "Langkah Pertolongan Pertama Darurat",
+    "firstAid_step1": "Tetap tenang. Jauhkan anjing dari sumber bahaya.",
+    "firstAid_step2": "Segera hubungi Hotline Racun ASPCA (888) 426-4435 atau dokter hewan darurat.",
+    "firstAid_step3": "JANGAN memicu muntah kecuali diarahkan oleh profesional.",
+    "firstAid_step4": "Catat apa yang dimakan anjing, berapa banyak, dan kapan. Bawa kemasannya jika ada.",
+    "firstAid_step5": "Segera bawa ke dokter hewan darurat 24 jam terdekat.",
+    "emergencyVets": "Dokter Hewan Darurat 24 Jam di Bay Area",
+    "allAreas": "Semua Area",
+    "visitWebsite": "Kunjungi Situs"
+  },
+  "hikingChecklist": {
+    "title": "Daftar Peralatan Hiking dengan Anjing",
+    "subtitle": "Semua yang perlu dikemas untuk hiking aman dan menyenangkan bersama anjing.",
+    "home": "Beranda",
+    "learn": "Pelajari",
+    "progress": "{count} dari {total} siap",
+    "reset": "Reset",
+    "item_water_bottle": "Botol air untuk anjing",
+    "item_collapsible_bowl": "Mangkuk air lipat",
+    "item_extra_water": "Air cadangan",
+    "item_leash": "Tali (1,8m standar + cadangan)",
+    "item_harness": "Harness atau kalung dengan tag ID",
+    "item_poop_bags": "Kantong kotoran (bawa ekstra!)",
+    "item_treats": "Camilan pelatihan dan snack",
+    "item_first_aid": "Kotak P3K hewan peliharaan",
+    "item_id_tags": "Tag ID dan microchip terbaru",
+    "item_flea_tick": "Pencegahan kutu sudah diterapkan",
+    "item_paw_balm": "Balsem telapak kaki",
+    "item_towel": "Handuk untuk kaki kotor",
+    "item_sunscreen": "Tabir surya untuk anjing berbulu terang",
+    "item_booties": "Sepatu anjing untuk jalan panas",
+    "item_reflective": "Perlengkapan reflektif",
+    "item_phone_charged": "HP terisi penuh (darurat)",
+    "tipsTitle": "Tips Pro",
+    "tip1": "Periksa kebijakan tali jalur sebelum pergi.",
+    "tip2": "Mulai dengan jarak pendek untuk anak anjing dan anjing tua.",
+    "tip3": "Hindari hiking saat panas puncak (10-16 di musim panas).",
+    "tip4": "Beri jalan pada pejalan kaki lain dan jaga anjing tetap dekat di jalur sempit."
+  },
+  "seasonal": {
+    "spring_title": "Musim Semi Tiba!",
+    "spring_tip": "Musim bunga liar. Waspadai rumput tajam di jalur. Periksa pencegahan kutu.",
+    "summer_title": "Keamanan Musim Panas",
+    "summer_tip": "Hindari hiking 10-16 — jalan panas membakar kaki! Pilih pantai dan jalur teduh.",
+    "fall_title": "Petualangan Musim Gugur",
+    "fall_tip": "Cuaca sempurna untuk hiking! Hari makin pendek — bawa perlengkapan reflektif.",
+    "winter_title": "Tips Musim Dingin",
+    "winter_tip": "Musim hujan. Bawa handuk dan cek penutupan jalur sebelum pergi.",
+    "explore": "Jelajahi Jalur"
+  },
+  "search": {
+    "placeholder": "Cari jalur, restoran, makanan...",
+    "hint": "Ketik minimal 2 karakter",
+    "noResults": "Tidak ada hasil ditemukan.",
+    "escHint": "Tekan Esc untuk menutup"
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - Der Hundeführer für die Bay Area",
+    "description": "Der ultimative Ratgeber für Hundebesitzer in der Bay Area. Finden Sie Wanderwege, Restaurants, Geschäfte, Events und Tipps für Ihren Vierbeiner."
+  },
+  "nav": {
+    "home": "Startseite",
+    "trails": "Wanderwege",
+    "eat": "Essen",
+    "play": "Spielen",
+    "shop": "Geschäfte",
+    "learn": "Lernen"
+  },
+  "hero": {
+    "title": "Der Hundeführer für die Bay Area",
+    "subtitle": "Entdecken Sie die besten Wanderwege, hundefreundlichen Restaurants, Parks, Geschäfte und alles, was Ihr Hund für sein bestes Leben in der Bay Area braucht.",
+    "cta": "Jetzt Entdecken",
+    "search_placeholder": "Wanderwege, Restaurants, Parks suchen..."
+  },
+  "categories": {
+    "section_title": "Nach Kategorie Erkunden",
+    "trails": {
+      "title": "Wanderwege & Wandern",
+      "description": "Freilauf-Wege, Strandspaziergänge und malerische Wanderungen, bewertet von Hundebesitzern.",
+      "cta": "Wege Finden"
+    },
+    "eat": {
+      "title": "Essen & Trinken",
+      "description": "Hundefreundliche Restaurants, Cafés, Brauereien und die besten Rohfutter-Geschäfte.",
+      "cta": "Restaurants Finden"
+    },
+    "play": {
+      "title": "Spielen & Spaß",
+      "description": "Hundeparks, Strände, Events, Treffen und Aktivitäten für Sie und Ihren Hund.",
+      "cta": "Aktivitäten Finden"
+    },
+    "shop": {
+      "title": "Geschäfte",
+      "description": "Tierhandlungen, Rohfutter-Lieferanten, Hundesalons und Tierkliniken.",
+      "cta": "Geschäfte Finden"
+    },
+    "learn": {
+      "title": "Lernen",
+      "description": "Trainingstipps, Ernährungsratgeber, selbstgemachte Rezepte und Gesundheitstipps.",
+      "cta": "Jetzt Lernen"
+    }
+  },
+  "featured": {
+    "title": "Beliebt Diese Woche",
+    "view_all": "Alle Anzeigen"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Ikonischer Freilauf-Strand mit atemberaubendem Meerblick und Sandklippen.",
+      "tags": "Freilauf,Strand,Malerisch"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "Der größte Freilauf-Hundepark der Bay Area mit Uferwanderwegen.",
+      "tags": "Freilauf,Ufer,Groß"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Mehrere Standorte",
+      "description": "Hundefreundliches Terrassenrestaurant mit speziellem Hundemenü.",
+      "tags": "Restaurant,Terrasse,Hundemenü"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Premium-Rohfutter und fleischige Knochen von lokalen Bauernhöfen.",
+      "tags": "Rohfutter,Lokal,Bio"
+    }
+  },
+  "newsletter": {
+    "title": "Bleiben Sie Informiert",
+    "description": "Erhalten Sie wöchentlich die besten hundefreundlichen Orte, Events und Tipps.",
+    "placeholder": "E-Mail-Adresse eingeben",
+    "button": "Abonnieren",
+    "privacy": "Wir respektieren Ihre Privatsphäre. Jederzeit abbestellbar."
+  },
+  "todaysPick": {
+    "title": "Tipp des Tages",
+    "random": "Zufälliges Abenteuer",
+    "viewDetails": "Details Anzeigen",
+    "weekendAdventure": "Wochenend-Abenteuer",
+    "beatTheHeat": "Der Hitze Entkommen",
+    "winterWalk": "Winterspaziergang",
+    "quickWalk": "Kurzer Spaziergang"
+  },
+  "map": {
+    "title": "Die Bay Area Erkunden",
+    "loading": "Karte wird geladen...",
+    "all": "Alle",
+    "offLeash": "Freilauf",
+    "onLeash": "Leinenpflicht",
+    "restaurants": "Restaurants",
+    "rawFood": "Rohfutter",
+    "legendRestaurant": "Restaurant",
+    "legendRawFood": "Rohfutter-Geschäft"
+  },
+  "trailFilters": {
+    "all": "Alle",
+    "offLeash": "Freilauf",
+    "onLeash": "Leinenpflicht",
+    "mixed": "Gemischt",
+    "allAreas": "Alle Gebiete",
+    "anyDifficulty": "Jede Schwierigkeit",
+    "easy": "Leicht",
+    "moderate": "Mittel",
+    "hard": "Schwer",
+    "showing": "{count} von {total} Wegen angezeigt",
+    "noResults": "Keine Wege entsprechen Ihren Filtern",
+    "noResultsHint": "Versuchen Sie, Ihre Filter anzupassen, um mehr Ergebnisse zu sehen.",
+    "sortRating": "Bestbewertet",
+    "sortName": "Name A-Z",
+    "sortDifficulty": "Leichteste Zuerst"
+  },
+  "trailDetail": {
+    "backToTrails": "Zurück zu den Wegen",
+    "aboutTrail": "Über Diesen Weg",
+    "features": "Merkmale",
+    "bestFor": "Ideal Für",
+    "location": "Standort",
+    "getDirections": "Route auf Google Maps",
+    "trailInfo": "Weg-Info",
+    "parking": "Parkplatz",
+    "water": "Wasser",
+    "tips": "Tipps",
+    "bestTime": "Beste Zeit",
+    "photoSpot": "Fotospot",
+    "nearby": "In der Nähe",
+    "food": "Essen",
+    "vet": "Tierarzt",
+    "officialWebsite": "Offizielle Webseite",
+    "home": "Startseite",
+    "trails": "Wanderwege",
+    "largeDogs": "Große Hunde",
+    "smallDogs": "Kleine Hunde",
+    "seniorDogs": "Senior-Hunde",
+    "puppies": "Welpen",
+    "waterDogs": "Wasserhunde",
+    "shyDogs": "Scheue Hunde"
+  },
+  "mobileNav": {
+    "home": "Start",
+    "trails": "Wege",
+    "eat": "Essen",
+    "shop": "Geschäfte",
+    "more": "Mehr"
+  },
+  "eat": {
+    "restaurantsTitle": "Hundefreundliche Restaurants",
+    "restaurantsSubtitle": "Die besten Terrassen, Biergärten und Cafés, die Ihren Hund willkommen heißen.",
+    "rawFoodTitle": "Rohfutter & Knochen",
+    "rawFoodSubtitle": "Wo Sie rohe Fleischknochen und Zutaten für selbstgemachtes Hundefutter in der Bay Area kaufen können.",
+    "priceCompareTitle": "Rohfutter-Preisvergleich",
+    "priceCompareSubtitle": "Vergleichen Sie Preise in beliebten Bay Area Geschäften für gängige Rohfutter-Zutaten.",
+    "budgetTitle": "Rohfutter-Budgetpläne",
+    "budgetSubtitle": "Wählen Sie einen Plan, der zu Ihrem Budget passt. Alle Pläne bieten vollständige Ernährung.",
+    "item": "Artikel",
+    "patio": "Terrasse",
+    "dogMenu": "Hundemenü",
+    "visit": "Besuchen"
+  },
+  "learn": {
+    "nutrition": "Ernährung",
+    "recipes": "Rezepte",
+    "training": "Training",
+    "health": "Gesundheit",
+    "guide": "Ratgeber",
+    "rawFeedingTitle": "Kompletter Leitfaden zur Rohfütterung (BARF-Diät)",
+    "rawFeedingDesc": "Lernen Sie das 80-10-10-Verhältnis: 80% Muskelfleisch, 10% Knochen, 10% Innereien. Plus Kalzium-Phosphor-Verhältnisse, Ergänzung und Umstellungstipps.",
+    "homemadeTitle": "Selbstgemachte Hundefutter-Rezepte",
+    "homemadeDesc": "Vom Tierarzt geprüfte Rezepte mit richtiger Nährstoffbalance. Enthält Huhn & Reis, Rind & Süßkartoffel und Fisch & Gemüse.",
+    "offLeashTitle": "Grundlagen des Freilauf-Trainings",
+    "offLeashDesc": "Essentielles Rückruf-Training für Bay Area Wanderwege. Lernen Sie den Rückruf, Notrückruf und zuverlässiges Freilauf-Verhalten.",
+    "toxicFoodsTitle": "Giftige Lebensmittel für Hunde",
+    "toxicFoodsDesc": "Was zu vermeiden ist: Trauben, Zwiebeln, Schokolade, Xylitol, Avocado, Macadamia-Nüsse und mehr. Notfall-Tierarzt-Kontakte inklusive.",
+    "newOwnerTitle": "Bay Area Checkliste für Neue Hundebesitzer",
+    "newOwnerDesc": "Alles was Sie brauchen: Lizenzen, Mikrochip, Tierarztwahl, nahegelegene Hundeparks und lokale Hundegemeinschaften.",
+    "calciumTitle": "Leitfaden zur Kalzium-Ergänzung",
+    "calciumDesc": "Warum selbstgemachten Diäten oft Kalzium fehlt. Wie man Eierschalenpulver, Balance IT Ergänzungen und Knochenmehl richtig verwendet.",
+    "balanceIT": "Balance IT Rezeptgenerator",
+    "rawFeedingGuide": "Rohfutter-Leitfaden",
+    "vetApproved": "Vom Tierarzt Geprüft",
+    "akcIngredients": "AKC Zutaten-Guide",
+    "aspcaList": "ASPCA Giftige Lebensmittel",
+    "balanceITSupp": "Balance IT Ergänzungen",
+    "toolsSection": "Interaktive Werkzeuge"
+  },
+  "play": {
+    "dogParksTitle": "Hundeparks & Strände",
+    "dogParksSubtitle": "Die besten Freilauf-Hundeparks, Strände und Spielbereiche der Bay Area.",
+    "fenced": "Eingezäunt",
+    "separateAreas": "Getrennte Bereiche"
+  },
+  "shop": {
+    "petStore": "Tierhandlung",
+    "grooming": "Hundesalon",
+    "vet": "Tierarzt",
+    "training": "Training",
+    "emergency24h": "24-Stunden-Notfall"
+  },
+  "notFound": {
+    "title": "Dieser Hund ist vom Weg abgekommen!",
+    "description": "Die Seite, die Sie suchen, existiert nicht oder wurde verschoben. Lassen Sie uns zurück auf den richtigen Weg.",
+    "goHome": "Zurück zur Startseite",
+    "exploreTrails": "Wanderwege Erkunden"
+  },
+  "footer": {
+    "tagline": "Wir helfen Bay Area Hunden, ihr bestes Leben zu leben.",
+    "about": "Über Uns",
+    "contact": "Kontakt",
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "copyright": "Bay Area Dog. Alle Rechte vorbehalten."
+  },
+  "foodSafety": {
+    "title": "Hunde-Lebensmittel-Checker",
+    "subtitle": "Schnelle Referenz: Welche menschlichen Lebensmittel sind sicher, gefährlich oder erfordern Vorsicht.",
+    "home": "Startseite",
+    "learn": "Lernen",
+    "searchPlaceholder": "Lebensmittel suchen...",
+    "filterAll": "Alle",
+    "safe": "Sicher",
+    "cautionLabel": "Vorsicht",
+    "dangerous": "Gefährlich",
+    "emergency": "Notfall",
+    "noResults": "Keine Lebensmittel gefunden.",
+    "cat_all": "Alle",
+    "cat_fruit": "Obst",
+    "cat_vegetable": "Gemüse",
+    "cat_protein": "Protein",
+    "cat_dairy": "Milchprodukte",
+    "cat_grain": "Getreide",
+    "cat_other": "Sonstiges"
+  },
+  "foodCalculator": {
+    "title": "Rohfutter-Rechner",
+    "subtitle": "Berechnen Sie, wie viel Rohfutter Ihr Hund täglich basierend auf Gewicht und Aktivität benötigt.",
+    "home": "Startseite",
+    "learn": "Lernen",
+    "weightLabel": "Gewicht des Hundes",
+    "activityLabel": "Aktivitätslevel",
+    "activity_low": "Niedrig",
+    "activity_normal": "Normal",
+    "activity_high": "Hoch",
+    "infoNote": "Dieser Rechner verwendet das BARF-Verhältnis (80-10-10) als Richtwert. Konsultieren Sie immer Ihren Tierarzt für individuelle Empfehlungen.",
+    "dailyAmount": "Tägliche Futtermenge",
+    "perDay": "pro Tag",
+    "perWeek": "Woche",
+    "muscleMeat": "Muskelfleisch",
+    "rawBone": "Roher Knochen",
+    "organ": "Innereien (ohne Leber)",
+    "liver": "Leber",
+    "veggies": "Gemüse & Obst",
+    "estimatedCost": "Geschätzte Monatskosten",
+    "budgetPlan": "Sparsam",
+    "budgetDesc": "Grundstücke",
+    "standardPlan": "Standard",
+    "standardDesc": "Gemischte Quellen",
+    "premiumPlan": "Premium",
+    "premiumDesc": "Bio, Weidehaltung"
+  },
+  "emergencyCard": {
+    "title": "Hunde-Notfallkarte",
+    "subtitle": "Notfallkontakte, Vergiftungssymptome und Erste-Hilfe-Schritte. Drucken Sie diese Karte aus.",
+    "home": "Startseite",
+    "learn": "Lernen",
+    "printCard": "Karte Drucken",
+    "poisonControl": "ASPCA Giftnotruf",
+    "poisonNote": "Rund um die Uhr verfügbar. Beratungsgebühr kann anfallen.",
+    "symptomsTitle": "Häufige Vergiftungssymptome",
+    "symptom_vomiting": "Erbrechen oder Würgen",
+    "symptom_diarrhea": "Durchfall (möglicherweise blutig)",
+    "symptom_drooling": "Übermäßiges Speicheln oder Schaum",
+    "symptom_lethargy": "Lethargie oder Schwäche",
+    "symptom_seizures": "Zittern oder Krampfanfälle",
+    "symptom_breathing": "Atembeschwerden",
+    "symptom_collapse": "Zusammenbruch oder Bewusstlosigkeit",
+    "symptom_pawing": "Kratzen an Maul oder Gesicht",
+    "firstAidTitle": "Notfall-Erste-Hilfe-Schritte",
+    "firstAid_step1": "Bleiben Sie ruhig. Entfernen Sie Ihren Hund von der Gefahrenquelle.",
+    "firstAid_step2": "Rufen Sie sofort den ASPCA Giftnotruf (888) 426-4435 oder Ihren Notfalltierarzt an.",
+    "firstAid_step3": "Lösen Sie KEIN Erbrechen aus, es sei denn, ein Fachmann weist Sie an.",
+    "firstAid_step4": "Notieren Sie, was Ihr Hund gefressen hat, wie viel und wann. Bringen Sie die Verpackung mit.",
+    "firstAid_step5": "Transportieren Sie so schnell wie möglich zum nächsten 24-Stunden-Notfalltierarzt.",
+    "emergencyVets": "24-Stunden-Notfalltierärzte in der Bay Area",
+    "allAreas": "Alle Gebiete",
+    "visitWebsite": "Website Besuchen"
+  },
+  "hikingChecklist": {
+    "title": "Hunde-Wandercheckliste",
+    "subtitle": "Alles, was Sie für eine sichere und spaßige Wanderung mit Ihrem Hund brauchen.",
+    "home": "Startseite",
+    "learn": "Lernen",
+    "progress": "{count} von {total} gepackt",
+    "reset": "Zurücksetzen",
+    "item_water_bottle": "Wasserflasche für Ihren Hund",
+    "item_collapsible_bowl": "Faltbarer Wassernapf",
+    "item_extra_water": "Extra Wasser",
+    "item_leash": "Leine (1,8m Standard + Ersatz)",
+    "item_harness": "Geschirr oder Halsband mit Marke",
+    "item_poop_bags": "Kotbeutel (extra mitnehmen!)",
+    "item_treats": "Trainings-Leckerlis und Snacks",
+    "item_first_aid": "Erste-Hilfe-Set für Haustiere",
+    "item_id_tags": "Aktuelle ID-Marke und Chip-Info",
+    "item_flea_tick": "Floh- & Zeckenschutz aufgetragen",
+    "item_paw_balm": "Pfotenbalsam für raues Gelände",
+    "item_towel": "Handtuch für schmutzige Pfoten",
+    "item_sunscreen": "Sonnenschutz für helle Hunde",
+    "item_booties": "Hundeschuhe für heißen Asphalt",
+    "item_reflective": "Reflektierende Ausrüstung",
+    "item_phone_charged": "Handy aufgeladen (für Notfälle)",
+    "tipsTitle": "Profi-Tipps",
+    "tip1": "Prüfen Sie die Leinenpflicht des Weges vorher.",
+    "tip2": "Beginnen Sie mit kurzen Wanderungen für Welpen und ältere Hunde.",
+    "tip3": "Vermeiden Sie Wanderungen bei Spitzenhitze (10-16 Uhr im Sommer).",
+    "tip4": "Lassen Sie andere Wanderer vorbei und halten Sie Ihren Hund auf schmalen Wegen nah."
+  },
+  "seasonal": {
+    "spring_title": "Frühling ist da!",
+    "spring_tip": "Wildblumensaison. Achten Sie auf Grannen auf Wegen. Floh- & Zeckenschutz prüfen.",
+    "summer_title": "Sommer-Sicherheit",
+    "summer_tip": "Wanderungen 10-16 Uhr vermeiden — heißer Asphalt verbrennt Pfoten! Strände und schattige Wege wählen.",
+    "fall_title": "Herbst-Abenteuer",
+    "fall_tip": "Perfektes Wanderwetter! Tage werden kürzer — reflektierende Ausrüstung mitnehmen.",
+    "winter_title": "Winter-Tipps",
+    "winter_tip": "Regenzeit bedeutet schlammige Wege. Handtücher mitnehmen und Wegsperrungen prüfen.",
+    "explore": "Wege Erkunden"
+  },
+  "search": {
+    "placeholder": "Wege, Restaurants, Lebensmittel suchen...",
+    "hint": "Mindestens 2 Zeichen eingeben",
+    "noResults": "Keine Ergebnisse gefunden.",
+    "escHint": "Esc zum Schließen"
+  }
+}

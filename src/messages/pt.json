@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - O Guia do Seu Cão na Bay Area",
+    "description": "O guia definitivo para donos de cães na Bay Area. Encontre trilhas, restaurantes, lojas, eventos e dicas para seu companheiro peludo."
+  },
+  "nav": {
+    "home": "Início",
+    "trails": "Trilhas",
+    "eat": "Comer",
+    "play": "Brincar",
+    "shop": "Lojas",
+    "learn": "Aprender"
+  },
+  "hero": {
+    "title": "O Guia do Seu Cão na Bay Area",
+    "subtitle": "Descubra as melhores trilhas, restaurantes pet-friendly, parques, lojas e tudo que seu cão precisa para viver sua melhor vida na Bay Area.",
+    "cta": "Explorar Agora",
+    "search_placeholder": "Buscar trilhas, restaurantes, parques..."
+  },
+  "categories": {
+    "section_title": "Explorar por Categoria",
+    "trails": {
+      "title": "Trilhas & Caminhadas",
+      "description": "Trilhas sem coleira, passeios na praia e caminhadas cênicas avaliadas por outros donos de cães.",
+      "cta": "Encontrar Trilhas"
+    },
+    "eat": {
+      "title": "Comer & Beber",
+      "description": "Restaurantes, cafés e cervejarias pet-friendly, e as melhores lojas de comida crua.",
+      "cta": "Encontrar Restaurantes"
+    },
+    "play": {
+      "title": "Brincar & Diversão",
+      "description": "Parques para cães, praias, eventos, encontros e atividades para você e seu cão.",
+      "cta": "Encontrar Atividades"
+    },
+    "shop": {
+      "title": "Lojas",
+      "description": "Pet shops, fornecedores de comida crua, salões de banho e tosa e clínicas veterinárias.",
+      "cta": "Encontrar Lojas"
+    },
+    "learn": {
+      "title": "Aprender",
+      "description": "Dicas de treinamento, guias nutricionais, receitas caseiras e conselhos de saúde.",
+      "cta": "Começar a Aprender"
+    }
+  },
+  "featured": {
+    "title": "Popular Esta Semana",
+    "view_all": "Ver Tudo"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Praia icônica sem coleira com vistas deslumbrantes do oceano e falésias arenosas.",
+      "tags": "Sem Coleira,Praia,Cênico"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "O maior parque de cães sem coleira da Bay Area com trilhas à beira-mar.",
+      "tags": "Sem Coleira,Beira-mar,Grande"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Vários Locais",
+      "description": "Restaurante pet-friendly com área externa e menu especial para cães.",
+      "tags": "Restaurante,Pátio,Menu Pet"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Comida crua premium para cães e ossos carnudos de fazendas locais.",
+      "tags": "Comida Crua,Local,Orgânico"
+    }
+  },
+  "newsletter": {
+    "title": "Fique por Dentro",
+    "description": "Receba semanalmente os melhores lugares, eventos e dicas pet-friendly.",
+    "placeholder": "Digite seu email",
+    "button": "Inscrever-se",
+    "privacy": "Respeitamos sua privacidade. Cancele a qualquer momento."
+  },
+  "todaysPick": {
+    "title": "Escolha do Dia",
+    "random": "Aventura Aleatória",
+    "viewDetails": "Ver Detalhes",
+    "weekendAdventure": "Aventura de Fim de Semana",
+    "beatTheHeat": "Fugir do Calor",
+    "winterWalk": "Passeio de Inverno",
+    "quickWalk": "Passeio Rápido"
+  },
+  "map": {
+    "title": "Explorar a Bay Area",
+    "loading": "Carregando mapa...",
+    "all": "Todos",
+    "offLeash": "Sem Coleira",
+    "onLeash": "Com Coleira",
+    "restaurants": "Restaurantes",
+    "rawFood": "Comida Crua",
+    "legendRestaurant": "Restaurante",
+    "legendRawFood": "Loja de Comida Crua"
+  },
+  "trailFilters": {
+    "all": "Todos",
+    "offLeash": "Sem Coleira",
+    "onLeash": "Com Coleira",
+    "mixed": "Misto",
+    "allAreas": "Todas as Áreas",
+    "anyDifficulty": "Qualquer Dificuldade",
+    "easy": "Fácil",
+    "moderate": "Moderado",
+    "hard": "Difícil",
+    "showing": "Mostrando {count} de {total} trilhas",
+    "noResults": "Nenhuma trilha corresponde aos seus filtros",
+    "noResultsHint": "Tente ajustar seus filtros para ver mais resultados.",
+    "sortRating": "Melhor Avaliados",
+    "sortName": "Nome A-Z",
+    "sortDifficulty": "Mais Fácil Primeiro"
+  },
+  "trailDetail": {
+    "backToTrails": "Voltar às Trilhas",
+    "aboutTrail": "Sobre Esta Trilha",
+    "features": "Características",
+    "bestFor": "Ideal Para",
+    "location": "Localização",
+    "getDirections": "Direções no Google Maps",
+    "trailInfo": "Info da Trilha",
+    "parking": "Estacionamento",
+    "water": "Água",
+    "tips": "Dicas",
+    "bestTime": "Melhor Horário",
+    "photoSpot": "Ponto para Fotos",
+    "nearby": "Próximo",
+    "food": "Comida",
+    "vet": "Veterinário",
+    "officialWebsite": "Site Oficial",
+    "home": "Início",
+    "trails": "Trilhas",
+    "largeDogs": "Cães Grandes",
+    "smallDogs": "Cães Pequenos",
+    "seniorDogs": "Cães Idosos",
+    "puppies": "Filhotes",
+    "waterDogs": "Cães de Água",
+    "shyDogs": "Cães Tímidos"
+  },
+  "mobileNav": {
+    "home": "Início",
+    "trails": "Trilhas",
+    "eat": "Comer",
+    "shop": "Lojas",
+    "more": "Mais"
+  },
+  "eat": {
+    "restaurantsTitle": "Restaurantes Pet-Friendly",
+    "restaurantsSubtitle": "Os melhores pátios, cervejarias e cafés que recebem seu cão na Bay Area.",
+    "rawFoodTitle": "Comida Crua & Ossos",
+    "rawFoodSubtitle": "Onde comprar ossos carnudos crus e ingredientes para comida caseira na Bay Area.",
+    "priceCompareTitle": "Comparação de Preços de Comida Crua",
+    "priceCompareSubtitle": "Compare preços nas lojas populares da Bay Area para ingredientes comuns de alimentação crua.",
+    "budgetTitle": "Planos de Orçamento para Alimentação Crua",
+    "budgetSubtitle": "Escolha um plano que cabe no seu orçamento. Todos os planos fornecem nutrição completa.",
+    "item": "Item",
+    "patio": "Pátio",
+    "dogMenu": "Menu Pet",
+    "visit": "Visitar"
+  },
+  "learn": {
+    "nutrition": "Nutrição",
+    "recipes": "Receitas",
+    "training": "Treinamento",
+    "health": "Saúde",
+    "guide": "Guia",
+    "rawFeedingTitle": "Guia Completo de Alimentação Crua (Dieta BARF)",
+    "rawFeedingDesc": "Aprenda a proporção 80-10-10: 80% carne muscular, 10% osso, 10% órgãos. Mais proporções cálcio-fósforo, suplementação e dicas de transição.",
+    "homemadeTitle": "Receitas de Comida Caseira para Cães",
+    "homemadeDesc": "Receitas aprovadas por veterinários com equilíbrio nutricional adequado. Inclui frango & arroz, carne & batata doce, e peixe & legumes.",
+    "offLeashTitle": "Fundamentos do Treinamento Sem Coleira",
+    "offLeashDesc": "Treinamento essencial de retorno para trilhas da Bay Area. Aprenda o comando 'vem', retorno de emergência e comportamento confiável sem coleira.",
+    "toxicFoodsTitle": "Alimentos Tóxicos para Cães",
+    "toxicFoodsDesc": "Saiba o que evitar: uvas, cebolas, chocolate, xilitol, abacate, nozes de macadâmia e mais. Contatos de emergência veterinária incluídos.",
+    "newOwnerTitle": "Checklist Bay Area para Novos Donos de Cães",
+    "newOwnerDesc": "Tudo que você precisa: licenças, microchip, escolha do veterinário, parques de cães próximos e grupos comunitários locais.",
+    "calciumTitle": "Guia de Suplementação de Cálcio",
+    "calciumDesc": "Por que dietas caseiras frequentemente faltam cálcio. Como usar corretamente pó de casca de ovo, suplementos Balance IT e farinha de osso.",
+    "balanceIT": "Gerador de Receitas Balance IT",
+    "rawFeedingGuide": "Guia de Alimentação Crua",
+    "vetApproved": "Receitas Aprovadas por Vet",
+    "akcIngredients": "Guia de Ingredientes AKC",
+    "aspcaList": "Lista ASPCA de Alimentos Tóxicos",
+    "balanceITSupp": "Suplementos Balance IT",
+    "toolsSection": "Ferramentas Interativas"
+  },
+  "play": {
+    "dogParksTitle": "Parques de Cães & Praias",
+    "dogParksSubtitle": "Os melhores parques sem coleira, praias e áreas de lazer da Bay Area.",
+    "fenced": "Cercado",
+    "separateAreas": "Áreas Separadas"
+  },
+  "shop": {
+    "petStore": "Pet Shop",
+    "grooming": "Banho e Tosa",
+    "vet": "Veterinário",
+    "training": "Treinamento",
+    "emergency24h": "Emergência 24h"
+  },
+  "notFound": {
+    "title": "Este cachorro saiu da trilha!",
+    "description": "A página que você procura não existe ou foi movida. Vamos voltar ao caminho certo.",
+    "goHome": "Voltar ao Início",
+    "exploreTrails": "Explorar Trilhas"
+  },
+  "footer": {
+    "tagline": "Ajudando cães da Bay Area a viver sua melhor vida.",
+    "about": "Sobre",
+    "contact": "Contato",
+    "privacy": "Privacidade",
+    "terms": "Termos",
+    "copyright": "Bay Area Dog. Todos os direitos reservados."
+  },
+  "foodSafety": {
+    "title": "Verificador de Alimentos para Cães",
+    "subtitle": "Referência rápida: quais alimentos humanos são seguros, perigosos ou requerem cautela.",
+    "home": "Início",
+    "learn": "Aprender",
+    "searchPlaceholder": "Buscar alimento...",
+    "filterAll": "Todos",
+    "safe": "Seguro",
+    "cautionLabel": "Cautela",
+    "dangerous": "Perigoso",
+    "emergency": "Emergência",
+    "noResults": "Nenhum alimento encontrado.",
+    "cat_all": "Todos",
+    "cat_fruit": "Frutas",
+    "cat_vegetable": "Vegetais",
+    "cat_protein": "Proteínas",
+    "cat_dairy": "Laticínios",
+    "cat_grain": "Grãos",
+    "cat_other": "Outros"
+  },
+  "foodCalculator": {
+    "title": "Calculadora de Comida Crua",
+    "subtitle": "Calcule quanto de comida crua seu cão precisa diariamente com base no peso e nível de atividade.",
+    "home": "Início",
+    "learn": "Aprender",
+    "weightLabel": "Peso do Cão",
+    "activityLabel": "Nível de Atividade",
+    "activity_low": "Baixo",
+    "activity_normal": "Normal",
+    "activity_high": "Alto",
+    "infoNote": "Esta calculadora usa a proporção BARF (80-10-10) como guia. Sempre consulte seu veterinário para orientação personalizada.",
+    "dailyAmount": "Quantidade Diária",
+    "perDay": "por dia",
+    "perWeek": "semana",
+    "muscleMeat": "Carne Muscular",
+    "rawBone": "Osso Cru",
+    "organ": "Órgão (exceto fígado)",
+    "liver": "Fígado",
+    "veggies": "Vegetais e Frutas",
+    "estimatedCost": "Custo Mensal Estimado",
+    "budgetPlan": "Econômico",
+    "budgetDesc": "Cortes básicos",
+    "standardPlan": "Padrão",
+    "standardDesc": "Fontes mistas",
+    "premiumPlan": "Premium",
+    "premiumDesc": "Orgânico, pasto"
+  },
+  "emergencyCard": {
+    "title": "Cartão de Emergência para Cães",
+    "subtitle": "Contatos de emergência, sintomas de envenenamento e primeiros socorros. Imprima este cartão.",
+    "home": "Início",
+    "learn": "Aprender",
+    "printCard": "Imprimir Cartão",
+    "poisonControl": "Central de Venenos ASPCA",
+    "poisonNote": "Disponível 24/7. Pode haver taxa de consulta.",
+    "symptomsTitle": "Sintomas Comuns de Envenenamento",
+    "symptom_vomiting": "Vômitos ou ânsia",
+    "symptom_diarrhea": "Diarreia (pode ser com sangue)",
+    "symptom_drooling": "Salivação excessiva ou espuma",
+    "symptom_lethargy": "Letargia ou fraqueza",
+    "symptom_seizures": "Tremores ou convulsões",
+    "symptom_breathing": "Dificuldade para respirar",
+    "symptom_collapse": "Colapso ou inconsciência",
+    "symptom_pawing": "Coçar a boca ou rosto",
+    "firstAidTitle": "Passos de Primeiros Socorros",
+    "firstAid_step1": "Mantenha a calma. Afaste seu cão da fonte de perigo.",
+    "firstAid_step2": "Ligue para a Central de Venenos ASPCA (888) 426-4435 ou seu veterinário de emergência.",
+    "firstAid_step3": "NÃO induza vômito a menos que instruído por um profissional.",
+    "firstAid_step4": "Anote o que seu cão comeu, quanto e quando. Traga a embalagem se possível.",
+    "firstAid_step5": "Transporte para o veterinário de emergência 24h mais próximo o mais rápido possível.",
+    "emergencyVets": "Veterinários de Emergência 24h na Bay Area",
+    "allAreas": "Todas as Áreas",
+    "visitWebsite": "Visitar Site"
+  },
+  "hikingChecklist": {
+    "title": "Checklist de Trilha com Cão",
+    "subtitle": "Tudo que você precisa para uma trilha segura e divertida com seu cão.",
+    "home": "Início",
+    "learn": "Aprender",
+    "progress": "{count} de {total} prontos",
+    "reset": "Reiniciar",
+    "item_water_bottle": "Garrafa de água para seu cão",
+    "item_collapsible_bowl": "Tigela de água dobrável",
+    "item_extra_water": "Água extra",
+    "item_leash": "Guia (1,8m padrão + reserva)",
+    "item_harness": "Peitoral ou coleira com plaqueta",
+    "item_poop_bags": "Sacos de cocô (leve extra!)",
+    "item_treats": "Petiscos de treinamento",
+    "item_first_aid": "Kit de primeiros socorros pet",
+    "item_id_tags": "Plaqueta e microchip atualizados",
+    "item_flea_tick": "Antipulgas e carrapatos aplicado",
+    "item_paw_balm": "Bálsamo para patas",
+    "item_towel": "Toalha para patas sujas",
+    "item_sunscreen": "Protetor solar para cães claros",
+    "item_booties": "Botinhas para asfalto quente",
+    "item_reflective": "Equipamento reflexivo",
+    "item_phone_charged": "Celular carregado (emergências)",
+    "tipsTitle": "Dicas Pro",
+    "tip1": "Verifique a política de guia da trilha antes de ir.",
+    "tip2": "Comece com trilhas curtas para filhotes e cães idosos.",
+    "tip3": "Evite trilhas nos horários de pico de calor (10h-16h no verão).",
+    "tip4": "Dê passagem a outros trilheiros e mantenha seu cão perto em trilhas estreitas."
+  },
+  "seasonal": {
+    "spring_title": "A Primavera Chegou!",
+    "spring_tip": "Temporada de flores silvestres. Cuidado com as espiguetas nas trilhas. Verifique a prevenção de pulgas.",
+    "summer_title": "Segurança no Verão",
+    "summer_tip": "Evite trilhas das 10h às 16h — asfalto quente queima patas! Prefira praias e trilhas com sombra.",
+    "fall_title": "Aventuras de Outono",
+    "fall_tip": "Clima perfeito para trilhas! Dias ficando mais curtos — leve equipamento reflexivo.",
+    "winter_title": "Dicas de Inverno",
+    "winter_tip": "Temporada de chuvas. Leve toalhas e verifique fechamentos de trilhas.",
+    "explore": "Explorar Trilhas"
+  },
+  "search": {
+    "placeholder": "Buscar trilhas, restaurantes, alimentos...",
+    "hint": "Digite pelo menos 2 caracteres",
+    "noResults": "Nenhum resultado encontrado.",
+    "escHint": "Pressione Esc para fechar"
+  }
+}

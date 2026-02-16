@@ -1,4 +1,5 @@
 import type { MetadataRoute } from "next";
+import { trails } from "@/data/trails";
 
 const locales = ["en", "zh", "es", "ja", "ko"];
 const pages = ["", "/trails", "/eat", "/play", "/shop", "/learn"];
@@ -16,6 +17,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
         alternates: {
           languages: Object.fromEntries(
             locales.map((l) => [l, `https://bayarea.dog/${l}${page}`])
+          ),
+        },
+      });
+    }
+
+    // Trail detail pages
+    for (const trail of trails) {
+      entries.push({
+        url: `https://bayarea.dog/${locale}/trails/${trail.slug}`,
+        lastModified: new Date(),
+        changeFrequency: "monthly",
+        priority: 0.7,
+        alternates: {
+          languages: Object.fromEntries(
+            locales.map((l) => [l, `https://bayarea.dog/${l}/trails/${trail.slug}`])
           ),
         },
       });

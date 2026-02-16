@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Bay Area Dog - Hướng Dẫn Cho Chó Của Bạn Tại Bay Area",
+    "description": "Hướng dẫn tối ưu cho chủ nuôi chó tại Bay Area. Tìm đường mòn, nhà hàng, cửa hàng, sự kiện và mẹo cho người bạn bốn chân."
+  },
+  "nav": {
+    "home": "Trang Chủ",
+    "trails": "Đường Mòn",
+    "eat": "Ăn Uống",
+    "play": "Vui Chơi",
+    "shop": "Cửa Hàng",
+    "learn": "Học Hỏi"
+  },
+  "hero": {
+    "title": "Hướng Dẫn Cho Chó Của Bạn Tại Bay Area",
+    "subtitle": "Khám phá những đường mòn tốt nhất, nhà hàng thân thiện với chó, công viên, cửa hàng và mọi thứ cún của bạn cần để sống cuộc sống tuyệt nhất tại Bay Area.",
+    "cta": "Khám Phá Ngay",
+    "search_placeholder": "Tìm đường mòn, nhà hàng, công viên..."
+  },
+  "categories": {
+    "section_title": "Khám Phá Theo Danh Mục",
+    "trails": {
+      "title": "Đường Mòn & Đi Bộ",
+      "description": "Đường mòn thả rông, dạo bờ biển và leo núi ngắm cảnh được đánh giá bởi các chủ chó.",
+      "cta": "Tìm Đường Mòn"
+    },
+    "eat": {
+      "title": "Ăn & Uống",
+      "description": "Nhà hàng, quán cà phê, nhà máy bia thân thiện với chó và các cửa hàng thức ăn sống tốt nhất.",
+      "cta": "Tìm Nhà Hàng"
+    },
+    "play": {
+      "title": "Vui Chơi & Giải Trí",
+      "description": "Công viên chó, bãi biển, sự kiện, gặp gỡ và hoạt động cho bạn và cún.",
+      "cta": "Tìm Hoạt Động"
+    },
+    "shop": {
+      "title": "Cửa Hàng",
+      "description": "Cửa hàng thú cưng, nhà cung cấp thức ăn sống, salon chăm sóc và phòng khám thú y.",
+      "cta": "Tìm Cửa Hàng"
+    },
+    "learn": {
+      "title": "Học Hỏi",
+      "description": "Mẹo huấn luyện, hướng dẫn dinh dưỡng, công thức nấu tại nhà và lời khuyên sức khỏe.",
+      "cta": "Bắt Đầu Học"
+    }
+  },
+  "featured": {
+    "title": "Phổ Biến Tuần Này",
+    "view_all": "Xem Tất Cả"
+  },
+  "places": {
+    "fort_funston": {
+      "name": "Fort Funston",
+      "location": "San Francisco",
+      "description": "Bãi biển thả rông nổi tiếng với tầm nhìn đại dương tuyệt đẹp và vách đá cát.",
+      "tags": "Thả rông,Bãi biển,Phong cảnh"
+    },
+    "point_isabel": {
+      "name": "Point Isabel Regional Shoreline",
+      "location": "Richmond",
+      "description": "Công viên chó thả rông lớn nhất Bay Area với đường mòn ven sông.",
+      "tags": "Thả rông,Ven sông,Lớn"
+    },
+    "lazy_dog": {
+      "name": "Lazy Dog Restaurant",
+      "location": "Nhiều Địa Điểm",
+      "description": "Nhà hàng có sân ngoài trời thân thiện với chó và menu đặc biệt cho chó.",
+      "tags": "Nhà hàng,Sân ngoài,Menu chó"
+    },
+    "marin_raw": {
+      "name": "Marin Raw",
+      "location": "San Rafael",
+      "description": "Thức ăn sống cao cấp cho chó và xương thịt từ trang trại địa phương.",
+      "tags": "Thức ăn sống,Địa phương,Hữu cơ"
+    }
+  },
+  "newsletter": {
+    "title": "Cập Nhật Tin Tức",
+    "description": "Nhận hàng tuần những địa điểm, sự kiện và mẹo tốt nhất cho chó.",
+    "placeholder": "Nhập email của bạn",
+    "button": "Đăng Ký",
+    "privacy": "Chúng tôi tôn trọng quyền riêng tư của bạn. Hủy đăng ký bất cứ lúc nào."
+  },
+  "todaysPick": {
+    "title": "Gợi Ý Hôm Nay",
+    "random": "Phiêu Lưu Ngẫu Nhiên",
+    "viewDetails": "Xem Chi Tiết",
+    "weekendAdventure": "Phiêu Lưu Cuối Tuần",
+    "beatTheHeat": "Tránh Nóng",
+    "winterWalk": "Dạo Mùa Đông",
+    "quickWalk": "Đi Dạo Nhanh"
+  },
+  "map": {
+    "title": "Khám Phá Bay Area",
+    "loading": "Đang tải bản đồ...",
+    "all": "Tất Cả",
+    "offLeash": "Thả Rông",
+    "onLeash": "Có Dây",
+    "restaurants": "Nhà Hàng",
+    "rawFood": "Thức Ăn Sống",
+    "legendRestaurant": "Nhà Hàng",
+    "legendRawFood": "Cửa Hàng Thức Ăn Sống"
+  },
+  "trailFilters": {
+    "all": "Tất Cả",
+    "offLeash": "Thả Rông",
+    "onLeash": "Có Dây",
+    "mixed": "Hỗn Hợp",
+    "allAreas": "Tất Cả Khu Vực",
+    "anyDifficulty": "Mọi Độ Khó",
+    "easy": "Dễ",
+    "moderate": "Trung Bình",
+    "hard": "Khó",
+    "showing": "Hiển thị {count} trong {total} đường mòn",
+    "noResults": "Không có đường mòn phù hợp với bộ lọc",
+    "noResultsHint": "Thử điều chỉnh bộ lọc để xem thêm kết quả.",
+    "sortRating": "Đánh Giá Cao",
+    "sortName": "Tên A-Z",
+    "sortDifficulty": "Dễ Nhất Trước"
+  },
+  "trailDetail": {
+    "backToTrails": "Về Đường Mòn",
+    "aboutTrail": "Về Đường Mòn Này",
+    "features": "Đặc Điểm",
+    "bestFor": "Phù Hợp Cho",
+    "location": "Vị Trí",
+    "getDirections": "Chỉ Đường Trên Google Maps",
+    "trailInfo": "Thông Tin Đường Mòn",
+    "parking": "Bãi Đỗ Xe",
+    "water": "Nước",
+    "tips": "Mẹo",
+    "bestTime": "Thời Gian Tốt Nhất",
+    "photoSpot": "Điểm Chụp Ảnh",
+    "nearby": "Gần Đây",
+    "food": "Ăn Uống",
+    "vet": "Thú Y",
+    "officialWebsite": "Trang Web Chính Thức",
+    "home": "Trang Chủ",
+    "trails": "Đường Mòn",
+    "largeDogs": "Chó Lớn",
+    "smallDogs": "Chó Nhỏ",
+    "seniorDogs": "Chó Già",
+    "puppies": "Chó Con",
+    "waterDogs": "Chó Nước",
+    "shyDogs": "Chó Nhút Nhát"
+  },
+  "mobileNav": {
+    "home": "Trang Chủ",
+    "trails": "Đường Mòn",
+    "eat": "Ăn",
+    "shop": "Mua",
+    "more": "Thêm"
+  },
+  "eat": {
+    "restaurantsTitle": "Nhà Hàng Thân Thiện Với Chó",
+    "restaurantsSubtitle": "Những sân ngoài trời, vườn bia và quán cà phê tốt nhất chào đón cún của bạn tại Bay Area.",
+    "rawFoodTitle": "Thức Ăn Sống & Xương",
+    "rawFoodSubtitle": "Mua xương thịt sống và nguyên liệu thức ăn chó tự nấu ở đâu tại Bay Area.",
+    "priceCompareTitle": "So Sánh Giá Thức Ăn Sống",
+    "priceCompareSubtitle": "So sánh giá tại các cửa hàng phổ biến ở Bay Area cho nguyên liệu thức ăn sống thông dụng.",
+    "budgetTitle": "Kế Hoạch Ngân Sách Thức Ăn Sống",
+    "budgetSubtitle": "Chọn kế hoạch phù hợp ngân sách. Tất cả kế hoạch đều cung cấp dinh dưỡng đầy đủ.",
+    "item": "Sản Phẩm",
+    "patio": "Sân Ngoài",
+    "dogMenu": "Menu Chó",
+    "visit": "Ghé Thăm"
+  },
+  "learn": {
+    "nutrition": "Dinh Dưỡng",
+    "recipes": "Công Thức",
+    "training": "Huấn Luyện",
+    "health": "Sức Khỏe",
+    "guide": "Hướng Dẫn",
+    "rawFeedingTitle": "Hướng Dẫn Đầy Đủ Về Cho Ăn Sống (Chế Độ BARF)",
+    "rawFeedingDesc": "Tìm hiểu tỷ lệ 80-10-10: 80% thịt cơ, 10% xương, 10% nội tạng. Cộng thêm tỷ lệ canxi-phốt pho, bổ sung và mẹo chuyển đổi.",
+    "homemadeTitle": "Công Thức Thức Ăn Chó Tự Nấu",
+    "homemadeDesc": "Công thức được bác sĩ thú y phê duyệt với cân bằng dinh dưỡng đúng. Bao gồm gà & cơm, bò & khoai lang, và cá & rau.",
+    "offLeashTitle": "Cơ Bản Huấn Luyện Thả Rông",
+    "offLeashDesc": "Huấn luyện gọi về cần thiết cho đường mòn Bay Area. Học lệnh 'lại đây', gọi khẩn cấp và xây dựng hành vi thả rông đáng tin cậy.",
+    "toxicFoodsTitle": "Thực Phẩm Độc Hại Cho Chó",
+    "toxicFoodsDesc": "Cần tránh: nho, hành, sô-cô-la, xylitol, bơ, hạt macadamia và hơn nữa. Số liên lạc thú y khẩn cấp đi kèm.",
+    "newOwnerTitle": "Danh Sách Kiểm Tra Bay Area Cho Chủ Mới",
+    "newOwnerDesc": "Mọi thứ cần thiết: giấy phép, gắn chip, chọn bác sĩ thú y, công viên chó gần nhà và nhóm cộng đồng chó địa phương.",
+    "calciumTitle": "Hướng Dẫn Bổ Sung Canxi",
+    "calciumDesc": "Tại sao chế độ ăn tự nấu thường thiếu canxi. Cách sử dụng đúng bột vỏ trứng, thực phẩm bổ sung Balance IT và bột xương.",
+    "balanceIT": "Tạo Công Thức Balance IT",
+    "rawFeedingGuide": "Hướng Dẫn Cho Ăn Sống",
+    "vetApproved": "Công Thức Thú Y Phê Duyệt",
+    "akcIngredients": "Hướng Dẫn Nguyên Liệu AKC",
+    "aspcaList": "Danh Sách Thực Phẩm Độc ASPCA",
+    "balanceITSupp": "Thực Phẩm Bổ Sung Balance IT",
+    "toolsSection": "Công Cụ Tương Tác"
+  },
+  "play": {
+    "dogParksTitle": "Công Viên Chó & Bãi Biển",
+    "dogParksSubtitle": "Công viên chó thả rông, bãi biển và khu vui chơi tốt nhất tại Bay Area.",
+    "fenced": "Có Hàng Rào",
+    "separateAreas": "Khu Vực Riêng"
+  },
+  "shop": {
+    "petStore": "Cửa Hàng Thú Cưng",
+    "grooming": "Chăm Sóc Lông",
+    "vet": "Thú Y",
+    "training": "Huấn Luyện",
+    "emergency24h": "Cấp Cứu 24h"
+  },
+  "notFound": {
+    "title": "Cún này đã lạc đường!",
+    "description": "Trang bạn tìm không tồn tại hoặc đã được di chuyển. Hãy quay lại đường đúng nhé.",
+    "goHome": "Về Trang Chủ",
+    "exploreTrails": "Khám Phá Đường Mòn"
+  },
+  "footer": {
+    "tagline": "Giúp chó Bay Area sống cuộc sống tuyệt nhất.",
+    "about": "Giới Thiệu",
+    "contact": "Liên Hệ",
+    "privacy": "Quyền Riêng Tư",
+    "terms": "Điều Khoản",
+    "copyright": "Bay Area Dog. Bảo lưu mọi quyền."
+  },
+  "foodSafety": {
+    "title": "Kiểm Tra An Toàn Thức Ăn Cho Chó",
+    "subtitle": "Tra cứu nhanh: thức ăn nào an toàn, nguy hiểm hoặc cần thận trọng cho chó.",
+    "home": "Trang Chủ",
+    "learn": "Học Hỏi",
+    "searchPlaceholder": "Tìm thức ăn...",
+    "filterAll": "Tất Cả",
+    "safe": "An Toàn",
+    "cautionLabel": "Thận Trọng",
+    "dangerous": "Nguy Hiểm",
+    "emergency": "Khẩn Cấp",
+    "noResults": "Không tìm thấy thức ăn.",
+    "cat_all": "Tất Cả",
+    "cat_fruit": "Trái Cây",
+    "cat_vegetable": "Rau",
+    "cat_protein": "Protein",
+    "cat_dairy": "Sữa",
+    "cat_grain": "Ngũ Cốc",
+    "cat_other": "Khác"
+  },
+  "foodCalculator": {
+    "title": "Máy Tính Thức Ăn Sống",
+    "subtitle": "Tính toán lượng thức ăn sống mà chó cần hàng ngày dựa trên cân nặng và mức độ hoạt động.",
+    "home": "Trang Chủ",
+    "learn": "Học Hỏi",
+    "weightLabel": "Cân Nặng Chó",
+    "activityLabel": "Mức Độ Hoạt Động",
+    "activity_low": "Thấp",
+    "activity_normal": "Bình Thường",
+    "activity_high": "Cao",
+    "infoNote": "Máy tính này sử dụng tỷ lệ BARF (80-10-10) làm hướng dẫn. Luôn tham khảo ý kiến bác sĩ thú y.",
+    "dailyAmount": "Lượng Ăn Hàng Ngày",
+    "perDay": "mỗi ngày",
+    "perWeek": "tuần",
+    "muscleMeat": "Thịt Cơ",
+    "rawBone": "Xương Sống",
+    "organ": "Nội Tạng (trừ gan)",
+    "liver": "Gan",
+    "veggies": "Rau và Trái Cây",
+    "estimatedCost": "Chi Phí Hàng Tháng Ước Tính",
+    "budgetPlan": "Tiết Kiệm",
+    "budgetDesc": "Phần cắt cơ bản",
+    "standardPlan": "Tiêu Chuẩn",
+    "standardDesc": "Nguồn hỗn hợp",
+    "premiumPlan": "Cao Cấp",
+    "premiumDesc": "Hữu cơ, nuôi cỏ"
+  },
+  "emergencyCard": {
+    "title": "Thẻ Khẩn Cấp Cho Chó",
+    "subtitle": "Liên hệ khẩn cấp, triệu chứng ngộ độc và sơ cứu. In thẻ này và giữ bên mình.",
+    "home": "Trang Chủ",
+    "learn": "Học Hỏi",
+    "printCard": "In Thẻ Này",
+    "poisonControl": "Đường Dây Kiểm Soát Độc ASPCA",
+    "poisonNote": "Hoạt động 24/7. Có thể áp dụng phí tư vấn.",
+    "symptomsTitle": "Triệu Chứng Ngộ Độc Thường Gặp",
+    "symptom_vomiting": "Nôn hoặc buồn nôn",
+    "symptom_diarrhea": "Tiêu chảy (có thể có máu)",
+    "symptom_drooling": "Chảy nước dãi hoặc sùi bọt",
+    "symptom_lethargy": "Mệt mỏi hoặc yếu ớt",
+    "symptom_seizures": "Run rẩy hoặc co giật",
+    "symptom_breathing": "Khó thở",
+    "symptom_collapse": "Ngã quỵ hoặc bất tỉnh",
+    "symptom_pawing": "Dùng chân cào miệng hoặc mặt",
+    "firstAidTitle": "Các Bước Sơ Cứu Khẩn Cấp",
+    "firstAid_step1": "Giữ bình tĩnh. Đưa chó ra khỏi nguồn nguy hiểm.",
+    "firstAid_step2": "Gọi ngay đường dây ASPCA (888) 426-4435 hoặc bác sĩ thú y cấp cứu.",
+    "firstAid_step3": "KHÔNG gây nôn trừ khi có chỉ dẫn của chuyên gia.",
+    "firstAid_step4": "Ghi lại chó ăn gì, bao nhiêu, khi nào. Mang theo bao bì nếu có.",
+    "firstAid_step5": "Đưa đến bác sĩ thú y cấp cứu 24h gần nhất nhanh nhất có thể.",
+    "emergencyVets": "Thú Y Cấp Cứu 24h Tại Bay Area",
+    "allAreas": "Tất Cả Khu Vực",
+    "visitWebsite": "Xem Trang Web"
+  },
+  "hikingChecklist": {
+    "title": "Danh Sách Đồ Đi Bộ Với Chó",
+    "subtitle": "Tất cả những gì bạn cần cho một chuyến đi bộ an toàn và vui vẻ với chó.",
+    "home": "Trang Chủ",
+    "learn": "Học Hỏi",
+    "progress": "Đã chuẩn bị {count}/{total}",
+    "reset": "Đặt lại",
+    "item_water_bottle": "Bình nước cho chó",
+    "item_collapsible_bowl": "Bát nước gập được",
+    "item_extra_water": "Nước dự phòng",
+    "item_leash": "Dây dắt (1.8m tiêu chuẩn + dự phòng)",
+    "item_harness": "Dây đai hoặc vòng cổ có thẻ tên",
+    "item_poop_bags": "Túi dọn phân (mang thêm!)",
+    "item_treats": "Phần thưởng huấn luyện và đồ ăn nhẹ",
+    "item_first_aid": "Bộ sơ cứu thú cưng",
+    "item_id_tags": "Thẻ ID và vi chip cập nhật",
+    "item_flea_tick": "Đã phòng bọ chét và ve",
+    "item_paw_balm": "Kem dưỡng chân",
+    "item_towel": "Khăn lau chân bẩn",
+    "item_sunscreen": "Kem chống nắng cho chó lông sáng",
+    "item_booties": "Giày chó cho đường nóng",
+    "item_reflective": "Đồ phản quang",
+    "item_phone_charged": "Điện thoại sạc đầy (khẩn cấp)",
+    "tipsTitle": "Mẹo Chuyên Nghiệp",
+    "tip1": "Kiểm tra quy định dây dắt trước khi đi.",
+    "tip2": "Bắt đầu với quãng đường ngắn cho chó con và chó già.",
+    "tip3": "Tránh đi bộ lúc nắng gắt (10h-16h mùa hè).",
+    "tip4": "Nhường đường cho người đi bộ khác và giữ chó gần trên đường hẹp."
+  },
+  "seasonal": {
+    "spring_title": "Mùa Xuân Đã Đến!",
+    "spring_tip": "Mùa hoa dại. Cẩn thận cỏ gai trên đường mòn. Kiểm tra phòng bọ chét.",
+    "summer_title": "An Toàn Mùa Hè",
+    "summer_tip": "Tránh đi bộ 10h-16h — đường nóng bỏng chân! Chọn bãi biển và đường râm.",
+    "fall_title": "Phiêu Lưu Mùa Thu",
+    "fall_tip": "Thời tiết hoàn hảo! Ngày ngắn dần — mang đồ phản quang.",
+    "winter_title": "Mẹo Mùa Đông",
+    "winter_tip": "Mùa mưa. Mang khăn và kiểm tra đường đóng cửa trước khi đi.",
+    "explore": "Khám Phá Đường Mòn"
+  },
+  "search": {
+    "placeholder": "Tìm đường mòn, nhà hàng, thức ăn...",
+    "hint": "Nhập ít nhất 2 ký tự",
+    "noResults": "Không tìm thấy kết quả.",
+    "escHint": "Nhấn Esc để đóng"
+  }
+}
